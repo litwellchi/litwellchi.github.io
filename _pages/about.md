@@ -173,7 +173,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 - ``CVPR 2023`` [[BEV-SAN: Accurate BEV 3D Object Detection via Slice Attention Networks]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chi_BEV-SAN_Accurate_BEV_3D_Object_Detection_via_Slice_Attention_Networks_CVPR_2023_paper.pdf), Xiaowei Chi, Jiaming Liu, Ming Lu, **Rongyu Zhang**, Zhaoqing Wang, Yandong Guo, Shanghang Zhang
 - ``IEEE IoTJ`` [[FedAB: Truthful Federated Learning with Auction-based Combinatorial Multi-armed Bandit]](https://ieeexplore.ieee.org/abstract/document/10092911), Chenrui Wu, Yifei Zhu, **Rongyu Zhang**, Yun Chen, Fangxin Wang, Shuguang Cui
 ## 📒 Preprints
-- <span style="background-color: #FF69B4; color: white; padding: 2px 5px;">Arxiv 2024</span> [[BEVUDA: Multi-geometric Space Alignments for Domain Adaptive BEV 3D Object Detection]](https://arxiv.org/pdf/2211.17126), Jiaming Liu, **Rongyu Zhang**, Xiaowei Chi, Xiaoqi Li, Ming Lu, Yandong Guo, Shanghang Zhang [![](https://img.shields.io/github/stars/RoyZry98/BEVUDA-Pytorch?style=social)](https://github.com/RoyZry98/BEVUDA-Pytorch)
+- <span style="background-color: #FF1493; color: white; padding: 2px 5px;">Arxiv 2024</span> [[BEVUDA: Multi-geometric Space Alignments for Domain Adaptive BEV 3D Object Detection]](https://arxiv.org/pdf/2211.17126), Jiaming Liu, **Rongyu Zhang**, Xiaowei Chi, Xiaoqi Li, Ming Lu, Yandong Guo, Shanghang Zhang [![](https://img.shields.io/github/stars/RoyZry98/BEVUDA-Pytorch?style=social)](https://github.com/RoyZry98/BEVUDA-Pytorch)
 <br>
 
 # 🥇 Honors and Awards
