@@ -137,9 +137,21 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 - *2024.05*: &nbsp;Honorable Mention of 2024 Mathematical Contest In Modeling
 - *2023.04*: &nbsp;First Prize of 2023 Beijing Jiaotong University Mathematical Modeling Competition
 
-# 📖 Educations
-- *2025.09 - 2028.06*: &nbsp;(Expected) Master of Science at Kuang Yaming Honors School, Nanjing University.
-- *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, Beijing Jiaotong University.
+# 🎓 Educations
+- <img src="images/pku_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Peking University**
+  - (2024.01-Present) Visiting Ph.D. student at HMI lab
+- <img src="images/polyu_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **The Hong Kong Polytechnic University**
+  - (2023.09-Present) Dual Ph.D. in Computing Science
+- <img src="images/nju_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Nanjing University** 
+  - (2023.09-Present) Dual Ph.D. in Electrical Science and Technology 
+- <img src="images/cuhk_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **The Chinese University of Hong Kong, Shenzhen**
+  - (2021.09-2023.03) M.Phil. in Computer and Information Engineering
+- <img src="images/ucb_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **University of California, Berkeley**
+  - (2019.06-2019.08) Visiting student
+- <img src="images/bupt_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Beijing University of Posts and Telecommunications**
+  - (2017.09-2021.06) Dual B.Mang. in E-Commerce Engineering with Law
+- <img src="images/qmul_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Queen Mary University of London**
+  - (2017.09-2021.06) Dual B.Eng. in Electrical Engineering and Computer Sciences
 
 
 # 💻 Internships
