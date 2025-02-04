@@ -40,7 +40,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
   <img src="https://img.shields.io/badge/Google%20Scholar-144%20Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Google Scholar Citations">
 </a></li>
 	<li><a href="https://github.com/RoyZry98" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Stars%20144-9cf?logo=GitHub&labelColor=f6f6f6&style=flat" alt="GitHub Stars">
+  <img src="https://img.shields.io/badge/GitHub-Stars%20144-9cf?logo=GitHub&labelColor=f6f6f6&color=EC707D&logocolor=000000&style=flat" alt="Overall GitHub Stars">
 </a></li>
     </ul>
   </div>
