@@ -157,11 +157,11 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 <br>
 
 # 💻 Internships
-- <img src="images/baai_.png" style="width: 40px;height: auto;display: inline-block;vertical-align: middle"> **Beijing Academy of Artificial Intelligence**
+- **Beijing Academy of Artificial Intelligence**
   - (2024.08-2024.11) Research Intern, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/) 
-- <img src="images/oppo.png" style="width: 40px;height: auto;display: inline-block;vertical-align: middle"> **OPPO Research Institute** 
+- **OPPO Research Institute** 
   - (2022.09-2023.03) Research Intern, supervised by [Dr. Yandong Guo](https://scholar.google.com/citations?user=fWDoWsQAAAAJ&hl=zh-CN) 
-- <img src="images/lenovo_.png" style="width: 40px;height: auto;display: inline-block;vertical-align: middle"> **LENOVO Research Institute**
+- **LENOVO Research Institute**
   - (2020.11-2021.05) Research Intern, supervised by [Prof. Jiangtao Gong](https://scholar.google.com/citations?user=AktmI14AAAAJ&hl=zh-CN&oi=ao)
 
 <br>
