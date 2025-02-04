@@ -90,7 +90,7 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 - **Rongyu Zhang**, Jiaming Liu, Xiaoqi Li, Xiaowei Chi, Dan Wang, Li Du, Yuan Du, Shanghang Shang
 - IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT|CAS-Q1)</strong>, 2025.
 - [[Paper]]([https://arxiv.org/abs/2412.12832](https://ieeexplore.ieee.org/document/10816404)) [[Code]](https://github.com/BEVUDA-Pytorch)
-[**Project**](https://github.com/jxtse/GEC_Metrics_LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | <a href="">Link to paper</a>
+[**Project**](https://github.com/jxtse/GEC_Metrics_LLM) <strong><span class='show_paper_citations' data='rRcc9eoAAAAJ:4JMBOYKVnBMC'></span></strong> | <a href="">[Link to paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=rRcc9eoAAAAJ&citation_for_view=rRcc9eoAAAAJ:4JMBOYKVnBMC)</a>
 </div>
 </div>
 
