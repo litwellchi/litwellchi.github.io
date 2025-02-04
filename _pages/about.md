@@ -51,6 +51,22 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
   </div>
 </div>
 
+# 🎓 Educations
+- <img src="images/pku_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Peking University**
+  - (2024.01-Present) Visiting Ph.D. student at HMI lab
+- <img src="images/polyu_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **The Hong Kong Polytechnic University**
+  - (2023.09-Present) Dual Ph.D. in Computing Science
+- <img src="images/nju_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Nanjing University** 
+  - (2023.09-Present) Dual Ph.D. in Electrical Science and Technology 
+- <img src="images/cuhk_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **The Chinese University of Hong Kong, Shenzhen**
+  - (2021.09-2023.03) M.Phil. in Computer and Information Engineering
+- <img src="images/ucb_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **University of California, Berkeley**
+  - (2019.06-2019.08) Visiting student
+- <img src="images/bupt_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Beijing University of Posts and Telecommunications**
+  - (2017.09-2021.06) Dual B.Mang. in E-Commerce Engineering with Law
+- <img src="images/qmul_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Queen Mary University of London**
+  - (2017.09-2021.06) Dual B.Eng. in Electrical Engineering and Computer Sciences
+
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
@@ -133,25 +149,12 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 </div>
 
 # 🥇 Honors and Awards
-- *2024.08*: &nbsp;Second Prize in the Beijing Trial of the College Student "Innovation, Creativity and Entrepreneurship" Competition
-- *2024.05*: &nbsp;Honorable Mention of 2024 Mathematical Contest In Modeling
-- *2023.04*: &nbsp;First Prize of 2023 Beijing Jiaotong University Mathematical Modeling Competition
-
-# 🎓 Educations
-- <img src="images/pku_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Peking University**
-  - (2024.01-Present) Visiting Ph.D. student at HMI lab
-- <img src="images/polyu_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **The Hong Kong Polytechnic University**
-  - (2023.09-Present) Dual Ph.D. in Computing Science
-- <img src="images/nju_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Nanjing University** 
-  - (2023.09-Present) Dual Ph.D. in Electrical Science and Technology 
-- <img src="images/cuhk_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **The Chinese University of Hong Kong, Shenzhen**
-  - (2021.09-2023.03) M.Phil. in Computer and Information Engineering
-- <img src="images/ucb_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **University of California, Berkeley**
-  - (2019.06-2019.08) Visiting student
-- <img src="images/bupt_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Beijing University of Posts and Telecommunications**
-  - (2017.09-2021.06) Dual B.Mang. in E-Commerce Engineering with Law
-- <img src="images/qmul_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Queen Mary University of London**
-  - (2017.09-2021.06) Dual B.Eng. in Electrical Engineering and Computer Sciences
+- *(2025.09)*: &nbsp;Hong Kong Post-Graduate Scholarship (HKPGS) with 18,840¥/month, PolyU
+- *(2025.01)*: &nbsp;The First “Young Elite Scientist Sponsorship Program (Ph.D.)” with 40,000¥ (Only 3226 candidates were selected), China Association for Science and Technology (CAST)
+- *(2024.12)*: &nbsp;Outstanding Ph.D. Candidate with 2,000¥/year, NJU
+- *(2024.12)*: &nbsp;"Bank of Jiangsu" Scholarship with 5,000¥, NJU
+- *(2024.05)*: &nbsp;Jiangsu Province Graduate Research and Practical Innovation Project “Mixture-of-Activation-Sparsity-Experts for Continuous Test-time Adaptation” with 15,000¥, NJU
+- *(2023.10)*: &nbsp;The 2nd place of the SHIFT Challenge 2023 - Continuous Test-time Adaptation for Semantic Segmentation in the challenges of VCL Workshop with 2,000$, ICCV
 
 
 # 💻 Internships
