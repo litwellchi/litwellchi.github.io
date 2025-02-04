@@ -20,9 +20,6 @@ redirect_from:
 # 👤 Biography
 Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong Kong Polytechnic University, where he is co-supervised by [Prof. Yuan Du](https://iscl.nju.edu.cn/42925/list.htm) and [Prof. Dan Wang](https://www4.comp.polyu.edu.hk/~csdwang/). He is now a visiting student at Peking University under the supervision of [Prof. Shanghang Zhang](https://iscl.nju.edu.cn/42925/list.htm). Previously, he received the M.Phil. degree from The Chinese University of Hong Kong, Shenzhen, supervised by [Prof. Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/). He has published more than 10 papers in top conference journals such as CVPR, AAAI, TMC, and TCSVT, etc.
 
-<br>
-<br>
-
 <div class="highlight-blocks">
   <div class="highlight-block">
     <h3>🔬 AI Researcher</h3>
@@ -52,7 +49,6 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 </div>
 
 <br>
-<br>
 
 # 🎓 Educations
 - <img src="images/polyu_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **The Hong Kong Polytechnic University** (2023.09-Present) Dual Ph.D. in Computing Science
@@ -61,7 +57,6 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 - <img src="images/bupt_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Beijing University of Posts and Telecommunications** (2017.09-2021.06) Dual B.Mang. in E-Commerce Engineering with Law
 - <img src="images/qmul_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Queen Mary University of London** (2017.09-2021.06) Dual B.Eng. in Electrical Engineering and Computer Sciences
 
-<br>
 <br>
 
 # 🔥 News
@@ -95,7 +90,6 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 	  </div>
 	</div>
  
-<br>
 <br>
 
 # 📝 Publications 
@@ -149,7 +143,6 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 </div>
 
 <br>
-<br>
 
 # 🥇 Honors and Awards
 - *(2025.09)*: &nbsp;Hong Kong Post-Graduate Scholarship (HKPGS) with 18,840¥/month, PolyU
@@ -159,8 +152,6 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 - *(2024.05)*: &nbsp;Jiangsu Province Graduate Research and Practical Innovation Project “Mixture-of-Activation-Sparsity-Experts for Continuous Test-time Adaptation” with 15,000¥, NJU
 - *(2023.10)*: &nbsp;The 2nd place of the SHIFT Challenge 2023 - Continuous Test-time Adaptation for Semantic Segmentation in the challenges of VCL Workshop with 2,000$, ICCV
 
-
-<br>
 <br>
 
 # 💻 Internships
@@ -170,6 +161,8 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
   - (2022.09-2023.03) Research Intern, supervised by [Dr. Yandong Guo](https://scholar.google.com/citations?user=fWDoWsQAAAAJ&hl=zh-CN) 
 - <img src="images/lenovo_.png" style="width: 40px;height: auto;display: inline-block;vertical-align: middle"> **LENOVO Research Institute**
   - (2020.11-2021.05) Research Intern, supervised by [Prof. Jiangtao Gong](https://scholar.google.com/citations?user=AktmI14AAAAJ&hl=zh-CN&oi=ao)
+
+<br>
 
 <!-- <div style="text-align: center;"> -->
 <div style="width: 15%; position:relative; left:40%">
