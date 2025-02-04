@@ -46,7 +46,7 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
     <ul>
       <li><strong>🌍 Address:</strong> <a href="https://www.google.com/maps/search/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%90%86%E7%A7%91%E4%BA%8C%E5%8F%B7%E6%A5%BC/@39.990772,116.3112251,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D">Room 2728, Science Building No. 2, Peking University, Beijing, China</a></li>
       <li><strong>📱 Phone:</strong> +(86) 188-1305-1303</li>
-      <li>Rich experience in social work & activities</li>
+      <li><strong>📮 Email:</strong> <email> rongyu.zhang@connect.polyu.hk</email></li>
     </ul>
   </div>
 </div>
