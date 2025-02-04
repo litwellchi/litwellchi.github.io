@@ -164,7 +164,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 </div>
 </div>
 
-- ``AAAI 2025`` [PAT: Pruning-Aware Tuning for Large Language Models](https://arxiv.org/abs/2006.04558), Yijiang Liu, Huanrui Yang, Youxin Chen, **Rongyu Zhang**, et al. [[Code] ![](https://img.shields.io/github/stars/kriskrisliu/PAT?style=social)](https://github.com/kriskrisliu/PAT)
+- ``AAAI 2025`` [PAT: Pruning-Aware Tuning for Large Language Models](https://arxiv.org/abs/2006.04558), Yijiang Liu, Huanrui Yang, Youxin Chen, **Rongyu Zhang**, Miao Wang, Yuan Du, Li Du [ ![](https://img.shields.io/github/stars/kriskrisliu/PAT?style=social)](https://github.com/kriskrisliu/PAT)
 - ``ICRA 2024`` [BEVUDA: Multi-geometric Space Alignments for Domain Adaptive BEV 3D Object Detection](https://arxiv.org/pdf/2211.17126), Jiaming Liu, **Rongyu Zhang**, Xiaowei Chi, Xiaoqi Li, et al. [[Code] ![](https://img.shields.io/github/stars/RoyZry98/BEVUDA-Pytorch?style=social)](https://github.com/RoyZry98/BEVUDA-Pytorch)
 - ``IEEE Network`` [Optimizing Efficient Personalized Federated Learning with Hypernetworks at Edge](https://arxiv.org/pdf/2211.17126), **Rongyu Zhang**, Yun Chen, Chenrui Wu, Fangxin Wang, Jiangchuan Liu
 - ``ICME 2023`` [Cluster-driven GNN-based Federated Recommendation System with Biased Message Dropout](https://ieeexplore.ieee.org/abstract/document/10219619), **Rongyu Zhang**, Yun Chen, Chenrui Wu, Fangxin Wang
