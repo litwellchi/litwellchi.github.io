@@ -52,15 +52,15 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 </div>
 
 # 🎓 Educations
-- <img src="images/pku_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Peking University**
+- <img src="images/pku_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Peking University**
   - (2024.01-Present) Visiting Ph.D. student at HMI lab
-- <img src="images/polyu_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **The Hong Kong Polytechnic University**
+- <img src="images/polyu_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **The Hong Kong Polytechnic University**
   - (2023.09-Present) Dual Ph.D. in Computing Science
-- <img src="images/nju_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Nanjing University** 
+- <img src="images/nju_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Nanjing University** 
   - (2023.09-Present) Dual Ph.D. in Electrical Science and Technology 
-- <img src="images/cuhk_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **The Chinese University of Hong Kong, Shenzhen**
+- <img src="images/cuhk_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **The Chinese University of Hong Kong, Shenzhen**
   - (2021.09-2023.03) M.Phil. in Computer and Information Engineering
-- <img src="images/bupt_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Beijing University of Posts and Telecommunications**
+- <img src="images/bupt_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Beijing University of Posts and Telecommunications**
   - (2017.09-2021.06) Dual B.Mang. in E-Commerce Engineering with Law
 
 # 🔥 News
