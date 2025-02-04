@@ -46,7 +46,7 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
     <ul>
       <li><strong>Address:</strong> <a href="https://www.google.com/maps/search/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%90%86%E7%A7%91%E4%BA%8C%E5%8F%B7%E6%A5%BC/@39.990772,116.3112251,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D">Room 2728, Science Building No. 2, Peking University, Beijing, China</a></li>
       <li><strong>Phone:</strong> +(86) 188-1305-1303</li>
-      <li><strong>Email:</strong> <email> rongyu.zhang@connect.polyu.hk</email></li>
+      <li><strong>Email:</strong> <email>royz981203@hotmail.com</email></li>
     </ul>
   </div>
 </div>
@@ -56,9 +56,9 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 - <img src="images/polyu_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **The Hong Kong Polytechnic University** (2023.09-Present) Dual Ph.D. in Computing Science
 - <img src="images/nju_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Nanjing University** (2023.09-Present) Dual Ph.D. in Electrical Science and Technology 
 - <img src="images/cuhk_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **The Chinese University of Hong Kong, Shenzhen** (2021.09-2023.03) M.Phil. in Computer and Information Engineering
-- <img src="assets/img/ucb_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **University of California, Berkeley** (2019.06-2019.08) Visiting student
+- <img src="images/ucb_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **University of California, Berkeley** (2019.06-2019.08) Visiting student
 - <img src="images/bupt_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Beijing University of Posts and Telecommunications** (2017.09-2021.06) Dual B.Mang. in E-Commerce Engineering with Law
-- <img src="assets/img/qmul_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Queen Mary University of London** (2017.09-2021.06) Dual B.Eng. in Electrical Engineering and Computer Sciences
+- <img src="images/qmul_.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Queen Mary University of London** (2017.09-2021.06) Dual B.Eng. in Electrical Engineering and Computer Sciences
 
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
