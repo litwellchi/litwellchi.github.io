@@ -155,7 +155,7 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
   - (2020.11-2021.05) Research Intern, supervised by [Prof. Jiangtao Gong](https://scholar.google.com/citations?user=AktmI14AAAAJ&hl=zh-CN&oi=ao)
 
 <!-- <div style="text-align: center;"> -->
-<div style="width: 20%; position:relative; left:40%">
+<div style="width: 10%; position:relative; left:40%">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=TexC6zB_7AOUKNMMshe4U4igIY-rca8pyS5kiQ7N6C8"></script>
     <!-- 地图小部件代码结束 -->
 </div>
