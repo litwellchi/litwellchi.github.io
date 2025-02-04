@@ -107,7 +107,7 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC'2025</div><img src='images/tmc_repcam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC'2025</div><img src='images/tmc_utmp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Unimodal Training-Multimodal Prediction: Cross-modal Federated Learning with Hierarchical Aggregation**
