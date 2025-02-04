@@ -85,14 +85,14 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
  
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Example_page-0001.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/tcsvt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**DSGram: Dynamic Weighting Sub-Metrics for Grammartical Error Correction in the Era of Large Language Models**
+**BEVUDA++: Geometric-aware Unsupervised Domain Adaptation for Multi-View 3D Object Detection**
 
 - **Jinxiang Xie**, Yilin Li, Xunjian Yin, Xiaojun Wan
-- In The 39th Annual AAAI Conference on Artificial Intelligence
-- [[Arxiv]](https://arxiv.org/abs/2412.12832) [[Code]](https://github.com/jxtse/GEC-Metrics-DSGram)
+- IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT|CAS-Q1)</strong>, 2025.
+- [[Paper]]([https://arxiv.org/abs/2412.12832](https://ieeexplore.ieee.org/document/10816404)) [[Code]](https://github.com/BEVUDA-Pytorch)
 <!-- [**Project**](https://github.com/jxtse/GEC_Metrics_LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | <a href="">Link to paper</a> -->
 </div>
 </div>
