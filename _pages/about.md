@@ -196,3 +196,42 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 - **Beijing Academy of Artificial Intelligence** (2024.08-2024.11) Research Intern, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/) 
 - **OPPO Research Institute** (2022.09-2023.03) Research Intern, supervised by [Dr. Yandong Guo](https://scholar.google.com/citations?user=fWDoWsQAAAAJ&hl=zh-CN) 
 - **LENOVO Research Institute** (2020.11-2021.05) Research Intern, supervised by [Prof. Jiangtao Gong](https://scholar.google.com/citations?user=AktmI14AAAAJ&hl=zh-CN&oi=ao)
+
+<br>
+
+<span class='anchor' id='about-me'></span>
+
+# 👤 Biography
+Rongyu is a second-year dual Ph.D. candidate at **Nanjing University** and **The Hong Kong Polytechnic University**, where he is co-supervised by [Prof. Yuan Du](https://iscl.nju.edu.cn/42925/list.htm) and [Prof. Dan Wang](https://www4.comp.polyu.edu.hk/~csdwang/). He is now a visiting student at **Peking University** under the supervision of [Prof. Shanghang Zhang](https://www.shanghangzhang.com). Previously, he received the M.Phil. degree from **The Chinese University of Hong Kong, Shenzhen**, supervised by [Prof. Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/), the B.Mang. and B.Eng. degree from the joint program of **Beijing University of Posts and Telecommunications** and **Queen Mary University of London**. He has published more than 10 papers in top conference journals such as CVPR, AAAI, TMC, and TCSVT, etc.
+
+Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
+
+<div class="highlight-blocks">
+  <div class="highlight-block">
+    <h3>🔬 AI Researcher</h3>
+    <ul>
+      <li>Research focus on <strong>efficient</strong> and <strong>generalization</strong> learning</li>
+      <li>Efficient: Dynamic Neural Networks</li>
+      <li>Multimodal Generalization: Embodied AI, Autonomous Driving</li>
+    </ul>
+  </div>
+  
+  <div class="highlight-block">
+    <h3>✍️ Given Credits</h3>
+    <ul>
+      <li><strong>First</strong> China Association for Science and Technology “<strong>Young Elite Scientist Sponsorship Program (Ph.D.)</strong>”, 2025-2027</li>
+      <li><a href="https://scholar.google.com/citations?user=rRcc9eoAAAAJ&hl=zh-CN" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Scholar-144%20Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Google Scholar Citations">
+</a></li>
+    </ul>
+  </div>
+  
+  <div class="highlight-block">
+    <h3>☎️ Contact Info</h3>
+    <ul>
+      <li><strong>Address:</strong> <a href="https://www.google.com/maps/search/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%90%86%E7%A7%91%E4%BA%8C%E5%8F%B7%E6%A5%BC/@39.990772,116.3112251,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D">Room 2728, Science Building No. 2, Peking University, Beijing, China</a></li>
+      <li><strong>Phone:</strong> +(86) 188-1305-1303</li>
+      <li><strong>Email:</strong> <email>royz981203@hotmail.com</email></li>
+    </ul>
+  </div>
+</div>
