@@ -155,9 +155,12 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 
 
 # 💻 Internships
-- *2024.08 - Present*: &nbsp;Research Intern, [Data, Knowledge and Intelligence (DKI) Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), **Microsoft**.
-- *2023.11 - 2024.08*: &nbsp;Research Intern, [Wangxuan Institute of Computer Technology](https://sai.pku.edu.cn/znxyenglish/), **Peking University**.
-- *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, [School of Computer](https://www.comp.nus.edu.sg/), **National University of Singapore**.
+- <img src="images/baai_.png" style="width: 40px;height: auto;display: inline-block;vertical-align: middle"> **Beijing Academy of Artificial Intelligence**
+  - (2024.08-2024.11) Research Intern, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/) 
+- <img src="images/oppo.png" style="width: 40px;height: auto;display: inline-block;vertical-align: middle"> **OPPO Research Institute** 
+  - (2022.09-2023.03) Research Intern, supervised by [Dr. Yandong Guo](https://scholar.google.com/citations?user=fWDoWsQAAAAJ&hl=zh-CN) 
+- <img src="images/lenovo_.png" style="width: 40px;height: auto;display: inline-block;vertical-align: middle"> **LENOVO Research Institute**
+  - (2020.11-2021.05) Research Intern, supervised by [Prof. Jiangtao Gong](https://scholar.google.com/citations?user=AktmI14AAAAJ&hl=zh-CN&oi=ao)
 
 </div>
 </div>
