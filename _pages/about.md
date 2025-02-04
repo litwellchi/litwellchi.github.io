@@ -204,30 +204,26 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 # 😄 Miscellaneous
 <div class="highlight-blocks">
   <div class="highlight-block">
-    <h3>🔬 AI Researcher</h3>
+    <h3>❤️ Family</h3>
     <ul>
-      <li><img src="images/qiaoqiao.jpg" alt="Research Image" style="max-width: 100%; height: auto;"></li>
-      <li>Efficient: Dynamic Neural Networks</li>
-      <li>Multimodal Generalization: Embodied AI, Autonomous Driving</li>
+      <img src="images/qiaoqiao.jpg" alt="Research Image" style="max-width: 80%; height: auto;">
+      <li>I have a beautiful girlfriend, <a href='https://scholar.google.com/citations?user=G_BypiwAAAAJ&hl=zh-CN&oi=ao'>Ziqi Qiao</a>, who is also a Ph.D. student at Peking University. We also own an adorable cat 🐱 named QiuQiu. He brings us tremendous fun and happiness.</li>
     </ul>
   </div>
   
   <div class="highlight-block">
-    <h3>✍️ Given Credits</h3>
+    <h3>🧑‍🤝‍🧑 Friends</h3>
     <ul>
-      <li><strong>First</strong> China Association for Science and Technology “<strong>Young Elite Scientist Sponsorship Program (Ph.D.)</strong>”, 2025-2027</li>
-      <li><a href="https://scholar.google.com/citations?user=rRcc9eoAAAAJ&hl=zh-CN" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Scholar-144%20Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Google Scholar Citations">
-</a></li>
+	<img src="images/friends.png" alt="Research Image" style="max-width: 80%; height: auto;">
+      <li>Here are some of my closest academic friends: <a href='https://liujiaming1996.github.io/'>Jiaming Liu</a>, <a href='https://scholar.google.com/citations?user=SgeV4NkAAAAJ&hl=zh-CN&oi=ao'>Yulin Luo</a>, <a href='https://gumpest.github.io/'>Yuan Zhang</a>, and Gaole Dai from PKU; <a href='https://scholar.google.com/citations?hl=zh-CN&user=Vl1X_-sAAAAJ'>Xiaowei Chi</a> from HKUST; <a href='https://wuchenrui.github.io/'>Chenrui Wu</a> from ZJU&SFU; <a href='https://yilijin.github.io/'>Yili Jin</a> from McGill.</li>
     </ul>
   </div>
   
   <div class="highlight-block">
-    <h3>☎️ Contact Info</h3>
+    <h3>😄 Hobbies</h3>
     <ul>
-      <li><strong>Address:</strong> <a href="https://www.google.com/maps/search/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%90%86%E7%A7%91%E4%BA%8C%E5%8F%B7%E6%A5%BC/@39.990772,116.3112251,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D">Room 2728, Science Building No. 2, Peking University, Beijing, China</a></li>
-      <li><strong>Phone:</strong> +(86) 188-1305-1303</li>
-      <li><strong>Email:</strong> <email>royz981203@hotmail.com</email></li>
+	<img src="images/sports.jpg" alt="Research Image" style="max-width: 80%; height: auto;">
+      <li>I am a crazy basketball 🏀 & football ⚽️ fan. I enjoy the games of Kevin Durant 🕷️ and Kyrie Irving 🧙. I also wholeheartedly pledge my allegiance to Chelsea Football Club, KTBFFH! 💙</li>
     </ul>
   </div>
 </div>
