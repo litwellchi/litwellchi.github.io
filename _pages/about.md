@@ -206,7 +206,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
   <div class="highlight-block">
     <h3>❤️ Family</h3>
     <ul>
-      <img src="images/qiaoqiao.jpg" alt="Research Image" style="max-width: 80%; height: auto;">
+      <img src="images/qiaoqiao.jpg" alt="Research Image" style="display: block; margin: auto; max-width: 80%; height: auto;">
       <li>I have a beautiful girlfriend, <a href='https://scholar.google.com/citations?user=G_BypiwAAAAJ&hl=zh-CN&oi=ao'>Ziqi Qiao</a>, who is also a Ph.D. student at Peking University. We also own an adorable cat 🐱 named QiuQiu. He brings us tremendous fun and happiness.</li>
     </ul>
   </div>
@@ -214,7 +214,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
   <div class="highlight-block">
     <h3>🧑‍🤝‍🧑 Friends</h3>
     <ul>
-	<img src="images/friends.png" alt="Research Image" style="max-width: 80%; height: auto;">
+	<img src="images/friends.png" alt="Research Image" style="display: block; margin: auto; max-width: 80%; height: auto;">
       <li>Here are some of my closest academic friends: <a href='https://liujiaming1996.github.io/'>Jiaming Liu</a>, <a href='https://scholar.google.com/citations?user=SgeV4NkAAAAJ&hl=zh-CN&oi=ao'>Yulin Luo</a>, <a href='https://gumpest.github.io/'>Yuan Zhang</a>, and Gaole Dai from PKU; <a href='https://scholar.google.com/citations?hl=zh-CN&user=Vl1X_-sAAAAJ'>Xiaowei Chi</a> from HKUST; <a href='https://wuchenrui.github.io/'>Chenrui Wu</a> from ZJU&SFU; <a href='https://yilijin.github.io/'>Yili Jin</a> from McGill.</li>
     </ul>
   </div>
@@ -222,7 +222,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
   <div class="highlight-block">
     <h3>😄 Hobbies</h3>
     <ul>
-	<img src="images/sports.jpg" alt="Research Image" style="max-width: 80%; height: auto;">
+	<img src="images/sport.jpg" alt="Research Image" style="display: block; margin: auto; max-width: 80%; height: auto;">
       <li>I am a crazy basketball 🏀 & football ⚽️ fan. I enjoy the games of Kevin Durant 🕷️ and Kyrie Irving 🧙. I also wholeheartedly pledge my allegiance to Chelsea Football Club, KTBFFH! 💙</li>
     </ul>
   </div>
