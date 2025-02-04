@@ -34,7 +34,9 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
     <h3>✍️ Given Credits</h3>
     <ul>
       <li><strong>First</strong> China Association for Science and Technology “<strong>Young Elite Scientist Sponsorship Program (Ph.D.)</strong>”, 2025-2027</li>
-      <li><a href='https://scholar.google.com/citations?user=rRcc9eoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a></li>
+      <li><a href="https://scholar.google.com/citations?user=rRcc9eoAAAAJ&hl=zh-CN" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Scholar-144%20Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Google Scholar Citations">
+</a></li>
     </ul>
   </div>
   
