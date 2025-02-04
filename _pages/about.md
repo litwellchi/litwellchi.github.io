@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 Bio
-Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong Kong Polytechnic University, where he is co-supervised by [Prof. Yuan Du](https://iscl.nju.edu.cn/42925/list.htm) and [Prof. Dan Wang](https://www4.comp.polyu.edu.hk/~csdwang/). He is now a visiting student at Peking University under the supervision of [Prof. Shanghang Zhang](https://iscl.nju.edu.cn/42925/list.htm). Previously, he received the M.Phil. degree from The Chinese University of Hong Kong, Shenzhen, supervised by [Prof. Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/). He has published more than 10 papers in top conference journals such as CVPR, AAAI, TMC, and TCSVT, etc.
+Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong Kong Polytechnic University, where he is co-supervised by [Prof. Yuan Du](https://iscl.nju.edu.cn/42925/list.htm) and [Prof. Dan Wang](https://www4.comp.polyu.edu.hk/~csdwang/). He is now a visiting student at Peking University under the supervision of [Prof. Shanghang Zhang](https://iscl.nju.edu.cn/42925/list.htm). Previously, he received the M.Phil. degree from The Chinese University of Hong Kong, Shenzhen, supervised by [Prof. Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/). He has published more than 10 papers in top conference journals such as CVPR, AAAI, TMC, and TCSVT, etc. [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io)
 
 
 <div class="highlight-blocks">
@@ -44,9 +44,9 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
   <div class="highlight-block">
     <h3>☎️ Contact Info</h3>
     <ul>
-      <li><strong>🌍 Address:</strong> <a href="https://www.google.com/maps/search/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%90%86%E7%A7%91%E4%BA%8C%E5%8F%B7%E6%A5%BC/@39.990772,116.3112251,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D">Room 2728, Science Building No. 2, Peking University, Beijing, China</a></li>
-      <li><strong>📱 Phone:</strong> +(86) 188-1305-1303</li>
-      <li><strong>📮 Email:</strong> <email> rongyu.zhang@connect.polyu.hk</email></li>
+      <li><strong>Address:</strong> <a href="https://www.google.com/maps/search/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%90%86%E7%A7%91%E4%BA%8C%E5%8F%B7%E6%A5%BC/@39.990772,116.3112251,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D">Room 2728, Science Building No. 2, Peking University, Beijing, China</a></li>
+      <li><strong>Phone:</strong> +(86) 188-1305-1303</li>
+      <li><strong>Email:</strong> <email> rongyu.zhang@connect.polyu.hk</email></li>
     </ul>
   </div>
 </div>
