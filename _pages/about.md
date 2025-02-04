@@ -52,8 +52,7 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 </div>
 
 # 🎓 Educations
-- <img src="images/pku_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Peking University**
-  - (2024.01-Present) Visiting Ph.D. student at HMI lab
+- <img src="images/pku_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Peking University** (2024.01-Present) Visiting Ph.D. student
 - <img src="images/polyu_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **The Hong Kong Polytechnic University**
   - (2023.09-Present) Dual Ph.D. in Computing Science
 - <img src="images/nju_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Nanjing University** 
