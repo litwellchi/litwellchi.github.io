@@ -82,7 +82,7 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
  
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/tcsvt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/Example_page-0001.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **BEVUDA++: Geometric-aware Unsupervised Domain Adaptation for Multi-View 3D Object Detection**
