@@ -51,7 +51,7 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
-	  <div style="height:300px; width:100%; overflow:auto;">
+	  <div style="height:200px; width:100%; overflow:auto;">
 	    <h4>📌 We have several academic intern positions at HMI Lab (Peking University). We actively work on AI4Science and Embodied AI. If you like what we do, don't hesitate to contact me.</h4>
 	    <p>[01.2025] 📚 I am selected for the First China Association for Science and Technology “<strong>Young Elite Scientist Sponsorship Program (Ph.D.)</strong>”, 2025-2027.</p>
 	    <p>[12.2024] 🎉 One paper <strong>BEVUDA++</strong> was accepted by <strong>Transaction on Curcuits Systems and Video Technology</strong> (CAS-Q1) as first author.</p>
@@ -82,7 +82,7 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
  
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/Example_page-0001.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/tcsvt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **BEVUDA++: Geometric-aware Unsupervised Domain Adaptation for Multi-View 3D Object Detection**
