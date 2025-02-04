@@ -20,6 +20,8 @@ redirect_from:
 # 👤 Biography
 Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong Kong Polytechnic University, where he is co-supervised by [Prof. Yuan Du](https://iscl.nju.edu.cn/42925/list.htm) and [Prof. Dan Wang](https://www4.comp.polyu.edu.hk/~csdwang/). He is now a visiting student at Peking University under the supervision of [Prof. Shanghang Zhang](https://iscl.nju.edu.cn/42925/list.htm). Previously, he received the M.Phil. degree from The Chinese University of Hong Kong, Shenzhen, supervised by [Prof. Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/). He has published more than 10 papers in top conference journals such as CVPR, AAAI, TMC, and TCSVT, etc.
 
+<br>
+<br>
 
 <div class="highlight-blocks">
   <div class="highlight-block">
@@ -49,12 +51,18 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
   </div>
 </div>
 
+<br>
+<br>
+
 # 🎓 Educations
 - <img src="images/polyu_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **The Hong Kong Polytechnic University** (2023.09-Present) Dual Ph.D. in Computing Science
 - <img src="images/nju_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Nanjing University** (2023.09-Present) Dual Ph.D. in Electrical Science and Technology 
 - <img src="images/cuhk_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **The Chinese University of Hong Kong, Shenzhen** (2021.09-2023.03) M.Phil. in Computer and Information Engineering
 - <img src="images/bupt_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Beijing University of Posts and Telecommunications** (2017.09-2021.06) Dual B.Mang. in E-Commerce Engineering with Law
 - <img src="images/qmul_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Queen Mary University of London** (2017.09-2021.06) Dual B.Eng. in Electrical Engineering and Computer Sciences
+
+<br>
+<br>
 
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
@@ -87,6 +95,9 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 	  </div>
 	</div>
  
+<br>
+<br>
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT'2025</div><img src='images/tcsvt.png' alt="sym" width="100%"></div></div>
@@ -137,6 +148,9 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 </div>
 </div>
 
+<br>
+<br>
+
 # 🥇 Honors and Awards
 - *(2025.09)*: &nbsp;Hong Kong Post-Graduate Scholarship (HKPGS) with 18,840¥/month, PolyU
 - *(2025.01)*: &nbsp;The First “Young Elite Scientist Sponsorship Program (Ph.D.)” with 40,000¥ (Only 3226 candidates were selected), China Association for Science and Technology (CAST)
@@ -145,6 +159,9 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 - *(2024.05)*: &nbsp;Jiangsu Province Graduate Research and Practical Innovation Project “Mixture-of-Activation-Sparsity-Experts for Continuous Test-time Adaptation” with 15,000¥, NJU
 - *(2023.10)*: &nbsp;The 2nd place of the SHIFT Challenge 2023 - Continuous Test-time Adaptation for Semantic Segmentation in the challenges of VCL Workshop with 2,000$, ICCV
 
+
+<br>
+<br>
 
 # 💻 Internships
 - <img src="images/baai_.png" style="width: 40px;height: auto;display: inline-block;vertical-align: middle"> **Beijing Academy of Artificial Intelligence**
@@ -155,7 +172,7 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
   - (2020.11-2021.05) Research Intern, supervised by [Prof. Jiangtao Gong](https://scholar.google.com/citations?user=AktmI14AAAAJ&hl=zh-CN&oi=ao)
 
 <!-- <div style="text-align: center;"> -->
-<div style="width: 10%; position:relative; left:40%">
+<div style="width: 15%; position:relative; left:40%">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=TexC6zB_7AOUKNMMshe4U4igIY-rca8pyS5kiQ7N6C8"></script>
     <!-- 地图小部件代码结束 -->
 </div>
