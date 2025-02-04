@@ -103,7 +103,7 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 
 - **Rongyu Zhang**, Jiaming Liu, Xiaoqi Li, Xiaowei Chi, Dan Wang, Li Du, Yuan Du, Shanghang Shang
 - IEEE Transactions on Circuits and Systems for Video Technology <br><strong>(TCSVT|CAS-Q1)</strong>, 2025.
-- [[Paper]](https://ieeexplore.ieee.org/document/10816404) [[Code]](https://github.com/RoyZry98/BEVUDA-Pytorch) [[Code] ![](https://img.shields.io/github/stars/RoyZry98/MoASE-Pytorch?style=social)](https://github.com/RoyZry98/MoASE-Pytorch)
+- [[Paper]](https://ieeexplore.ieee.org/document/10816404) [[Code] ![](https://img.shields.io/github/stars/RoyZry98/BEVUDA-Pytorch?style=social)](https://github.com/RoyZry98/BEVUDA-Pytorch)
 </div>
 </div>
 
@@ -114,7 +114,7 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 
 - **Rongyu Zhang**, Zefan Cai, Huanrui Yang, Zidong Liu, Denis Gudovskiy, Tomoyuki Okuno, Yohei Nakata, Kurt Keutzer, Baobao Chang, Yuan Du, Li Du, Shanghang Zhang
 - ACM International Conference on Multimedia <br><strong>(MM|CCF-A)</strong>, 2024.
-- [[Paper]](https://arxiv.org/pdf/2401.07853) [[Code]](https://github.com/RoyZry98/VeCAF-Pytorch)
+- [[Paper]](https://arxiv.org/pdf/2401.07853) [[Code] ![](https://img.shields.io/github/stars/RoyZry98/VeCAF-Pytorch?style=social)](https://github.com/RoyZry98/VeCAF-Pytorch)
 </div>
 </div>
 
@@ -136,7 +136,7 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 
 - **Rongyu Zhang**, Yulin Luo, Jiaming Liu, Huanrui Yang, Zhen Dong, Denis Gudovskiy, Tomoyuki Okuno, Yohei Nakata, Kurt Keutzer, Yuan Du, Shanghang Zhang
 - The 38th AAAI Conference on Artificial Intelligence <br><strong>(AAAI|CCF-A)</strong>, 2024.
-- [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/29622/31055) [[Code]](https://github.com/RoyZry98/MoFME-Pytorch)
+- [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/29622/31055) [[Code] ![](https://img.shields.io/github/stars/RoyZry98/MoFME-Pytorch?style=social)](https://github.com/RoyZry98/MoFME-Pytorch)
 </div>
 </div>
 
