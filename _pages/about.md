@@ -222,7 +222,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
   <div class="highlight-block">
     <h3>😄 Hobbies</h3>
     <ul>
-	<img src="images/football.png" alt="hobby Image" style="display: block; margin: auto; max-width: 100%; height: auto;">
+	<img src="images/football_new.png" alt="hobby Image" style="display: block; margin: auto; max-width: 100%; height: auto;">
       <li>I am a crazy basketball 🏀 & football ⚽️ fan. I enjoy the games of Kevin Durant 🕷️ and Kyrie Irving 🧙. I also wholeheartedly pledge my allegiance to Chelsea Football Club, KTBFFH! 💙</li>
     </ul>
   </div>
