@@ -199,42 +199,6 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 
 <br>
 
-<div class="highlight-blocks">
-  <div class="highlight-block">
-    <h3>🔬 AI Researcher</h3>
-    <ul>
-      <li>
-        <!-- 插入图片 -->
-        <img src="images/qiaoqiao.png" alt="Research Image" style="max-width: 100%; height: auto;">
-      </li>
-      <li>Efficient: Dynamic Neural Networks</li>
-      <li>Multimodal Generalization: Embodied AI, Autonomous Driving</li>
-    </ul>
-  </div>
-</div>
-  
-  <div class="highlight-block">
-    <h3>✍️ Given Credits</h3>
-    <ul>
-      <li><strong>First</strong> China Association for Science and Technology “<strong>Young Elite Scientist Sponsorship Program (Ph.D.)</strong>”, 2025-2027</li>
-      <li><a href="https://scholar.google.com/citations?user=rRcc9eoAAAAJ&hl=zh-CN" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Scholar-144%20Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Google Scholar Citations">
-</a></li>
-    </ul>
-  </div>
-  
-  <div class="highlight-block">
-    <h3>☎️ Contact Info</h3>
-    <ul>
-      <li><strong>Address:</strong> <a href="https://www.google.com/maps/search/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%90%86%E7%A7%91%E4%BA%8C%E5%8F%B7%E6%A5%BC/@39.990772,116.3112251,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D">Room 2728, Science Building No. 2, Peking University, Beijing, China</a></li>
-      <li><strong>Phone:</strong> +(86) 188-1305-1303</li>
-      <li><strong>Email:</strong> <email>royz981203@hotmail.com</email></li>
-    </ul>
-  </div>
-</div>
-
-<br>
-
 <!-- <div style="text-align: center;"> -->
 <div style="width: 15%; position:relative; left:40%">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=TexC6zB_7AOUKNMMshe4U4igIY-rca8pyS5kiQ7N6C8"></script>
