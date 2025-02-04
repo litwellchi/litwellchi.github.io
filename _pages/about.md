@@ -192,7 +192,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 
 <br>
 
-# 💻 Internships
+# 💼 Internships
 - **Beijing Academy of Artificial Intelligence** (2024.08-2024.11) Research Intern, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/) 
 - **OPPO Research Institute** (2022.09-2023.03) Research Intern, supervised by [Dr. Yandong Guo](https://scholar.google.com/citations?user=fWDoWsQAAAAJ&hl=zh-CN) 
 - **LENOVO Research Institute** (2020.11-2021.05) Research Intern, supervised by [Prof. Jiangtao Gong](https://scholar.google.com/citations?user=AktmI14AAAAJ&hl=zh-CN&oi=ao)
@@ -201,11 +201,12 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 
 <span class='anchor' id='miscellaneous'></span>
 
+# 😄 Miscellaneous
 <div class="highlight-blocks">
   <div class="highlight-block">
     <h3>🔬 AI Researcher</h3>
     <ul>
-      <li>Research focus on <strong>efficient</strong> and <strong>generalization</strong> learning</li>
+      <li><img src="images/qiaoqiao.jpg" alt="Research Image" style="max-width: 100%; height: auto;"></li>
       <li>Efficient: Dynamic Neural Networks</li>
       <li>Multimodal Generalization: Embodied AI, Autonomous Driving</li>
     </ul>
