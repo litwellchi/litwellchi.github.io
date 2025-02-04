@@ -50,9 +50,6 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 </div>
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). See you in Philadelphia!
-- *2024.09*: &nbsp;I was admitted to the 25 Fall graduate program at Kuang Yaming Honors School, Nanjing University.
-- *2024.08*: &nbsp;I have joined Microsoft as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:300px; width:100%; overflow:auto;">
 	    <h4>📌 We have several academic intern positions at HMI Lab (Peking University). We actively work on AI4Science and Embodied AI. If you like what we do, don't hesitate to contact me.</h4>
