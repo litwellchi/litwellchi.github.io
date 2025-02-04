@@ -165,5 +165,3 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
 - <img src="images/lenovo_.png" style="width: 40px;height: auto;display: inline-block;vertical-align: middle"> **LENOVO Research Institute**
   - (2020.11-2021.05) Research Intern, supervised by [Prof. Jiangtao Gong](https://scholar.google.com/citations?user=AktmI14AAAAJ&hl=zh-CN&oi=ao)
 
-</div>
-</div>
