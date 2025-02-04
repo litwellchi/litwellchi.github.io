@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jinxiang Xie"
+title                    : "Rongyu Zhang"
 description              : "Majoring in Information and Computing Science."
-repository               : "jxtse/jxtse.github.io"
+repository               : "RoyZry98/RoyZry98.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jinxiang Xie"
-  avatar           : "images/android-chrome-512x512.jpg"
-  bio              : "Beijing Jiaotong University"
+  name             : "Rongyu Zhang"
+  avatar           : "images/rongyu.png"
+  bio              : "NJU & PolyU"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=00fFhxQAAAAJ"
-  email            : "jxTse@outlook.com"
+  googlescholar    : "https://scholar.google.com/citations?user=rRcc9eoAAAAJ"
+  email            : "rongyuzhang@smail.nju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jxtse"
+  github           : "RoyZry98"
   google_plus      :
   keybase          :
-  instagram        : "richardtse_"
+  instagram        : # "richardtse_"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jinxiang-xie"
+  linkedin         : "rongyu-zhang"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
