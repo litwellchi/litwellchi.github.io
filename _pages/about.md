@@ -27,8 +27,8 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
     <h3>🔬 AI Researcher</h3>
     <ul>
       <li>Research focus on <strong>efficient</strong> and <strong>generalization</strong> learning</li>
-      <li>Efficient: Dynamic Neural Networks</li>
-      <li>Multimodal Generalization: Embodied AI and Autonomous Driving</li>
+      <li><strong>Efficient</strong>: Dynamic Neural Networks</li>
+      <li><strong>Multimodal Generalization</strong>: Embodied AI including Robotics and Autonomous Driving</li>
     </ul>
   </div>
   
