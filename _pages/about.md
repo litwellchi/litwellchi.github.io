@@ -17,12 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Jinxiang Xie (pronounced as "JIN-shee-ahng SHEE-eh"). I'm a fourth-year undergraduate student majoring in Information and Computing Science at **Beijing Jiaotong University**. I am currently a research intern at **Microsoft** working with Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/juding/">Justin Ding</a>.
-Previously, I conducted research at **Peking University** under the guidance of Prof. <a href="https://wanxiaojun.github.io/">Xiaojun Wan</a>.
+Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong Kong Polytechnic University, where he is co-supervised by [Prof. Yuan Du](https://iscl.nju.edu.cn/42925/list.htm) and [Prof. Dan Wang](https://www4.comp.polyu.edu.hk/~csdwang/). He is now a visiting student at Peking University under the supervision of [Prof. Shanghang Zhang](https://iscl.nju.edu.cn/42925/list.htm). Previously, he received the M.Phil. degree from The Chinese University of Hong Kong, Shenzhen, supervised by [Prof. Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/). He has published more than 10 papers in top conference journals such as CVPR, AAAI, TMC, and TCSVT, etc, with more than 120 citations. He was recently selected for the **First** China Association for Science and Technology “**Young Elite Scientist Sponsorship Program (Ph.D.)**”, 2025-2027.
 
-I have been offered admission to the graduate program at Nanjing University for Fall 2025, providing me with a valuable window to further immerse myself in research. **I am actively seeking research assistant opportunities in LLMs applications and natural language processing**.
-
-Feel free to reach out, or learn more from [My CV](assets/Jinxiang's CV.pdf).
 
 <div class="highlight-blocks">
   <div class="highlight-block">
@@ -68,15 +64,10 @@ Feel free to reach out, or learn more from [My CV](assets/Jinxiang's CV.pdf).
 - **Jinxiang Xie**, Yilin Li, Xunjian Yin, Xiaojun Wan
 - In The 39th Annual AAAI Conference on Artificial Intelligence
 - [[Arxiv]](https://arxiv.org/abs/2412.12832) [[Code]](https://github.com/jxtse/GEC-Metrics-DSGram)
-
 <!-- [**Project**](https://github.com/jxtse/GEC_Metrics_LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | <a href="">Link to paper</a> -->
-<!-- - We introduce new sub-metrics for GEC evaluation.
-- We propose a novel dynamic weighting method, which integrates the Analytic Hierarchy Process with large language models to ascertain the relative importance of different evaluation criteria.
-- We present two datasets: DSGram-Eval, created through human scoring, and DSGram-LLMs, a larger dataset designed to simulate human scoring for fine-tuning. -->
 </div>
 </div>
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🥇 Honors and Awards
 - *2024.08*: &nbsp;Second Prize in the Beijing Trial of the College Student "Innovation, Creativity and Entrepreneurship" Competition
@@ -87,61 +78,11 @@ Feel free to reach out, or learn more from [My CV](assets/Jinxiang's CV.pdf).
 - *2025.09 - 2028.06*: &nbsp;(Expected) Master of Science at Kuang Yaming Honors School, Nanjing University.
 - *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, Beijing Jiaotong University.
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
 - *2024.08 - Present*: &nbsp;Research Intern, [Data, Knowledge and Intelligence (DKI) Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), **Microsoft**.
 - *2023.11 - 2024.08*: &nbsp;Research Intern, [Wangxuan Institute of Computer Technology](https://sai.pku.edu.cn/znxyenglish/), **Peking University**.
 - *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, [School of Computer](https://www.comp.nus.edu.sg/), **National University of Singapore**.
-
-# 📚 Blogs
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">January, 2025</div><img src='images/pic04.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Beyond the Future of AI: The Dreams and Deceptions of Cryptocurrency
-
-My vision of the future: from Bitcoin to an AGI-driven decentralized society
-
-[[Chinese Version]](https://mp.weixin.qq.com/s/luu2qEzPnYAuryJ9mYoJ6Q) [[English Version]](https://jxtse.medium.com/beyond-the-future-of-ai-the-dreams-and-deceptions-of-cryptocurrency-5da8d4bbf69e)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">November, 2024</div><img src='images/pic02.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## An Open-Source AI Agent to convert Papers to Slides
-
-PaperToSlides is an AI-driven tool designed to automatically convert academic papers in PDF format into polished presentation slides—perfect for research group meetings, conference rehearsals, and quick paper summaries.
-
-[[Project Link]](https://github.com/jxtse/PaperToSlides)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">November, 2023</div><img src='images/pic03.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## LLMs: Cutting-Edge Technology and Future Applications
-
-My notes from a presentation on LLMs at the Gaoling Schoolof Artificial Intelligence, Renmin University of China.
-
-[[Chinese Version]](https://mp.weixin.qq.com/s?__biz=Mzg5NzczMzM3MA==&mid=2247483926&idx=1&sn=c6dcaf93ec8d7ecaa760df4682589b21)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">August, 2023</div><img src='images/pic01.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Prompt Engineering: How to Better Ask LLMs
-
-Introduce a number of methods for optimizing the output of large language models and reducing the probability of irrelevant or incorrect responses.
-
-[[Chinese Version]](https://sspai.com/post/82322)
 
 </div>
 </div>
