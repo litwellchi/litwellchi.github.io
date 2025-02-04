@@ -27,7 +27,7 @@ Rongyu is a second-year dual Ph.D. candidate at Nanjing University and The Hong 
     <ul>
       <li>Research focus on <strong>efficient</strong> and <strong>generalization</strong> learning</li>
       <li>Efficient: Dynamic Neural Networks</li>
-      <li>Multimodal Generalization: Embodied AI and Autonomous Driving</li>
+      <li>Multimodal Generalization: Embodied AI, Autonomous Driving</li>
     </ul>
   </div>
   
