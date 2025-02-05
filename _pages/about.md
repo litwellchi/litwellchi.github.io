@@ -20,31 +20,30 @@ redirect_from:
     <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101296995);</script>
     <script async src="//static.getclicky.com/js"></script>    
     <style>
-	    /* CSS */
+:root {
+  --theme-color: #007BFF; /* 确保这是一个有效的颜色 */
+}
+
 .button-59 {
   align-items: center;
   background-color: #fff;
-  /* border: 1px solid var(--theme-color-light); */
   border: 1px solid #dadada;
   box-sizing: border-box;
   color: #000000;
-  /* color: var(--theme-color); */
   cursor: pointer;
-  display: inline-flex;
+  display: inline-block; /* 修改为 inline-block */
   fill: #000;
   font-family: 'Nunito';
   font-size: 0.7rem;
-  /* font-weight: 600; */
   height: 1.1rem;
   justify-content: center;
-  /* letter-spacing: -.8px; */
   line-height: 1.3;
-  min-width: 50px;
+  min-width: 60px; /* 增加最小宽度 */
   outline: 0;
-  padding: 0 0px;
+  padding: 0 10px; /* 增加左右内边距 */
   text-align: center;
   text-decoration: none;
-  transition: all .3s;
+  transition: color .3s, background-color .3s, border-color .3s; /* 限制过渡范围 */
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
@@ -52,12 +51,7 @@ redirect_from:
   border-radius: 0.2rem;
 }
 
-.button-59:focus {
-  color: #171e29;
-}
-
 .button-59:hover {
-	/* var(--theme-color) */
   border-color: var(--theme-color);
   color: #fff;
   fill: var(--theme-color);
@@ -67,15 +61,16 @@ redirect_from:
 
 .button-59:active {
   border-color: var(--theme-color);
-  color: var(--theme-color);
+  color: #fff;
   fill: var(--theme-color);
+  background-color: var(--theme-color);
 }
 
 @media (min-width: 768px) {
   .button-59 {
-	padding-left: 5px;
-	padding-right: 5px;
-    /* min-width: 170px; */
+    padding-left: 5px;
+    padding-right: 5px;
+    min-width: 170px; /* 如果需要，可以调整为更大的宽度 */
   }
 }
     </style>
