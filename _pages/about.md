@@ -208,7 +208,7 @@ First-author: <venue>NeurIPS</venue>x 1, <venue>CVPR</venue>x 1, <venue>ACM MM</
     <li first_authored=true category="KD">
         <venue>CCF-A</venue><pt>FreeKD: Knowledge Distillation via Semantic Frequency Prompt</pt><br>
         <b>Yuan Zhang</b><g>, Tao Huang, Jiaming Liu, Tao Jiang, Kuan Cheng, Shanghang Zhang</g><br />
-        <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<b>CVPR</b>), 2024.</em>
+        <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<b>CVPR</b>), 2024.
         <p>
             <a href="https://arxiv.org/pdf/2311.12079.pdf" class="button-59">PDF</a>
             <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=13876321258274905912" class="button-59">Bib</a>
@@ -229,7 +229,7 @@ First-author: <venue>NeurIPS</venue>x 1, <venue>CVPR</venue>x 1, <venue>ACM MM</
     <li first_authored=true category="KD">
 	<venue>CCF-A</venue><pt>Masked Distillation with Receptive Tokens</pt><br>
 	<g>Tao Huang*,</g> <b>Yuan Zhang*</b><g>, Shan You, Fei Wang, Chen Qian, Jian Cao, Chang Xu</g><br>
-	<em>International Conference on Learning Representations</em> (<b>ICLR</b>), 2023.</em>
+	<em>International Conference on Learning Representations</em> (<b>ICLR</b>), 2023.
 	<p>
 		<a class="button-59" href="https://arxiv.org/abs/2205.14589">PDF</a>
 		<button class="button-59" onclick="getBibTex('huang2023masked')">Bib</button>
