@@ -15,6 +15,91 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<head>
+	    <link rel="stylesheet" href="bootstrap.min.css">
+    <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101296995);</script>
+    <script async src="//static.getclicky.com/js"></script>    
+
+    <script>
+        try{
+            if (window.screen.width < 700) {
+                setActiveStyleSheet("jemdoc_mobile.css"); 
+            } 
+            else if(/iPad/i.test(navigator.userAgent)){ 
+                setActiveStyleSheet("jemdoc.css"); 
+            } 
+            else{
+                setActiveStyleSheet("jemdoc.css"); 
+            } 
+        } 
+        catch(e){} 
+
+        function setActiveStyleSheet(filename){
+            document.write("<link href="+filename+" rel=stylesheet>");
+        }
+
+        function checkFilter(type, li) {
+            if (type == "All") {
+                return true
+            }
+            else if (type == "First-authored") {
+                res = li.getAttribute("first_authored")
+                return res
+            }
+            else {
+                cate = li.getAttribute("category")
+                if (!cate) {
+                    return false
+                }
+                items = cate.split(',')
+                for (j = 0; j < items.length; j++) {
+                    console.log(items[j])
+                    if (type.toUpperCase() == items[j].toUpperCase()) {
+                        return true
+                    }
+                }
+                return false
+            }
+        }
+
+        function filterPub(type) {
+            ul = document.getElementById("publications")
+            li = ul.getElementsByTagName("li")
+            for (i = 0; i < li.length; i++) {
+                if (!checkFilter(type, li[i])) {
+                    li[i].style.display = "none";
+                }
+                else {
+                    li[i].style.display = ""
+                }
+            }
+            // change the button color
+            bts = document.getElementsByClassName("filter")
+            for (k = 0; k < bts.length; k++) {
+                if (bts[k].textContent == type) {
+                    bts[k].style.setProperty("--color", "#000")
+                    bts[k].style.setProperty("--border", "#000")
+                    // bts[k].style.color = "#000"
+                }
+                else {
+                    bts[k].style.setProperty("--color", "#a0a0a0")
+                    bts[k].style.setProperty("--border", "#d3d3d3")
+                    // bts[k].style.color = "#a0a0a0"
+                }
+            }
+        }
+
+    </script>
+
+    <script>
+        // import data from './bibtex.json' assert { type: 'json' };
+
+        function getBibTex(key) {
+            prompt("You can copy the text manually.", data[key]);
+        }
+    </script>
+</head>
+
 <span class='anchor' id='about-me'></span>
 
 # 👤 Biography
