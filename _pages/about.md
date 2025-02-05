@@ -462,23 +462,49 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
     </li>
     <li first_authored=true category="Generalization">
         <venue>ICRA'24</venue><pt>BEVUDA: Multi-geometric Space Alignments for Domain Adaptive BEV 3D Object Detection</pt><br>
-        <g>Jiaming Liu*</g><b>Rongyu Zhang*</b><g>, Xiaowei Chi, Xiaoqi Li, Ming Lu, Yandong Guo, Shanghang Zhang</g><br />
+        <g>Jiaming Liu*, </g><b>Rongyu Zhang*</b><g>, Xiaowei Chi, Xiaoqi Li, Ming Lu, Yandong Guo, Shanghang Zhang</g><br />
         <p>
             <a href="https://arxiv.org/pdf/2211.17126" class="button-59">PDF</a>
 	    <a href="https://github.com/RoyZry98/BEVUDA-Pytorch" class="button-59">Code</a>
 	    <img src="https://img.shields.io/github/stars/RoyZry98/BEVUDA-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
+    <li category="Efficiency">
+        <venue>AAAI'25</venue><pt>PAT: Pruning-Aware Tuning for Large Language Models</pt><br>
+        <g>Yijiang Liu, Huanrui Yang, Youxin Chen, </g><b>Rongyu Zhang*</b><g>, Miao Wang, Yuan Du, Li Du</g><br />
+        <p>
+            <a href="https://arxiv.org/abs/2006.04558" class="button-59">PDF</a>
+	    <a href="https://github.com/kriskrisliu/PAT" class="button-59">Code</a>
+	    <img src="https://img.shields.io/github/stars/kriskrisliu/PAT?style=social" class="star-badge" alt="GitHub Stars">
+        </p>
+    </li>
+    <li category="Generalization">
+        <venue>CVPR'23</venue><pt>Cloud-Device Collaborative Adaptation to Continual Changing Environments in the Real-world</pt><br>
+        <g>Yulu Gan, Mingjie Pan, </g><b>Rongyu Zhang*</b><g>, Zijian Ling, Lingran Zhao, Jiaming Liu, Shanghang Zhang</g><br />
+        <p>
+            <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_Cloud-Device_Collaborative_Adaptation_to_Continual_Changing_Environments_in_the_Real-World_CVPR_2023_paper.pdf" class="button-59">PDF</a>
+	    <a href="https://github.com/RoyZry98" class="button-59">Code</a>
+        </p>
+    </li>
+    <li category="Generalization">
+        <venue>CVPR'23</venue><pt>BEV-SAN: Accurate BEV 3D Object Detection via Slice Attention Networks</pt><br>
+        <g>Xiaowei Chi, Jiaming Liu, Ming Lu, </g><b>Rongyu Zhang*</b><g>, Zhaoqing Wang, Yandong Guo, Shanghang Zhang</g><br />
+        <p>
+            <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Chi_BEV-SAN_Accurate_BEV_3D_Object_Detection_via_Slice_Attention_Networks_CVPR_2023_paper.pdf" class="button-59">PDF</a>
+	    <a href="https://github.com/litwellchi/BEV-SAN" class="button-59">Code</a>
+	    <img src="https://img.shields.io/github/stars/litwellchi/BEV-SAN?style=social" class="star-badge" alt="GitHub Stars">
+        </p>
+    </li>
+    <li category="Efficiency">
+        <venue>CVPR'23</venue><pt>FedAB: Truthful Federated Learning with Auction-based Combinatorial Multi-armed Bandit</pt><br>
+        <g>Chenrui Wu, Yifei Zhu, </g><b>Rongyu Zhang*</b><g>, Yun Chen, Fangxin Wang, Shuguang Cui</g><br />
+        <p>
+            <a href="https://ieeexplore.ieee.org/abstract/document/10092911" class="button-59">PDF</a>
+	    <a href="https://github.com/RoyZry98" class="button-59">Code</a>
+        </p>
+    </li>
 </ul>
 
-- <span style="background-color: #EC707D; color: white; padding: 2px 5px;">AAAI 2025</span> [[PAT: Pruning-Aware Tuning for Large Language Models]](https://arxiv.org/abs/2006.04558), Yijiang Liu, Huanrui Yang, Youxin Chen, **Rongyu Zhang**, Miao Wang, Yuan Du, Li Du [![](https://img.shields.io/github/stars/kriskrisliu/PAT?style=social)](https://github.com/kriskrisliu/PAT)
-- <span style="background-color: #EC707D; color: white; padding: 2px 5px;">ICRA 2024</span> [[BEVUDA: Multi-geometric Space Alignments for Domain Adaptive BEV 3D Object Detection]](https://arxiv.org/pdf/2211.17126), Jiaming Liu, **Rongyu Zhang**, Xiaowei Chi, Xiaoqi Li, Ming Lu, Yandong Guo, Shanghang Zhang [![](https://img.shields.io/github/stars/RoyZry98/BEVUDA-Pytorch?style=social)](https://github.com/RoyZry98/BEVUDA-Pytorch)
-- <span style="background-color: #EC707D; color: white; padding: 2px 5px;">IEEE Network</span> [[Optimizing Efficient Personalized Federated Learning with Hypernetworks at Edge]](https://arxiv.org/pdf/2211.17126), **Rongyu Zhang**, Yun Chen, Chenrui Wu, Fangxin Wang, Jiangchuan Liu
-- <span style="background-color: #EC707D; color: white; padding: 2px 5px;">ICME 2023</span> [[Cluster-driven GNN-based Federated Recommendation System with Biased Message Dropout]](https://ieeexplore.ieee.org/abstract/document/10219619), **Rongyu Zhang**, Yun Chen, Chenrui Wu, Fangxin Wang
-- <span style="background-color: #EC707D; color: white; padding: 2px 5px;">NOSSDAV 2023</span> [[RepCaM: Re-parameterization Content-aware Modulation for Neural Video Delivery]](https://dl.acm.org/doi/pdf/10.1145/3592473.3592567), **Rongyu Zhang**, Lixuan Du, Jiaming Liu, Congcong Song, Fangxin Wang, Xiaoqi Li, Ming Lu, Yandong Guo, Shanghang Zhang [ ![](https://img.shields.io/github/stars/RoyZry98/RepCaM-Pytorch?style=social)](https://github.com/RoyZry98/RepCaM-Pytorch)
-- <span style="background-color: #EC707D; color: white; padding: 2px 5px;">CVPR 2023</span> [[Cloud-Device Collaborative Adaptation to Continual Changing Environments in the Real-world]](https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_Cloud-Device_Collaborative_Adaptation_to_Continual_Changing_Environments_in_the_Real-World_CVPR_2023_paper.pdf), Yulu Gan, Mingjie Pan, **Rongyu Zhang**, Zijian Ling, Lingran Zhao, Jiaming Liu, Shanghang Zhang
-- <span style="background-color: #EC707D; color: white; padding: 2px 5px;">CVPR 2023</span> [[BEV-SAN: Accurate BEV 3D Object Detection via Slice Attention Networks]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chi_BEV-SAN_Accurate_BEV_3D_Object_Detection_via_Slice_Attention_Networks_CVPR_2023_paper.pdf), Xiaowei Chi, Jiaming Liu, Ming Lu, **Rongyu Zhang**, Zhaoqing Wang, Yandong Guo, Shanghang Zhang
-- <span style="background-color: #EC707D; color: white; padding: 2px 5px;">IEEE IoTJ</span> [[FedAB: Truthful Federated Learning with Auction-based Combinatorial Multi-armed Bandit]](https://ieeexplore.ieee.org/abstract/document/10092911), Chenrui Wu, Yifei Zhu, **Rongyu Zhang**, Yun Chen, Fangxin Wang, Shuguang Cui
 ## 📒 Preprints
 - <span style="background-color: #0C2187; color: white; padding: 2px 5px;">Arxiv 2024</span> [[Decomposing the Neural: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation]](https://arxiv.org/pdf/2405.16486), **Rongyu Zhang**, Aosong Cheng, Yulin Luo, Gaole Dai, Huanrui Yang, Jiaming Liu, Ran Xu, Li Du, Yuan Du, Yanbing Jiang, Shanghang Zhang [![](https://img.shields.io/github/stars/RoyZry98/MoASE-Pytorch?style=social)](https://github.com/RoyZry98/MoASE-Pytorch)
 - <span style="background-color: #0C2187; color: white; padding: 2px 5px;">Arxiv 2024</span> [[EVA: An Embodied World Model for Future Video Anticipation]](https://arxiv.org/pdf/2410.15461), Xiaowei Chi, Hengyuan Zhang, Chun-Kai Fan, Xingqun Qi, **Rongyu Zhang**, Anthony Chen, Chi-Min Chan, Wenhan Luo, Wei Xue, Shanghang Zhang, Yike Guo
