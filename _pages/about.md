@@ -20,58 +20,89 @@ redirect_from:
     <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101296995);</script>
     <script async src="//static.getclicky.com/js"></script>    
     <style>
-:root {
-  --theme-color: #EC707D; /* 确保这是一个有效的颜色 */
-}
+	:root {
+	  --theme-color: #EC707D; /* 确保这是一个有效的颜色 */
+	}
 
-.button-59 {
-  align-items: center;
-  background-color: #fff;
-  border: 1px solid #dadada;
-  box-sizing: border-box;
-  color: #000000;
-  cursor: pointer;
-  display: inline-block; /* 修改为 inline-block */
-  fill: #000;
-  font-family: 'Nunito';
-  font-size: 0.7rem;
-  height: 1.1rem;
-  justify-content: center;
-  line-height: 1.3;
-  min-width: 60px; /* 增加最小宽度 */
-  outline: 0;
-  padding: 0 10px; /* 增加左右内边距 */
-  text-align: center;
-  text-decoration: none;
-  transition: color .3s, background-color .3s, border-color .3s; /* 限制过渡范围 */
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-  margin-right: 0.2em;
-  border-radius: 0.2rem;
-}
-
-.button-59:hover {
-  border-color: var(--theme-color);
-  color: #fff;
-  fill: var(--theme-color);
-  background-color: var(--theme-color);
-  text-decoration: none;
-}
-
-.button-59:active {
-  border-color: var(--theme-color);
-  color: #fff;
-  fill: var(--theme-color);
-  background-color: var(--theme-color);
-}
-
-@media (min-width: 768px) {
-  .button-59 {
-    padding-left: 5px;
-    padding-right: 5px;
-  }
-}
+	.filter {
+		color: var(--color);
+		background-color: #fff;
+		border: var(--border);
+		border-style: solid;
+		border-radius: 0.2rem;
+		border-width: 1.5px;
+		transition: all .3s;
+		touch-action: manipulation;
+		font-size: 80%;
+		line-height: 120%;
+		/* width: 5em; */
+	}
+	
+	.filter:focus {
+		color: #171e29;
+	}
+	  
+	  .filter:hover {
+		border-color: var(--theme-color);
+		color: white;
+		background-color: var(--theme-color);
+		fill: var(--theme-color);
+	  }
+	  
+	  .filter:active {
+		border-color: var(--theme-color);
+		color: var(--theme-color);
+		fill: var(--theme-color);
+	  }
+	  
+	.button-59 {
+	  align-items: center;
+	  background-color: #fff;
+	  border: 1px solid #dadada;
+	  box-sizing: border-box;
+	  color: #000000;
+	  cursor: pointer;
+	  display: inline-block; /* 修改为 inline-block */
+	  fill: #000;
+	  font-family: 'Nunito';
+	  font-size: 0.7rem;
+	  height: 1.1rem;
+	  justify-content: center;
+	  line-height: 1.3;
+	  min-width: 60px; /* 增加最小宽度 */
+	  outline: 0;
+	  padding: 0 10px; /* 增加左右内边距 */
+	  text-align: center;
+	  text-decoration: none;
+	  transition: color .3s, background-color .3s, border-color .3s; /* 限制过渡范围 */
+	  user-select: none;
+	  -webkit-user-select: none;
+	  touch-action: manipulation;
+	  margin-right: 0.2em;
+	  border-radius: 0.2rem;
+	}
+	
+	.button-59:hover {
+	  border-color: var(--theme-color);
+	  color: #fff;
+	  fill: var(--theme-color);
+	  background-color: var(--theme-color);
+	  text-decoration: none;
+	}
+	
+	.button-59:active {
+	  border-color: var(--theme-color);
+	  color: #fff;
+	  fill: var(--theme-color);
+	  background-color: var(--theme-color);
+	}
+	
+	@media (min-width: 768px) {
+	  .button-59 {
+	    padding-left: 5px;
+	    padding-right: 5px;
+	  }
+	}
     </style>
     <script>
         try{
