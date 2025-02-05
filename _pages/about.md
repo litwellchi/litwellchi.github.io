@@ -187,7 +187,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 
 # 🥇 Honors and Awards
 - *(2025.09)*: &nbsp;Hong Kong Post-Graduate Scholarship (HKPGS) with 18,840¥/month, PolyU
-- *(2025.01)*: &nbsp;The First “Young Elite Scientist Sponsorship Program (Ph.D.)” with 40,000¥ (Only 3226 candidates were selected), China Association for Science and Technology (CAST)
+- *(2025.01)*: &nbsp;The First “Young Elite Scientist Sponsorship Program (Ph.D.)” with 40,000¥ (Only 3226 students were selected in the first year), China Association for Science and Technology (CAST)
 - *(2024.12)*: &nbsp;Outstanding Ph.D. Candidate with 2,000¥/year, NJU
 - *(2024.12)*: &nbsp;"Bank of Jiangsu" Scholarship with 5,000¥, NJU
 - *(2024.05)*: &nbsp;Jiangsu Province Graduate Research and Practical Innovation Project “Mixture-of-Activation-Sparsity-Experts for Continuous Test-time Adaptation” with 15,000¥, NJU
