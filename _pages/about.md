@@ -22,7 +22,45 @@ redirect_from:
     <style>
 	:root {
 	  --theme-color: #EC707D; /* 确保这是一个有效的颜色 */
+	  --venue-bg-color: rgb(108, 149, 181);
 	}
+
+	 venue {
+		/* background-color:royalblue; */
+		/* background-color:rgb(80, 80, 80); */
+		/* background-color: #d1a7a7; */
+		/* background-color: #ca3737; */
+		background-color: var(--venue-bg-color);
+		/* background-color: rgb(217, 229, 244); */
+		/* color: rgb(16, 68, 158); */
+		color: #ffffff;
+		/* font-family: 'Nunito'; */
+		font-size: 70%;
+		font-weight: bold;
+		line-height: 170%;
+		/* padding-left: 1em;
+		padding-right: 1em; */
+		margin-right: 0.25em;
+		width: 5em;
+		display:inline-block;
+		text-align: center;
+		/* border-color: #ffffff; */
+		border-width: 0px;
+		border-style: none;
+		border-radius: 0.1rem;
+		/* -webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+		box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12); */
+		/* border-radius: 4px; */
+		/* -webkit-box-shadow:inset 0px 0px 0px 0.25em #fff;
+	    -moz-box-shadow:inset 0px 0px 0px 0.25em #fff;
+	    box-shadow:inset 0px 0px 0px 0.25em #fff; */
+		/* border: #ffffff; */
+		height: 1.7em;
+		vertical-align:text-bottom;
+		margin-bottom: 0.1em;
+		/* letter-spacing: 0.1cap; */
+	}
+
 
 	.filter {
 		color: var(--color);
