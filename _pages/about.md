@@ -100,6 +100,100 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 <br>
 
 # 📝 Publications 
+*: Equal Contribution.<br>
+First-author: <venue>NeurIPS</venue>x 1, <venue>CVPR</venue>x 1, <venue>ACM MM</venue>x 1, <venue>ICLR</venue>x 1 <br><br>
+
+<button class="filter" type="button" onclick="filterPub('All')" style="--color: #000; --border: #000">All</button>&nbsp;
+<button class="filter" type="button" onclick="filterPub('First-authored')">First author</button>&nbsp;
+<button class="filter" type="button" onclick="filterPub('KD')">Knowledge distillation</button>&nbsp;
+<button class="filter" type="button" onclick="filterPub('VLM')">Vision language model</button>&nbsp;
+
+<ul id="publications">
+    <li first_authored=true category="VLM">
+        <venue>CCF-A</venue><pt>Unveiling the Tapestry of Consistency in Large Vision-Language Models</pt><br>
+	<b>Yuan Zhang</b><g>, Fei Xiao, Tao Huang, Chunkai Fan, H Dong, J Li, J Wang, Kuan Cheng, Shanghang Zhang, Haoyuan Guo</g><br>
+        <em>Advances in Neural Information Processing Systems</em> (<b>NeurIPS</b>), 2024.
+        <p>
+            <a href="https://arxiv.org/abs/2405.14156" class="button-59">PDF</a>
+            <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=13876321258274905912" class="button-59">Bib</a>
+            <a href="https://github.com/foundation-multimodal-models/ConBench" class="button-59">Code</a>
+	    <a href="https://www.bilibili.com/video/BV1E6mtYTEzu/" class="button-59">Video</a>
+        </p>
+    </li>
+    <li first_authored=true category="KD">
+        <venue>CCF-A</venue><pt>FreeKD: Knowledge Distillation via Semantic Frequency Prompt</pt><br>
+        <b>Yuan Zhang</b><g>, Tao Huang, Jiaming Liu, Tao Jiang, Kuan Cheng, Shanghang Zhang</g><br />
+        <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<b>CVPR</b>), 2024.</em>
+        <p>
+            <a href="https://arxiv.org/pdf/2311.12079.pdf" class="button-59">PDF</a>
+            <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=13876321258274905912" class="button-59">Bib</a>
+	    <a href="https://github.com/Gumpest/FreeKD" class="button-59">Code</a>
+        </p>
+    </li>
+    <li first_authored=true category="KD">
+        <venue>CCF-A</venue><pt>Avatar Knowledge Distillation: Self-ensemble Teacher Paradigm with Uncertainty</pt><br>
+        <b>Yuan Zhang</b><g>, Weihua Chen, Yichen Lu, Tao Huang, Xiuyu Sun, Jian Cao</g><br>
+        <em>Proceedings of the 31th ACM International Conference on Multimedia</em> (<b>ACM MM</b>), 2023.
+        <p>
+		<a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3611788" class="button-59">PDF</a>
+		<a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=9322121606680381236" class="button-59">Bib</a>
+		<a class="button-59" href="https://github.com/Gumpest/AvatarKD">Code</a>
+		<a href="https://youtu.be/gzBE7ZdvJiM" class="button-59">Video</a>
+        </p>
+    </li>
+    <li first_authored=true category="KD">
+	<venue>CCF-A</venue><pt>Masked Distillation with Receptive Tokens</pt><br>
+	<g>Tao Huang*,</g> <b>Yuan Zhang*</b><g>, Shan You, Fei Wang, Chen Qian, Jian Cao, Chang Xu</g><br>
+	<em>International Conference on Learning Representations</em> (<b>ICLR</b>), 2023.</em>
+	<p>
+		<a class="button-59" href="https://arxiv.org/abs/2205.14589">PDF</a>
+		<button class="button-59" onclick="getBibTex('huang2023masked')">Bib</button>
+		<a class="button-59" href="https://github.com/hunto/MasKD">Code</a>
+		<a href="https://www.bilibili.com/video/BV1LM411T7rA" class="button-59">Video</a>
+	</p>
+    </li>
+    <li category="KD">
+        <venue>CCF-A</venue><pt>Knowledge Diffusion for Distillation</pt><br>
+        <g>Tao Huang,</g> <b>Yuan Zhang</b><g>, Mingkai Zheng, Shan You, Fei Wang, Chen Qian, Chang Xu</g><br />
+        <em>Advances in Neural Information Processing Systems</em> (<b>NeurIPS</b>), 2023.
+        <p>
+            <a href="https://arxiv.org/abs/2305.15712" class="button-59">PDF</a>
+            <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=4615443208731882220" class="button-59">Bib</a>
+            <a href="https://github.com/hunto/DiffKD" class="button-59">Code</a>
+        </p>
+    </li>
+    <li category="VLM">
+        <venue>CCF-A</venue><pt>Cloud-Device Collaborative Learning for Multimodal Large Language Models</pt><br>
+        <g>Guanqun Wang*, Jiaming Liu*, Chenxuan Li*, </g><b>Yuan Zhang</b><g>, Ray Zhang, Yijiang Liu, Shanghang Zhang</g><br />
+        <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<b>CVPR</b>), 2024.</em>
+        <p>
+            <a href="https://arxiv.org/pdf/2312.16279.pdf" class="button-59">PDF</a>
+            <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=13876321258274905912" class="button-59">Bib</a>
+<!-- 	    <a href="https://www.bilibili.com/video/BV1hW4y1g7za/" class="button-59">Video</a>  -->
+        </p>
+    </li>
+<!--     <li>
+	<venue>CCF-B</venue><pt></pt><pt>A free lunch from ViT: Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition</pt><br>
+	<b>Yuan Zhang</b><g>, Jian Cao, Ling Zhang, Xiangcheng Liu, Feng Ling, Weiqian Chen</g><br>
+	<em>IEEE International Conference on Acoustics, Speech and Signal Processing</em> (<b>ICASSP</b>), 2022.
+	<p>
+		<a href="https://arxiv.org/pdf/2110.01240.pdf" class="button-59">PDF</a>
+		<a href="https://scholar.google.com/scholar?cluster=14041544508923660633&hl=en&as_sdt=0,5" class="button-59">Bib</a>
+		<a href="https://youtu.be/fc-DT0jLXlY" class="button-59">Video</a>
+	</p>
+    </li>
+    <li>
+	<venue>CCF-C</venue><pt>Razor SNN: Efficient Spiking Neural Network with Temporal Embeddings</pt><br>
+	<b>Yuan Zhang</b><g>, Jian Cao, Ling Zhang, Jue Chen, Wenyu Sun, Yuan Wang</g><br>
+	<em>32nd International Conference on Artificial Neural Networks</em> (<b>ICANN</b>), 2023. <b>[Oral]</b>
+	<p>
+		<a href="https://arxiv.org/abs/2205.10536" class="button-59">PDF</a>
+		<button class="button-59" onclick="getBibTex('NEURIPS2022_da669dfd')">Bib</button>
+		<a class="button-59" href="https://github.com/Gumpest/DVS-gestureRecognition">Code</a>
+		<a href="https://youtu.be/7l3PR0JG4dU" class="button-59">Video</a>
+	</p>
+    </li> -->
+</ul>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC'2025</div><img src='images/tmc_repcam.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
