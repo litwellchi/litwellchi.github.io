@@ -323,7 +323,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 <br>
 
 # 📝 Publications 
-
+## 📑 Selected publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC'2025</div><img src='images/tmc_repcam.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -390,7 +390,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 </div>
 </div>
 
-## Full publications
+## 📚 Full publications
 *: Equal Contribution.<br>
 CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, <venue>TMC</venue>x 1, <venue>TCSVT</venue>x 1 <br><br>
 
