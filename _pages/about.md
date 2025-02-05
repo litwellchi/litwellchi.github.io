@@ -401,47 +401,38 @@ First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, <venue>TMC</venu
 
 <ul id="publications">
     <li first_authored=true category="Efficiency">
-        <venue>AAAI</venue><pt>Efficient Deweather Mixture-of-Experts with Uncertainty-aware Feature-wise Linear Modulation</pt><br>
+        <venue>AAAI‘24</venue><pt>Efficient Deweather Mixture-of-Experts with Uncertainty-aware Feature-wise Linear Modulation</pt><br>
 	<b>Rongyu Zhang</b><g>, Yulin Luo, Jiaming Liu, Huanrui Yang, Zhen Dong, Denis Gudovskiy, Tomoyuki Okuno, Yohei Nakata, Kurt Keutzer, Yuan Du, Shanghang Zhang</g><br>
-<!--         <em>Advances in Neural Information Processing Systems</em> (<b>NeurIPS</b>), 2024. -->
         <p>
             <a href="https://ojs.aaai.org/index.php/AAAI/article/download/29622/31055" class="button-59">PDF</a>
-            <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=13876321258274905912" class="button-59">Bib</a>
-            <a href="https://github.com/foundation-multimodal-models/ConBench" class="button-59">Code</a>
-	    <img src="https://img.shields.io/github/stars/yourusername/yourrepo?style=social" class="star-badge" alt="GitHub Stars">
+            <a href="https://github.com/RoyZry98/MoFME-Pytorch" class="button-59">Code</a>
+	    <img src="https://img.shields.io/github/stars/RoyZry98/MoFME-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
-    <li first_authored=true category="KD">
-        <venue>CCF-A</venue><pt>FreeKD: Knowledge Distillation via Semantic Frequency Prompt</pt><br>
-        <b>Yuan Zhang</b><g>, Tao Huang, Jiaming Liu, Tao Jiang, Kuan Cheng, Shanghang Zhang</g><br />
-        <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<b>CVPR</b>), 2024.
+    <li first_authored=true category="Efficiency">
+        <venue>MM'24</venue><pt>VeCAF: Vision-language Collaborative Active Finetuning with Training Objective Awareness</pt><br>
+        <b>Rongyu Zhang*</b><g>, Zefan Cai*, Huanrui Yang*, Zidong Liu, Denis Gudovskiy, Tomoyuki Okuno, Yohei Nakata, Kurt Keutzer, Baobao Chang, Yuan Du, Li Du, Shanghang Zhang</g><br />
         <p>
-            <a href="https://arxiv.org/pdf/2311.12079.pdf" class="button-59">PDF</a>
-            <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=13876321258274905912" class="button-59">Bib</a>
-	    <a href="https://github.com/Gumpest/FreeKD" class="button-59">Code</a>
+            <a href="https://arxiv.org/pdf/2401.07853" class="button-59">PDF</a>
+	    <a href="https://github.com/RoyZry98/VeCAF-Pytorch" class="button-59">Code</a>
+	    <img src="https://img.shields.io/github/stars/RoyZry98/VeCAF-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
-    <li first_authored=true category="KD">
-        <venue>CCF-A</venue><pt>Avatar Knowledge Distillation: Self-ensemble Teacher Paradigm with Uncertainty</pt><br>
-        <b>Yuan Zhang</b><g>, Weihua Chen, Yichen Lu, Tao Huang, Xiuyu Sun, Jian Cao</g><br>
-        <em>Proceedings of the 31th ACM International Conference on Multimedia</em> (<b>ACM MM</b>), 2023.
-        <p>
-		<a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3611788" class="button-59">PDF</a>
-		<a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=9322121606680381236" class="button-59">Bib</a>
-		<a class="button-59" href="https://github.com/Gumpest/AvatarKD">Code</a>
-		<a href="https://youtu.be/gzBE7ZdvJiM" class="button-59">Video</a>
-        </p>
-    </li>
-    <li first_authored=true category="KD">
-	<venue>CCF-A</venue><pt>Masked Distillation with Receptive Tokens</pt><br>
-	<g>Tao Huang*,</g> <b>Yuan Zhang*</b><g>, Shan You, Fei Wang, Chen Qian, Jian Cao, Chang Xu</g><br>
-	<em>International Conference on Learning Representations</em> (<b>ICLR</b>), 2023.
+    <li first_authored=true category="Generalization">
+	<venue>TMC'24</venue><pt>Multi-level Personalized Federated Learning on Heterogeneous and Long-Tailed Data</pt><br>
+	<b>Rongyu Zhang</b><g>, Yun Chen, Chenrui Wu, Fangxin Wang, Bo Li</g><br>
 	<p>
-		<a class="button-59" href="https://arxiv.org/abs/2205.14589">PDF</a>
-		<button class="button-59" onclick="getBibTex('huang2023masked')">Bib</button>
-		<a class="button-59" href="https://github.com/hunto/MasKD">Code</a>
-		<a href="https://www.bilibili.com/video/BV1LM411T7rA" class="button-59">Video</a>
+		<a class="button-59" href="https://arxiv.org/pdf/2405.06413">PDF</a>
+		<a class="button-59" href="https://github.com/RoyZry98">Code</a>
 	</p>
+    </li>
+    <li first_authored=true category="Generalization">
+        <venue>TCSVT'25</venue><pt>BEVUDA++: Geometric-aware Unsupervised Domain Adaptation for Multi-View 3D Object Detection</pt><br>
+        <b>Rongyu Zhang</b><g>, Jiaming Liu, Xiaoqi Li, Xiaowei Chi, Dan Wang, Li Du, Yuan Du, Shanghang Shang</g><br>
+        <p>
+		<a href="https://ieeexplore.ieee.org/document/10816404" class="button-59">PDF</a>
+		<a class="button-59" href="https://github.com/RoyZry98/BEVUDA-Pytorch">Code</a>
+        </p>
     </li>
     <li category="KD">
         <venue>CCF-A</venue><pt>Knowledge Diffusion for Distillation</pt><br>
@@ -460,10 +451,8 @@ First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, <venue>TMC</venu
         <p>
             <a href="https://arxiv.org/pdf/2312.16279.pdf" class="button-59">PDF</a>
             <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=13876321258274905912" class="button-59">Bib</a>
-<!-- 	    <a href="https://www.bilibili.com/video/BV1hW4y1g7za/" class="button-59">Video</a>  -->
         </p>
     </li>
-<!--     <li>
 	<venue>CCF-B</venue><pt></pt><pt>A free lunch from ViT: Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition</pt><br>
 	<b>Yuan Zhang</b><g>, Jian Cao, Ling Zhang, Xiangcheng Liu, Feng Ling, Weiqian Chen</g><br>
 	<em>IEEE International Conference on Acoustics, Speech and Signal Processing</em> (<b>ICASSP</b>), 2022.
