@@ -28,6 +28,19 @@ redirect_from:
 	g {
 		color: #aaaaaa
 	}
+
+	 pt {
+		/* color:chocolate; */
+		/* color:#c50e0e; */
+		color: var(--title-color);
+		/* color:tomato; */
+		font-weight: 500;
+	}
+
+	 em {
+		font-style: italic;
+	}
+
 	 venue {
 		/* background-color:royalblue; */
 		/* background-color:rgb(80, 80, 80); */
