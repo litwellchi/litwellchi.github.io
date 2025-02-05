@@ -46,7 +46,7 @@ redirect_from:
 		/* background-color:rgb(80, 80, 80); */
 		/* background-color: #d1a7a7; */
 		/* background-color: #ca3737; */
-		background-color: var(--venue-bg-color);
+		background-color: #EC707D;
 		/* background-color: rgb(217, 229, 244); */
 		/* color: rgb(16, 68, 158); */
 		color: #ffffff;
