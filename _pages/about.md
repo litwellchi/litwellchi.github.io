@@ -24,7 +24,10 @@ redirect_from:
 	  --theme-color: #EC707D; /* 确保这是一个有效的颜色 */
 	  --venue-bg-color: rgb(108, 149, 181);
 	}
-
+	    
+	g {
+		color: #aaaaaa
+	}
 	 venue {
 		/* background-color:royalblue; */
 		/* background-color:rgb(80, 80, 80); */
