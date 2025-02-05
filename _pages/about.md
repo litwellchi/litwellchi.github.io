@@ -392,7 +392,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 
 ## Full publications
 *: Equal Contribution.<br>
-First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, <venue>TMC</venue>x 1, <venue>TCSVT</venue>x 1 <br><br>
+CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, <venue>TMC</venue>x 1, <venue>TCSVT</venue>x 1 <br><br>
 
 <button class="filter" type="button" onclick="filterPub('All')" style="--color: #000; --border: #000">All</button>&nbsp;
 <button class="filter" type="button" onclick="filterPub('First-authored')">First author</button>&nbsp;
@@ -432,47 +432,43 @@ First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, <venue>TMC</venu
         <p>
 		<a href="https://ieeexplore.ieee.org/document/10816404" class="button-59">PDF</a>
 		<a class="button-59" href="https://github.com/RoyZry98/BEVUDA-Pytorch">Code</a>
+		<img src="https://img.shields.io/github/stars/RoyZry98/BEVUDA-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
-    <li category="KD">
-        <venue>CCF-A</venue><pt>Knowledge Diffusion for Distillation</pt><br>
-        <g>Tao Huang,</g> <b>Yuan Zhang</b><g>, Mingkai Zheng, Shan You, Fei Wang, Chen Qian, Chang Xu</g><br />
-        <em>Advances in Neural Information Processing Systems</em> (<b>NeurIPS</b>), 2023.
+    <li first_authored=true category="Efficiency">
+        <venue>Network</venue><pt>Optimizing Efficient Personalized Federated Learning with Hypernetworks at Edge</pt><br>
+        <b>Rongyu Zhang</b><g>, Yun Chen, Chenrui Wu, Fangxin Wang, Jiangchuan Liu</g><br />
         <p>
-            <a href="https://arxiv.org/abs/2305.15712" class="button-59">PDF</a>
-            <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=4615443208731882220" class="button-59">Bib</a>
-            <a href="https://github.com/hunto/DiffKD" class="button-59">Code</a>
+            <a href="https://arxiv.org/pdf/2211.17126" class="button-59">PDF</a>
+            <a href="https://github.com/RoyZry98" class="button-59">Code</a>
         </p>
     </li>
-    <li category="VLM">
-        <venue>CCF-A</venue><pt>Cloud-Device Collaborative Learning for Multimodal Large Language Models</pt><br>
-        <g>Guanqun Wang*, Jiaming Liu*, Chenxuan Li*, </g><b>Yuan Zhang</b><g>, Ray Zhang, Yijiang Liu, Shanghang Zhang</g><br />
-        <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<b>CVPR</b>), 2024.</em>
+    <li first_authored=true category="Efficiency">
+        <venue>Nossdav'23</venue><pt>RepCaM: Re-parameterization Content-aware Modulation for Neural Video Delivery</pt><br>
+        <b>Rongyu Zhang*</b><g>, Lixuan Du*, Jiaming Liu*, Congcong Song, Fangxin Wang, Xiaoqi Li, Ming Lu, Yandong Guo, Shanghang Zhang</g><br />
         <p>
-            <a href="https://arxiv.org/pdf/2312.16279.pdf" class="button-59">PDF</a>
-            <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=13876321258274905912" class="button-59">Bib</a>
+            <a href="https://dl.acm.org/doi/pdf/10.1145/3592473.3592567" class="button-59">PDF</a>
+            <a href="https://github.com/RoyZry98/RepCaM-Pytorch" class="button-59">Code</a>
+	    <img src="https://img.shields.io/github/stars/RoyZry98/RepCaM-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
-	<venue>CCF-B</venue><pt></pt><pt>A free lunch from ViT: Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition</pt><br>
-	<b>Yuan Zhang</b><g>, Jian Cao, Ling Zhang, Xiangcheng Liu, Feng Ling, Weiqian Chen</g><br>
-	<em>IEEE International Conference on Acoustics, Speech and Signal Processing</em> (<b>ICASSP</b>), 2022.
-	<p>
-		<a href="https://arxiv.org/pdf/2110.01240.pdf" class="button-59">PDF</a>
-		<a href="https://scholar.google.com/scholar?cluster=14041544508923660633&hl=en&as_sdt=0,5" class="button-59">Bib</a>
-		<a href="https://youtu.be/fc-DT0jLXlY" class="button-59">Video</a>
-	</p>
+    <li first_authored=true category="Efficiency">
+        <venue>ICME'23</venue><pt>Cluster-driven GNN-based Federated Recommendation System with Biased Message Dropout</pt><br>
+        <b>Rongyu Zhang*</b><g>, Yun Chen*, Chenrui Wu, Fangxin Wang</g><br />
+        <p>
+            <a href="https://ieeexplore.ieee.org/abstract/document/10219619" class="button-59">PDF</a>
+	    <a href="https://github.com/RoyZry98" class="button-59">Code</a>
+        </p>
     </li>
-    <li>
-	<venue>CCF-C</venue><pt>Razor SNN: Efficient Spiking Neural Network with Temporal Embeddings</pt><br>
-	<b>Yuan Zhang</b><g>, Jian Cao, Ling Zhang, Jue Chen, Wenyu Sun, Yuan Wang</g><br>
-	<em>32nd International Conference on Artificial Neural Networks</em> (<b>ICANN</b>), 2023. <b>[Oral]</b>
-	<p>
-		<a href="https://arxiv.org/abs/2205.10536" class="button-59">PDF</a>
-		<button class="button-59" onclick="getBibTex('NEURIPS2022_da669dfd')">Bib</button>
-		<a class="button-59" href="https://github.com/Gumpest/DVS-gestureRecognition">Code</a>
-		<a href="https://youtu.be/7l3PR0JG4dU" class="button-59">Video</a>
-	</p>
-    </li> -->
+    <li first_authored=true category="Generalization">
+        <venue>ICRA'24</venue><pt>BEVUDA: Multi-geometric Space Alignments for Domain Adaptive BEV 3D Object Detection</pt><br>
+        <g>Jiaming Liu*</g><b>Rongyu Zhang*</b><g>, Xiaowei Chi, Xiaoqi Li, Ming Lu, Yandong Guo, Shanghang Zhang</g><br />
+        <p>
+            <a href="https://arxiv.org/pdf/2211.17126" class="button-59">PDF</a>
+	    <a href="https://github.com/RoyZry98/BEVUDA-Pytorch" class="button-59">Code</a>
+	    <img src="https://img.shields.io/github/stars/RoyZry98/BEVUDA-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
+        </p>
+    </li>
 </ul>
 
 - <span style="background-color: #EC707D; color: white; padding: 2px 5px;">AAAI 2025</span> [[PAT: Pruning-Aware Tuning for Large Language Models]](https://arxiv.org/abs/2006.04558), Yijiang Liu, Huanrui Yang, Youxin Chen, **Rongyu Zhang**, Miao Wang, Yuan Du, Li Du [![](https://img.shields.io/github/stars/kriskrisliu/PAT?style=social)](https://github.com/kriskrisliu/PAT)
