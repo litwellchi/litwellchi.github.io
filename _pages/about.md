@@ -19,7 +19,66 @@ redirect_from:
     <link rel="stylesheet" href="bootstrap.min.css">
     <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101296995);</script>
     <script async src="//static.getclicky.com/js"></script>    
+    <style>
+	    /* CSS */
+.button-59 {
+  align-items: center;
+  background-color: #fff;
+  /* border: 1px solid var(--theme-color-light); */
+  border: 1px solid #dadada;
+  box-sizing: border-box;
+  color: #000000;
+  /* color: var(--theme-color); */
+  cursor: pointer;
+  display: inline-flex;
+  fill: #000;
+  font-family: 'Nunito';
+  font-size: 0.7rem;
+  /* font-weight: 600; */
+  height: 1.1rem;
+  justify-content: center;
+  /* letter-spacing: -.8px; */
+  line-height: 1.3;
+  min-width: 50px;
+  outline: 0;
+  padding: 0 0px;
+  text-align: center;
+  text-decoration: none;
+  transition: all .3s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-right: 0.2em;
+  border-radius: 0.2rem;
+}
 
+.button-59:focus {
+  color: #171e29;
+}
+
+.button-59:hover {
+	/* var(--theme-color) */
+  border-color: var(--theme-color);
+  color: #fff;
+  fill: var(--theme-color);
+  background-color: var(--theme-color);
+  text-decoration: none;
+}
+
+.button-59:active {
+  border-color: var(--theme-color);
+  color: var(--theme-color);
+  fill: var(--theme-color);
+}
+
+@media (min-width: 768px) {
+  .button-59 {
+	padding-left: 5px;
+	padding-right: 5px;
+    /* min-width: 170px; */
+  }
+}
+    </style>
     <script>
         try{
             if (window.screen.width < 700) {
