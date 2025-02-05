@@ -21,7 +21,7 @@ redirect_from:
     <script async src="//static.getclicky.com/js"></script>    
     <style>
 :root {
-  --theme-color: #007BFF; /* 确保这是一个有效的颜色 */
+  --theme-color: #EC707D; /* 确保这是一个有效的颜色 */
 }
 
 .button-59 {
@@ -70,7 +70,6 @@ redirect_from:
   .button-59 {
     padding-left: 5px;
     padding-right: 5px;
-    min-width: 170px; /* 如果需要，可以调整为更大的宽度 */
   }
 }
     </style>
