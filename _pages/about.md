@@ -16,24 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <head>
-	    <link rel="stylesheet" href="bootstrap.min.css">
-    <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101296995);</script>
-    <script async src="//static.getclicky.com/js"></script>    
-
-    <script>
-        try{
-            if (window.screen.width < 700) {
-                setActiveStyleSheet("jemdoc_mobile.css"); 
-            } 
-            else if(/iPad/i.test(navigator.userAgent)){ 
-                setActiveStyleSheet("jemdoc.css"); 
-            } 
-            else{
-                setActiveStyleSheet("jemdoc.css"); 
-            } 
-        } 
-        catch(e){} 
-
         function setActiveStyleSheet(filename){
             document.write("<link href="+filename+" rel=stylesheet>");
         }
