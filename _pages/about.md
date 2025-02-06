@@ -358,7 +358,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 <br>
 
 # 📝 Publications 
-## 📑 Selected publications
+## 📒 Selected publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC'2025</div><img src='images/tmc_repcam.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -544,7 +544,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         <p>
             <a href="https://arxiv.org/pdf/2405.16486" class="button-59">PDF</a>
             <a href="https://github.com/RoyZry98/MoASE-Pytorch" class="button-59">Code</a>
-	    <img src="https://img.shields.io/github/stars/RoyZry98/MoASE-Pytorc?style=social" class="star-badge" alt="GitHub Stars">
+	    <img src="https://img.shields.io/github/stars/RoyZry98/MoASE-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
     <li first_authored=true category="Efficiency">
@@ -553,7 +553,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         <p>
             <a href="http://arxiv.org/abs/2405.19012" class="button-59">PDF</a>
             <a href="https://github.com/RoyZry98/INIF-Pytorch" class="button-59">Code</a>
-	    <img src="https://img.shields.io/github/stars/RoyZry98/INIF-Pytorc?style=social" class="star-badge" alt="GitHub Stars">
+	    <img src="https://img.shields.io/github/stars/RoyZry98/INIF-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
     <li first_authored=true category="Efficiency">
@@ -592,14 +592,6 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         </p>
     </li>
 </ul>
-
-## 📒 Preprints
-- <span style="background-color: #0C2187; color: white; padding: 2px 5px;">Arxiv 2024</span> [[Decomposing the Neural: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation]](https://arxiv.org/pdf/2405.16486), **Rongyu Zhang**, Aosong Cheng, Yulin Luo, Gaole Dai, Huanrui Yang, Jiaming Liu, Ran Xu, Li Du, Yuan Du, Yanbing Jiang, Shanghang Zhang [![](https://img.shields.io/github/stars/RoyZry98/MoASE-Pytorch?style=social)](https://github.com/RoyZry98/MoASE-Pytorch)
-- <span style="background-color: #0C2187; color: white; padding: 2px 5px;">Arxiv 2024</span> [[EVA: An Embodied World Model for Future Video Anticipation]](https://arxiv.org/pdf/2410.15461), Xiaowei Chi, Hengyuan Zhang, Chun-Kai Fan, Xingqun Qi, **Rongyu Zhang**, Anthony Chen, Chi-Min Chan, Wenhan Luo, Wei Xue, Shanghang Zhang, Yike Guo
-- <span style="background-color: #0C2187; color: white; padding: 2px 5px;">Arxiv 2024</span> [[Implicit Neural Image Field for Biological Microscopy Image Compression]](http://arxiv.org/abs/2405.19012), **Rongyu Zhang**, Gaole Dai, Cheng-Ching Tseng, Qingpo Wuwu, Shaokang Wan, Ming Lu, Tiejun Huang, Yu Zhou, Ali Ata Tuz, Matthias Gunzer, Jianxu Chen, Shanghang Zhang [![](https://img.shields.io/github/stars/RoyZry98/INIF-Pytorch?style=social)](https://github.com/RoyZry98/INIF-Pytorch)
-- <span style="background-color: #0C2187; color: white; padding: 2px 5px;">Arxiv 2024</span> [[Intuition-aware Mixture-of-Rank-1-Experts for Parameter Efficient Finetuning]](https://arxiv.org/pdf/2404.08985.pdf), Yijiang Liu, **Rongyu Zhang**, Huanrui Yang, Kurt Keutzer, Yuan Du, Li Du, Shanghang Zhang
-- <span style="background-color: #0C2187; color: white; padding: 2px 5px;">Arxiv 2024</span> [[M2Chat: Empowering VLM for Multimodal LLM Interleaved Text-Image Generation]](https://arxiv.org/pdf/2311.17963), Xiaowei Chi, **Rongyu Zhang**, Zhengkai Jiang, Yijiang Liu, Yatian Wang, Xingqun Qi, Wenhan Luo, Peng Gao, Shanghang Zhang, Qifeng Liu, Yike Guo [![](https://img.shields.io/github/stars/litwellchi/M2Chat?style=social)](https://github.com/litwellchi/M2Chat)
-- <span style="background-color: #0C2187; color: white; padding: 2px 5px;">Arxiv 2024</span> [[ViML: A Video, Music, Language Unified Dataset for Understanding and Generation]](https://arxiv.org/pdf/2407.20962), Xiaowei Chi, Aosong Chen, Pengjun Fang, Yatian Wang, Zeyue Tian, Yingqing He, Zhaoyang Liu, Xingqun Qi, **Rongyu Zhang**, Mengfei Li, Jiahao Pan, Yanbing Jiang, Wei Xue, Wenhan Luo, Qifeng Chen, Shanghang Zhang, Qifeng Liu, Yike Guo [![](https://img.shields.io/github/stars/litwellchi/MMTrail?style=social)](https://github.com/litwellchi/MMTrail)
   
 <br>
 
