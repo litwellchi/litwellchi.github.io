@@ -471,7 +471,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         </p>
     </li>
     <li first_authored=true category="Efficiency">
-        <venue>Network</venue><pt>Optimizing Efficient Personalized Federated Learning with Hypernetworks at Edge</pt><br>
+        <venue>Network'23</venue><pt>Optimizing Efficient Personalized Federated Learning with Hypernetworks at Edge</pt><br>
         <b>Rongyu Zhang</b><g>, Yun Chen, Chenrui Wu, Fangxin Wang, Jiangchuan Liu</g><br />
         <p>
             <a href="https://arxiv.org/pdf/2211.17126" class="button-59">PDF</a>
@@ -539,7 +539,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         </p>
     </li>
     <li first_authored=true category="Generalization">
-        <venue1>arXiv</venue1><pt>Decomposing the Neural: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation</pt><br>
+        <venue1>arXiv'24</venue1><pt>Decomposing the Neural: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation</pt><br>
         <b>Rongyu Zhang*</b><g>, Aosong Cheng, Yulin Luo, Gaole Dai, Huanrui Yang, Jiaming Liu, Ran Xu, Li Du, Yuan Du, Yanbing Jiang, Shanghang Zhang</g> <br />
         <p>
             <a href="https://arxiv.org/pdf/2405.16486" class="button-59">PDF</a>
@@ -548,7 +548,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         </p>
     </li>
     <li first_authored=true category="Efficiency">
-        <venue1>arXiv</venue1><pt>Implicit Neural Image Field for Biological Microscopy Image Compression</pt><br>
+        <venue1>arXiv'24</venue1><pt>Implicit Neural Image Field for Biological Microscopy Image Compression</pt><br>
         <b>Rongyu Zhang*</b><g>, Gaole Dai*, Cheng-Ching Tseng*, Qingpo Wuwu*, Shaokang Wan*, Ming Lu, Tiejun Huang, Yu Zhou, Ali Ata Tuz, Matthias Gunzer, Jianxu Chen, Shanghang Zhang</g> <br />
         <p>
             <a href="http://arxiv.org/abs/2405.19012" class="button-59">PDF</a>
@@ -557,7 +557,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         </p>
     </li>
     <li first_authored=true category="Efficiency">
-        <venue1>arXiv</venue1><pt>Intuition-aware Mixture-of-Rank-1-Experts for Parameter Efficient Finetuning</pt><br>
+        <venue1>arXiv'24</venue1><pt>Intuition-aware Mixture-of-Rank-1-Experts for Parameter Efficient Finetuning</pt><br>
         <g>Yijiang Liu*, </g><b>Rongyu Zhang*</b><g>, Huanrui Yang, Kurt Keutzer, Yuan Du, Li Du, Shanghang Zhang</g> <br />
         <p>
             <a href="https://arxiv.org/pdf/2404.08985.pdf" class="button-59">PDF</a>
@@ -565,7 +565,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         </p>
     </li>
     <li first_authored=true category="Generalization">
-        <venue1>arXiv</venue1><pt>M2Chat: Empowering VLM for Multimodal LLM Interleaved Text-Image Generation</pt><br>
+        <venue1>arXiv'24</venue1><pt>M2Chat: Empowering VLM for Multimodal LLM Interleaved Text-Image Generation</pt><br>
         <g>Xiaowei Chi*, </g><b>Rongyu Zhang*</b><g>, Zhengkai Jiang, Yijiang Liu, Yatian Wang, Xingqun Qi, Wenhan Luo, Peng Gao, Shanghang Zhang, Qifeng Liu, Yike Guo</g> <br />
         <p>
             <a href="https://arxiv.org/pdf/2311.17963" class="button-59">PDF</a>
@@ -574,7 +574,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         </p>
     </li>
     <li category="Generalization">
-        <venue1>arXiv</venue1><pt>EVA: An Embodied World Model for Future Video Anticipation</pt><br>
+        <venue1>arXiv'24</venue1><pt>EVA: An Embodied World Model for Future Video Anticipation</pt><br>
         <g>Xiaowei Chi, Hengyuan Zhang, Chun-Kai Fan, Xingqun Qi, </g><b>Rongyu Zhang*</b><g>, Aosong Cheng, Yulin Luo, Gaole Dai, Huanrui Yang, Jiaming Liu, Ran Xu, Li Du, Yuan Du, Yanbing Jiang, Shanghang Zhang</g> <br />
         <p>
             <a href="https://arxiv.org/pdf/2405.16486" class="button-59">PDF</a>
@@ -583,7 +583,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         </p>
     </li>
     <li first_authored=true category="Generalization">
-        <venue1>arXiv</venue1><pt>ViML: A Video, Music, Language Unified Dataset for Understanding and Generation</pt><br>
+        <venue1>arXiv'24</venue1><pt>ViML: A Video, Music, Language Unified Dataset for Understanding and Generation</pt><br>
         <g>Xiaowei Chi, Aosong Chen, Pengjun Fang, Yatian Wang, Zeyue Tian, Yingqing He, Zhaoyang Liu, Xingqun Qi, </g><b>Rongyu Zhang*</b><g>, Mengfei Li, Jiahao Pan, Yanbing Jiang, Wei Xue, Wenhan Luo, Qifeng Chen, Shanghang Zhang, Qifeng Liu, Yike Guo</g> <br />
         <p>
             <a href="https://arxiv.org/pdf/2407.20962" class="button-59">PDF</a>
