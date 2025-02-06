@@ -538,27 +538,57 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
 	    <a href="https://github.com/RoyZry98" class="button-59">Code</a>
         </p>
     </li>
-</ul>
-
-## 📒 Preprints
-<ul id="preprints">
     <li first_authored=true category="Generalization">
         <venue1>arXiv</venue1><pt>Decomposing the Neural: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation</pt><br>
         <b>Rongyu Zhang*</b><g>, Aosong Cheng, Yulin Luo, Gaole Dai, Huanrui Yang, Jiaming Liu, Ran Xu, Li Du, Yuan Du, Yanbing Jiang, Shanghang Zhang</g> <br />
         <p>
             <a href="https://arxiv.org/pdf/2405.16486" class="button-59">PDF</a>
             <a href="https://github.com/RoyZry98/MoASE-Pytorch" class="button-59">Code</a>
-	    <img src="https://img.shields.io/github/stars/litwellchi/BEV-SAN?style=social" class="star-badge" alt="GitHub Stars">
+	    <img src="https://img.shields.io/github/stars/RoyZry98/MoASE-Pytorc?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
-    <li>
-        <venue>arXiv</venue><pt>SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference</pt><br>
-	<b>Yuan Zhang*</b><g>, ChunKai Fan*, Junpeng Ma*, Wenzhao Zheng, Tao Huang, Kuan Cheng, Denis Gudovskiy, Tomoyuki Okuno, Yohei Nakata, Kurt Keutzer, Shanghang Zhang</g><br>
-        <em>arXiv preprint arXiv:2410.04417 (2024).</em> 
+    <li first_authored=true category="Efficiency">
+        <venue1>arXiv</venue1><pt>Implicit Neural Image Field for Biological Microscopy Image Compression</pt><br>
+        <b>Rongyu Zhang*</b><g>, Gaole Dai*, Cheng-Ching Tseng*, Qingpo Wuwu*, Shaokang Wan*, Ming Lu, Tiejun Huang, Yu Zhou, Ali Ata Tuz, Matthias Gunzer, Jianxu Chen, Shanghang Zhang</g> <br />
         <p>
-            <a href="https://arxiv.org/pdf/2410.04417" class="button-59">PDF</a>
-            <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=13876321258274905912" class="button-59">Bib</a>
-            <a href="https://github.com/Gumpest/SparseVLMs" class="button-59">Code</a>
+            <a href="http://arxiv.org/abs/2405.19012" class="button-59">PDF</a>
+            <a href="https://github.com/RoyZry98/INIF-Pytorch" class="button-59">Code</a>
+	    <img src="https://img.shields.io/github/stars/RoyZry98/INIF-Pytorc?style=social" class="star-badge" alt="GitHub Stars">
+        </p>
+    </li>
+    <li first_authored=true category="Efficiency">
+        <venue1>arXiv</venue1><pt>Intuition-aware Mixture-of-Rank-1-Experts for Parameter Efficient Finetuning</pt><br>
+        <g>Yijiang Liu*, </g><b>Rongyu Zhang*</b><g>, Huanrui Yang, Kurt Keutzer, Yuan Du, Li Du, Shanghang Zhang</g> <br />
+        <p>
+            <a href="https://arxiv.org/pdf/2404.08985.pdf" class="button-59">PDF</a>
+            <a href="https://github.com/RoyZry98" class="button-59">Code</a>
+        </p>
+    </li>
+    <li first_authored=true category="Generalization">
+        <venue1>arXiv</venue1><pt>M2Chat: Empowering VLM for Multimodal LLM Interleaved Text-Image Generation</pt><br>
+        <g>Xiaowei Chi*, </g><b>Rongyu Zhang*</b><g>, Zhengkai Jiang, Yijiang Liu, Yatian Wang, Xingqun Qi, Wenhan Luo, Peng Gao, Shanghang Zhang, Qifeng Liu, Yike Guo</g> <br />
+        <p>
+            <a href="https://arxiv.org/pdf/2311.17963" class="button-59">PDF</a>
+            <a href="https://github.com/litwellchi/M2Chat" class="button-59">Code</a>
+		<img src="https://img.shields.io/github/stars/litwellchi/M2Chat?style=social" class="star-badge" alt="GitHub Stars">
+        </p>
+    </li>
+    <li category="Generalization">
+        <venue1>arXiv</venue1><pt>EVA: An Embodied World Model for Future Video Anticipation</pt><br>
+        <g>Xiaowei Chi, Hengyuan Zhang, Chun-Kai Fan, Xingqun Qi, </g><b>Rongyu Zhang*</b><g>, Aosong Cheng, Yulin Luo, Gaole Dai, Huanrui Yang, Jiaming Liu, Ran Xu, Li Du, Yuan Du, Yanbing Jiang, Shanghang Zhang</g> <br />
+        <p>
+            <a href="https://arxiv.org/pdf/2405.16486" class="button-59">PDF</a>
+            <a href="https://github.com/litwellchi/EmbodiedVideoAnticipator" class="button-59">Code</a>
+		<img src="https://img.shields.io/github/stars/litwellchi/EmbodiedVideoAnticipator?style=social" class="star-badge" alt="GitHub Stars">
+        </p>
+    </li>
+    <li first_authored=true category="Generalization">
+        <venue1>arXiv</venue1><pt>ViML: A Video, Music, Language Unified Dataset for Understanding and Generation</pt><br>
+        <g>Xiaowei Chi, Aosong Chen, Pengjun Fang, Yatian Wang, Zeyue Tian, Yingqing He, Zhaoyang Liu, Xingqun Qi, </g><b>Rongyu Zhang*</b><g>, Mengfei Li, Jiahao Pan, Yanbing Jiang, Wei Xue, Wenhan Luo, Qifeng Chen, Shanghang Zhang, Qifeng Liu, Yike Guo</g> <br />
+        <p>
+            <a href="https://arxiv.org/pdf/2407.20962" class="button-59">PDF</a>
+            <a href="https://github.com/litwellchi/MMTrail" class="button-59">Code</a>
+	    <img src="https://img.shields.io/github/stars/litwellchi/MMTrail?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
 </ul>
