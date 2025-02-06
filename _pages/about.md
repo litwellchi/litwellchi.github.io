@@ -77,7 +77,42 @@ redirect_from:
 		/* letter-spacing: 0.1cap; */
 	}
 
-
+	 venue1 {
+		/* background-color:royalblue; */
+		/* background-color:rgb(80, 80, 80); */
+		/* background-color: #d1a7a7; */
+		/* background-color: #ca3737; */
+		background-color: var(--venue-bg-color);
+		/* background-color: rgb(217, 229, 244); */
+		/* color: rgb(16, 68, 158); */
+		color: #ffffff;
+		/* font-family: 'Nunito'; */
+		font-size: 70%;
+		font-weight: bold;
+		line-height: 170%;
+		/* padding-left: 1em;
+		padding-right: 1em; */
+		margin-right: 0.25em;
+		width: 5em;
+		display:inline-block;
+		text-align: center;
+		/* border-color: #ffffff; */
+		border-width: 0px;
+		border-style: none;
+		border-radius: 0.1rem;
+		/* -webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+		box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12); */
+		/* border-radius: 4px; */
+		/* -webkit-box-shadow:inset 0px 0px 0px 0.25em #fff;
+	    -moz-box-shadow:inset 0px 0px 0px 0.25em #fff;
+	    box-shadow:inset 0px 0px 0px 0.25em #fff; */
+		/* border: #ffffff; */
+		height: 1.7em;
+		vertical-align:text-bottom;
+		margin-bottom: 0.1em;
+		/* letter-spacing: 0.1cap; */
+	}
+ 
 	.filter {
 		color: var(--color);
 		background-color: #fff;
@@ -501,6 +536,29 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         <p>
             <a href="https://ieeexplore.ieee.org/abstract/document/10092911" class="button-59">PDF</a>
 	    <a href="https://github.com/RoyZry98" class="button-59">Code</a>
+        </p>
+    </li>
+</ul>
+
+## 📒 Preprints
+<ul id="preprints">
+    <li first_authored=true category="Generalization">
+        <venue1>arXiv</venue1><pt>Decomposing the Neural: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation</pt><br>
+        <b>Rongyu Zhang*</b><g>, Aosong Cheng, Yulin Luo, Gaole Dai, Huanrui Yang, Jiaming Liu, Ran Xu, Li Du, Yuan Du, Yanbing Jiang, Shanghang Zhang</g> <br />
+        <p>
+            <a href="https://arxiv.org/pdf/2405.16486" class="button-59">PDF</a>
+            <a href="https://github.com/RoyZry98/MoASE-Pytorch" class="button-59">Code</a>
+	    <img src="https://img.shields.io/github/stars/litwellchi/BEV-SAN?style=social" class="star-badge" alt="GitHub Stars">
+        </p>
+    </li>
+    <li>
+        <venue>arXiv</venue><pt>SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference</pt><br>
+	<b>Yuan Zhang*</b><g>, ChunKai Fan*, Junpeng Ma*, Wenzhao Zheng, Tao Huang, Kuan Cheng, Denis Gudovskiy, Tomoyuki Okuno, Yohei Nakata, Kurt Keutzer, Shanghang Zhang</g><br>
+        <em>arXiv preprint arXiv:2410.04417 (2024).</em> 
+        <p>
+            <a href="https://arxiv.org/pdf/2410.04417" class="button-59">PDF</a>
+            <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=13876321258274905912" class="button-59">Bib</a>
+            <a href="https://github.com/Gumpest/SparseVLMs" class="button-59">Code</a>
         </p>
     </li>
 </ul>
