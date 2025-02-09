@@ -328,15 +328,15 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
 	    <h4>📌 We have several academic intern positions at HMI Lab (Peking University). We actively work on AI4Science and Embodied AI. If you like what we do, don't hesitate to contact me.</h4>
-	    <p>[01.2025] 📚 I am selected for the First China Association for Science and Technology “<strong>Young Elite Scientist Sponsorship Program (Ph.D.)</strong>”, 2025-2027.</p>
-	    <p>[12.2024] 🎉 One paper <strong>BEVUDA++</strong> was accepted by <strong>Transaction on Curcuits Systems and Video Technology</strong> (CAS-Q1) as first author.</p>
+	    <p>[01.2025] 📚 I am selected for the First “<strong>Young Elite Scientist Sponsorship Program (Ph.D.)</strong>” by CAST.</p>
+	    <p>[12.2024] 🎉 One paper <strong>BEVUDA++</strong> was accepted by <strong>Transaction on Circuits Systems and Video Technology</strong> (CAS-Q1) as first author.</p>
 	    <p>[12.2024] 🎉 One paper <strong>PAT</strong> was accepted by <strong>AAAI 2025</strong> (CCF-A).</p>
 	    <p>[12.2024] 🏅 I was named <strong>"Outstanding Ph.D. Candidate"</strong> by NJU.</p>
 	    <p>[11.2024] 💰 I was offered <strong>"Bank of Jiangsu"</strong> Scholarship from NJU.</p>
 	    <p>[09.2024] 💻 The Panasonic Corporation is integrating the VeCAF (MM'24) into its actual business operations.</p>
 	    <p>[08.2024] 💼 I joined the Beijing Academy of Artificial Intelligence supervised by <a class="blue-text" href="https://www.shanghangzhang.com/" target="_blank"><strong>Prof. Shanghang Zhang</strong></a>.</p>
 	    <p>[07.2024] 🎉 One paper <strong>VeCAF</strong> was accepted by <strong>ACM Multimedia 2024</strong> (CCF-A) as first author.</p>
-	    <p>[07.2024] 🎓 I am offered a dual Ph.D. with the Department of Computing at The Hong Kong Polytechnic University supervised by <a class="blue-text" href="https://web.comp.polyu.edu.hk/csdwang/" target="_blank"><strong>Prof. Dan Wang</strong></a>.</p>
+	    <p>[07.2024] 🎓 I am offered a dual Ph.D. at The Hong Kong Polytechnic University supervised by <a class="blue-text" href="https://web.comp.polyu.edu.hk/csdwang/" target="_blank"><strong>Prof. Dan Wang</strong></a>.</p>
 	    <p>[05.2024] 🎉 One paper <strong>MuPFL</strong> was accepted by <strong>IEEE Transaction on Mobile Computing</strong> (CCF-A) as first author.</p>
 	    <p>[04.2024] 📚 Our project: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation, has been selected as one of the Jiangsu Province Graduate Research and Practical Innovation Project.</p>
 	    <p>[03.2024] 💻 The Panasonic Corporation is integrating the MoFME (AAAI'24) into its actual business operations.</p>
@@ -506,7 +506,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
     </li>
     <li category="Efficiency">
         <venue>AAAI'25</venue><pt>PAT: Pruning-Aware Tuning for Large Language Models</pt><br>
-        <g>Yijiang Liu, Huanrui Yang, Youxin Chen, </g><b>Rongyu Zhang*</b><g>, Miao Wang, Yuan Du, Li Du</g><br />
+        <g>Yijiang Liu, Huanrui Yang, Youxin Chen, </g><b>Rongyu Zhang</b><g>, Miao Wang, Yuan Du, Li Du</g><br />
         <p>
             <a href="https://arxiv.org/abs/2006.04558" class="button-59">PDF</a>
 	    <a href="https://github.com/kriskrisliu/PAT" class="button-59">Code</a>
@@ -515,7 +515,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
     </li>
     <li category="Generalization">
         <venue>CVPR'23</venue><pt>Cloud-Device Collaborative Adaptation to Continual Changing Environments in the Real-world</pt><br>
-        <g>Yulu Gan, Mingjie Pan, </g><b>Rongyu Zhang*</b><g>, Zijian Ling, Lingran Zhao, Jiaming Liu, Shanghang Zhang</g><br />
+        <g>Yulu Gan, Mingjie Pan, </g><b>Rongyu Zhang</b><g>, Zijian Ling, Lingran Zhao, Jiaming Liu, Shanghang Zhang</g><br />
         <p>
             <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_Cloud-Device_Collaborative_Adaptation_to_Continual_Changing_Environments_in_the_Real-World_CVPR_2023_paper.pdf" class="button-59">PDF</a>
 	    <a href="https://github.com/RoyZry98" class="button-59">Code</a>
@@ -523,7 +523,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
     </li>
     <li category="Generalization">
         <venue>CVPR'23</venue><pt>BEV-SAN: Accurate BEV 3D Object Detection via Slice Attention Networks</pt><br>
-        <g>Xiaowei Chi, Jiaming Liu, Ming Lu, </g><b>Rongyu Zhang*</b><g>, Zhaoqing Wang, Yandong Guo, Shanghang Zhang</g><br />
+        <g>Xiaowei Chi, Jiaming Liu, Ming Lu, </g><b>Rongyu Zhang</b><g>, Zhaoqing Wang, Yandong Guo, Shanghang Zhang</g><br />
         <p>
             <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Chi_BEV-SAN_Accurate_BEV_3D_Object_Detection_via_Slice_Attention_Networks_CVPR_2023_paper.pdf" class="button-59">PDF</a>
 	    <a href="https://github.com/litwellchi/BEV-SAN" class="button-59">Code</a>
@@ -532,7 +532,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
     </li>
     <li category="Efficiency">
         <venue>CVPR'23</venue><pt>FedAB: Truthful Federated Learning with Auction-based Combinatorial Multi-armed Bandit</pt><br>
-        <g>Chenrui Wu, Yifei Zhu, </g><b>Rongyu Zhang*</b><g>, Yun Chen, Fangxin Wang, Shuguang Cui</g><br />
+        <g>Chenrui Wu, Yifei Zhu, </g><b>Rongyu Zhang</b><g>, Yun Chen, Fangxin Wang, Shuguang Cui</g><br />
         <p>
             <a href="https://ieeexplore.ieee.org/abstract/document/10092911" class="button-59">PDF</a>
 	    <a href="https://github.com/RoyZry98" class="button-59">Code</a>
@@ -575,7 +575,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
     </li>
     <li category="Generalization">
         <venue1>arXiv'24</venue1><pt>EVA: An Embodied World Model for Future Video Anticipation</pt><br>
-        <g>Xiaowei Chi, Hengyuan Zhang, Chun-Kai Fan, Xingqun Qi, </g><b>Rongyu Zhang*</b><g>, Aosong Cheng, Yulin Luo, Gaole Dai, Huanrui Yang, Jiaming Liu, Ran Xu, Li Du, Yuan Du, Yanbing Jiang, Shanghang Zhang</g> <br />
+        <g>Xiaowei Chi, Hengyuan Zhang, Chun-Kai Fan, Xingqun Qi, </g><b>Rongyu Zhang</b><g>, Aosong Cheng, Yulin Luo, Gaole Dai, Huanrui Yang, Jiaming Liu, Ran Xu, Li Du, Yuan Du, Yanbing Jiang, Shanghang Zhang</g> <br />
         <p>
             <a href="https://arxiv.org/pdf/2405.16486" class="button-59">PDF</a>
             <a href="https://github.com/litwellchi/EmbodiedVideoAnticipator" class="button-59">Code</a>
@@ -584,7 +584,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
     </li>
     <li first_authored=true category="Generalization">
         <venue1>arXiv'24</venue1><pt>ViML: A Video, Music, Language Unified Dataset for Understanding and Generation</pt><br>
-        <g>Xiaowei Chi, Aosong Chen, Pengjun Fang, Yatian Wang, Zeyue Tian, Yingqing He, Zhaoyang Liu, Xingqun Qi, </g><b>Rongyu Zhang*</b><g>, Mengfei Li, Jiahao Pan, Yanbing Jiang, Wei Xue, Wenhan Luo, Qifeng Chen, Shanghang Zhang, Qifeng Liu, Yike Guo</g> <br />
+        <g>Xiaowei Chi, Aosong Chen, Pengjun Fang, Yatian Wang, Zeyue Tian, Yingqing He, Zhaoyang Liu, Xingqun Qi, </g><b>Rongyu Zhang</b><g>, Mengfei Li, Jiahao Pan, Yanbing Jiang, Wei Xue, Wenhan Luo, Qifeng Chen, Shanghang Zhang, Qifeng Liu, Yike Guo</g> <br />
         <p>
             <a href="https://arxiv.org/pdf/2407.20962" class="button-59">PDF</a>
             <a href="https://github.com/litwellchi/MMTrail" class="button-59">Code</a>
