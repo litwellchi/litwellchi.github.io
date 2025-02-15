@@ -596,6 +596,8 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
   
 <br>
 
+<span class='anchor' id='honors-and-awards'></span>
+
 # 🥇 Honors and Awards
 - *(2025.09)*: &nbsp;Hong Kong Post-Graduate Scholarship (HKPGS) with 18,840¥/month, PolyU
 - *(2025.01)*: &nbsp;The First “Young Elite Scientist Sponsorship Program (Ph.D.)” with 40,000¥ (Only 3226 students were selected in the first year), China Association for Science and Technology (CAST)
@@ -605,6 +607,8 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
 - *(2023.10)*: &nbsp;The 2nd place of the SHIFT Challenge 2023 - Continuous Test-time Adaptation for Semantic Segmentation in the challenges of VCL Workshop with 2,000$, ICCV
 
 <br>
+
+<span class='anchor' id='services'></span>
 
 # 💼 Services
 #### Journal reviewer
@@ -618,6 +622,8 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
 - ICCV 2023, 2025
 
 <br>
+
+<span class='anchor' id='internships'></span>
 
 # 💻 Internships
 - **Beijing Academy of Artificial Intelligence** (2024.08-2024.11) Research Intern, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/) 
