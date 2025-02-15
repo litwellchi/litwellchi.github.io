@@ -606,7 +606,20 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
 
 <br>
 
-# 💼 Internships
+# 💼 Services
+#### Journal reviewer
+- IEEE Transaction on Mobile Computing
+- IEEE Transaction on Computers
+- IEEE Transaction on Neural Networks and Learning Systems
+- IEEE Internet of Things Journal
+#### Conference reviewer
+- CVPR 2025
+- ACM MM 2024, 2025
+- ICCV 2023, 2025
+
+<br>
+
+# 💻 Internships
 - **Beijing Academy of Artificial Intelligence** (2024.08-2024.11) Research Intern, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/) 
 - **OPPO Research Institute** (2022.09-2023.03) Research Intern, supervised by [Dr. Yandong Guo](https://scholar.google.com/citations?user=fWDoWsQAAAAJ&hl=zh-CN) 
 - **LENOVO Research Institute** (2020.11-2021.05) Research Intern, supervised by [Prof. Jiangtao Gong](https://scholar.google.com/citations?user=AktmI14AAAAJ&hl=zh-CN&oi=ao)
