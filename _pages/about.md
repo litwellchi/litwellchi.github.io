@@ -388,7 +388,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 
 - **Rongyu Zhang**, Jiaming Liu, Xiaoqi Li, Xiaowei Chi, Dan Wang, Li Du, Yuan Du, Shanghang Shang
 - IEEE Transactions on Circuits and Systems for Video Technology <br><strong>(TCSVT|CAS-Q1)</strong>, 2025.
-- [[Paper]](https://ieeexplore.ieee.org/document/10816404) [[Code] ![](https://img.shields.io/github/stars/RoyZry98/BEVUDA-Pytorch?style=social)](https://github.com/RoyZry98/BEVUDA-Pytorch)
+- [[Paper]](https://ieeexplore.ieee.org/document/10816404) [[Code]](https://github.com/RoyZry98)
 </div>
 </div>
 
@@ -501,8 +501,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         <g>Jiaming Liu*, </g><b>Rongyu Zhang*</b><g>, Xiaowei Chi, Xiaoqi Li, Ming Lu, Yandong Guo, Shanghang Zhang</g><br />
         <p>
             <a href="https://arxiv.org/pdf/2211.17126" class="button-59">PDF</a>
-	    <a href="https://github.com/RoyZry98/BEVUDA-Pytorch" class="button-59">Code</a>
-	    <img src="https://img.shields.io/github/stars/RoyZry98/BEVUDA-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
+	    <a href="https://github.com/RoyZry98" class="button-59">Code</a>
         </p>
     </li>
     <li category="Efficiency">
