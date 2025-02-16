@@ -466,8 +466,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         <b>Rongyu Zhang</b><g>, Jiaming Liu, Xiaoqi Li, Xiaowei Chi, Dan Wang, Li Du, Yuan Du, Shanghang Shang</g><br>
         <p>
 		<a href="https://ieeexplore.ieee.org/document/10816404" class="button-59">PDF</a>
-		<a class="button-59" href="https://github.com/RoyZry98/BEVUDA-Pytorch">Code</a>
-		<img src="https://img.shields.io/github/stars/RoyZry98/BEVUDA-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
+		<a class="button-59" href="https://github.com/RoyZry98">Code</a>
         </p>
     </li>
     <li first_authored=true category="Efficiency">
