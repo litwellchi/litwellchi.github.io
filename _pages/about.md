@@ -614,6 +614,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
 - IEEE Transaction on Computers
 - IEEE Transaction on Neural Networks and Learning Systems
 - IEEE Internet of Things Journal
+- IEEE Network
 
 #### Conference reviewer
 - CVPR 2025
