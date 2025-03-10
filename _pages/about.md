@@ -364,7 +364,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 
 **RepCaM++: Exploring Transparent Visual Prompt with Inference-time Re-parameterization for Neural Video Delivery**
 
-- **Rongyu Zhang**, Xize Duan, Jiaming Liu, Li Du, Yuan Du, Dan Wang, Shanghang Shang, Fangxin Wang
+- **Rongyu Zhang**, Xize Duan, Jiaming Liu, Li Du, Yuan Du, Dan Wang, Shanghang Zhang, Fangxin Wang
 - IEEE Transactions on Mobile Computing (Major Revision) <br><strong>(TMC|CCF-A)</strong>, 2025.
 - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3592473.3592567) [[Code] ![](https://img.shields.io/github/stars/RoyZry98/RepCaM-Pytorch?style=social)](https://github.com/RoyZry98/RepCaM-Pytorch)
 </div>
@@ -386,7 +386,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 
 **BEVUDA++: Geometric-aware Unsupervised Domain Adaptation for Multi-View 3D Object Detection**
 
-- **Rongyu Zhang**, Jiaming Liu, Xiaoqi Li, Xiaowei Chi, Dan Wang, Li Du, Yuan Du, Shanghang Shang
+- **Rongyu Zhang**, Jiaming Liu, Xiaoqi Li, Xiaowei Chi, Dan Wang, Li Du, Yuan Du, Shanghang Zhang
 - IEEE Transactions on Circuits and Systems for Video Technology <br><strong>(TCSVT|CAS-Q1)</strong>, 2025.
 - [[Paper]](https://ieeexplore.ieee.org/document/10816404) [[Code]](https://github.com/RoyZry98)
 </div>
@@ -463,7 +463,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
     </li>
     <li first_authored=true category="Generalization">
         <venue>TCSVT'25</venue><pt>BEVUDA++: Geometric-aware Unsupervised Domain Adaptation for Multi-View 3D Object Detection</pt><br>
-        <b>Rongyu Zhang</b><g>, Jiaming Liu, Xiaoqi Li, Xiaowei Chi, Dan Wang, Li Du, Yuan Du, Shanghang Shang</g><br>
+        <b>Rongyu Zhang</b><g>, Jiaming Liu, Xiaoqi Li, Xiaowei Chi, Dan Wang, Li Du, Yuan Du, Shanghang Zhang</g><br>
         <p>
 		<a href="https://ieeexplore.ieee.org/document/10816404" class="button-59">PDF</a>
 		<a class="button-59" href="https://github.com/RoyZry98">Code</a>
