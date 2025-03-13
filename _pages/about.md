@@ -365,7 +365,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 **RepCaM++: Exploring Transparent Visual Prompt with Inference-time Re-parameterization for Neural Video Delivery**
 
 - **Rongyu Zhang**, Xize Duan, Jiaming Liu, Li Du, Yuan Du, Dan Wang, Shanghang Zhang, Fangxin Wang
-- IEEE Transactions on Mobile Computing (Major Revision) <br><strong>(TMC|CCF-A)</strong>, 2025.
+- IEEE Transactions on Mobile Computing (Minor Revision) <br><strong>(TMC|CCF-A)</strong>, 2025.
 - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3592473.3592567) [[Code] ![](https://img.shields.io/github/stars/RoyZry98/RepCaM-Pytorch?style=social)](https://github.com/RoyZry98/RepCaM-Pytorch)
 </div>
 </div>
