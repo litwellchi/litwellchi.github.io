@@ -530,7 +530,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         </p>
     </li>
     <li category="Efficiency">
-        <venue>CVPR'23</venue><pt>FedAB: Truthful Federated Learning with Auction-based Combinatorial Multi-armed Bandit</pt><br>
+        <venue>IoTJ'23</venue><pt>FedAB: Truthful Federated Learning with Auction-based Combinatorial Multi-armed Bandit</pt><br>
         <g>Chenrui Wu, Yifei Zhu, </g><b>Rongyu Zhang</b><g>, Yun Chen, Fangxin Wang, Shuguang Cui</g><br />
         <p>
             <a href="https://ieeexplore.ieee.org/abstract/document/10092911" class="button-59">PDF</a>
