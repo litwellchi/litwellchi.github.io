@@ -583,7 +583,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
     </li>
     <li category="Generalization">
         <venue1>arXiv'24</venue1><pt>EVA: An Embodied World Model for Future Video Anticipation</pt><br>
-        <g>Xiaowei Chi, Hengyuan Zhang, Chun-Kai Fan, Xingqun Qi, </g><b>Rongyu Zhang</b><g>, Aosong Cheng, Yulin Luo, Gaole Dai, Huanrui Yang, Jiaming Liu, Ran Xu, Li Du, Yuan Du, Yanbing Jiang, Shanghang Zhang</g> <br />
+        <g>Xiaowei Chi, Hengyuan Zhang, Chun-Kai Fan, Xingqun Qi, </g><b>Rongyu Zhang</b><g>, Anthony Chen, Chi-min Chan, Wei Xue, Wenhan Luo, Shanghang Zhang, Yike Guo</g> <br />
         <p>
             <a href="https://arxiv.org/pdf/2405.16486" class="button-59">PDF</a>
             <a href="https://github.com/litwellchi/EmbodiedVideoAnticipator" class="button-59">Code</a>
