@@ -328,8 +328,9 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
 	    <h4>📌 We have several academic intern positions at HMI Lab (Peking University). We actively work on AI4Science and Embodied AI. If you like what we do, don't hesitate to contact me.</h4>
+	    <p>[04.2025] 🎉 One paper <strong>RepCaM++</strong> was accepted by <strong>Transaction on Mobile Computing</strong> (CAS-Q1) as first author.</p>
 	    <p>[01.2025] 📚 I am selected for the First “<strong>Young Elite Scientist Sponsorship Program (Ph.D.)</strong>” by CAST.</p>
-	    <p>[12.2024] 🎉 One paper <strong>BEVUDA++</strong> was accepted by <strong>Transaction on Circuits Systems and Video Technology</strong> (CAS-Q1) as first author.</p>
+	    <p>[12.2024] 🎉 One paper <strong>BEVUDA++</strong> was accepted by <strong>Transaction on Circuits and Systems for Video Technology</strong> (CAS-Q1) as first author.</p>
 	    <p>[12.2024] 🎉 One paper <strong>PAT</strong> was accepted by <strong>AAAI 2025</strong> (CCF-A).</p>
 	    <p>[12.2024] 🏅 I was named <strong>"Outstanding Ph.D. Candidate"</strong> by NJU.</p>
 	    <p>[11.2024] 💰 I was offered <strong>"Bank of Jiangsu"</strong> Scholarship from NJU.</p>
@@ -365,7 +366,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 **RepCaM++: Exploring Transparent Visual Prompt with Inference-time Re-parameterization for Neural Video Delivery**
 
 - **Rongyu Zhang**, Xize Duan, Jiaming Liu, Li Du, Yuan Du, Dan Wang, Shanghang Zhang, Fangxin Wang
-- IEEE Transactions on Mobile Computing (Minor Revision) <br><strong>(TMC|CCF-A)</strong>, 2025.
+- IEEE Transactions on Mobile Computing <br><strong>(TMC|CCF-A)</strong>, 2025.
 - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3592473.3592567) [[Code] ![](https://img.shields.io/github/stars/RoyZry98/RepCaM-Pytorch?style=social)](https://github.com/RoyZry98/RepCaM-Pytorch)
 </div>
 </div>
