@@ -438,6 +438,22 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
 
 <ul id="publications">
     <li first_authored=true category="Efficiency">
+        <venue>TMC'25</venue><pt>RepCaM++: Exploring Transparent Visual Prompt with Inference-time Re-parameterization for Neural Video Delivery</pt><br>
+        <b>Rongyu Zhang</b><g>, Xize Duan, Jiaming Liu, Li Du, Yuan Du, Dan Wang, Shanghang Zhang, Fangxin Wang</g><br>
+        <p>
+		<a href="https://ieeexplore.ieee.org/document/10816404" class="button-59">PDF</a>
+		<a class="button-59" href="https://github.com/RoyZry98/RepCaM-Pytorch">Code</a>
+        </p>
+    </li>
+    <li first_authored=true category="Generalization">
+        <venue>TCSVT'25</venue><pt>BEVUDA++: Geometric-aware Unsupervised Domain Adaptation for Multi-View 3D Object Detection</pt><br>
+        <b>Rongyu Zhang</b><g>, Jiaming Liu, Xiaoqi Li, Xiaowei Chi, Dan Wang, Li Du, Yuan Du, Shanghang Zhang</g><br>
+        <p>
+		<a href="https://ieeexplore.ieee.org/document/10816404" class="button-59">PDF</a>
+		<a class="button-59" href="https://github.com/RoyZry98">Code</a>
+        </p>
+    </li>
+    <li first_authored=true category="Efficiency">
         <venue>AAAI‘24</venue><pt>Efficient Deweather Mixture-of-Experts with Uncertainty-aware Feature-wise Linear Modulation</pt><br>
 	<b>Rongyu Zhang</b><g>, Yulin Luo, Jiaming Liu, Huanrui Yang, Zhen Dong, Denis Gudovskiy, Tomoyuki Okuno, Yohei Nakata, Kurt Keutzer, Yuan Du, Shanghang Zhang</g><br>
         <p>
@@ -462,14 +478,6 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
 		<a class="button-59" href="https://arxiv.org/pdf/2405.06413">PDF</a>
 		<a class="button-59" href="https://github.com/RoyZry98">Code</a>
 	</p>
-    </li>
-    <li first_authored=true category="Generalization">
-        <venue>TCSVT'25</venue><pt>BEVUDA++: Geometric-aware Unsupervised Domain Adaptation for Multi-View 3D Object Detection</pt><br>
-        <b>Rongyu Zhang</b><g>, Jiaming Liu, Xiaoqi Li, Xiaowei Chi, Dan Wang, Li Du, Yuan Du, Shanghang Zhang</g><br>
-        <p>
-		<a href="https://ieeexplore.ieee.org/document/10816404" class="button-59">PDF</a>
-		<a class="button-59" href="https://github.com/RoyZry98">Code</a>
-        </p>
     </li>
     <li first_authored=true category="Efficiency">
         <venue>Network'23</venue><pt>Optimizing Efficient Personalized Federated Learning with Hypernetworks at Edge</pt><br>
@@ -599,6 +607,14 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
             <a href="https://arxiv.org/pdf/2407.20962" class="button-59">PDF</a>
             <a href="https://github.com/litwellchi/MMTrail" class="button-59">Code</a>
 	    <img src="https://img.shields.io/github/stars/litwellchi/MMTrail?style=social" class="star-badge" alt="GitHub Stars">
+        </p>
+    </li>
+    <li first_authored=true category="Generalization">
+        <venue1>arXiv'23</venue1><pt>Unimodal Training-Multimodal Prediction: Cross-modal Federated Learning with Hierarchical Aggregation</pt><br>
+        <b>Rongyu Zhang</b><g>, Xiaowei Chi, Wenyi Zhang, Guiliang Liu, Fangxin Wang</g> <br />
+        <p>
+            <a href="https://arxiv.org/pdf/2303.15486" class="button-59">PDF</a>
+            <a href="https://github.com/RoyZry98" class="button-59">Code</a>
         </p>
     </li>
 </ul>
