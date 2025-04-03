@@ -328,7 +328,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
 	    <h4>📌 We have several academic intern positions at HMI Lab (Peking University). We actively work on AI4Science and Embodied AI. If you like what we do, don't hesitate to contact me.</h4>
-	    <p>[04.2025] 🎉 One paper <strong>RepCaM++</strong> was accepted by <strong>Transaction on Mobile Computing</strong> (CAS-Q1) as first author.</p>
+	    <p>[04.2025] 🎉 One paper <strong>RepCaM++</strong> was accepted by <strong>Transaction on Mobile Computing</strong> (CCF-A) as first author.</p>
 	    <p>[01.2025] 📚 I am selected for the First “<strong>Young Elite Scientist Sponsorship Program (Ph.D.)</strong>” by CAST.</p>
 	    <p>[12.2024] 🎉 One paper <strong>BEVUDA++</strong> was accepted by <strong>Transaction on Circuits and Systems for Video Technology</strong> (CAS-Q1) as first author.</p>
 	    <p>[12.2024] 🎉 One paper <strong>PAT</strong> was accepted by <strong>AAAI 2025</strong> (CCF-A).</p>
