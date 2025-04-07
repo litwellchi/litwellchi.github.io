@@ -367,7 +367,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 
 - **Rongyu Zhang**, Xize Duan, Jiaming Liu, Li Du, Yuan Du, Dan Wang, Shanghang Zhang, Fangxin Wang
 - IEEE Transactions on Mobile Computing <br><strong>(TMC|CCF-A)</strong>, 2025.
-- [[Paper]](https://ieeexplore.ieee.org/document/10816404) [[Code] ![](https://img.shields.io/github/stars/RoyZry98/RepCaM-Pytorch?style=social)](https://github.com/RoyZry98/RepCaM-Pytorch)
+- [[Paper]](https://www.computer.org/csdl/journal/tm/5555/01/10949820/25DZuw4IHTy) [[Code] ![](https://img.shields.io/github/stars/RoyZry98/RepCaM-Pytorch?style=social)](https://github.com/RoyZry98/RepCaM-Pytorch)
 </div>
 </div>
 
@@ -441,7 +441,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         <venue>TMC'25</venue><pt>RepCaM++: Exploring Transparent Visual Prompt with Inference-time Re-parameterization for Neural Video Delivery</pt><br>
         <b>Rongyu Zhang</b><g>, Xize Duan, Jiaming Liu, Li Du, Yuan Du, Dan Wang, Shanghang Zhang, Fangxin Wang</g><br>
         <p>
-		<a href="https://ieeexplore.ieee.org/document/10816404" class="button-59">PDF</a>
+		<a href="https://www.computer.org/csdl/journal/tm/5555/01/10949820/25DZuw4IHTy" class="button-59">PDF</a>
 		<a class="button-59" href="https://github.com/RoyZry98/RepCaM-Pytorch">Code</a>
         </p>
     </li>
