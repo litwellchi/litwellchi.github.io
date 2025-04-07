@@ -295,10 +295,10 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
     <ul>
       <li><strong>First</strong> China Association for Science and Technology “<strong>Young Elite Scientist Sponsorship Program (Ph.D.)</strong>”, 2025-2027</li>
       <li><a href="https://scholar.google.com/citations?user=rRcc9eoAAAAJ&hl=zh-CN" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Scholar-445%20Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Google Scholar Citations">
+  <img src="https://img.shields.io/badge/Google%20Scholar-448%20Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Google Scholar Citations">
 </a></li>
 	<li><a href="https://github.com/RoyZry98" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Stars%20228-9cf?logo=GitHub&labelColor=f6f6f6&color=EC707D&logoColor=000000&style=flat" alt="GitHub Stars">
+  <img src="https://img.shields.io/badge/GitHub-Stars%20230-9cf?logo=GitHub&labelColor=f6f6f6&color=EC707D&logoColor=000000&style=flat" alt="GitHub Stars">
 </a></li>
     </ul>
   </div>
@@ -367,7 +367,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 
 - **Rongyu Zhang**, Xize Duan, Jiaming Liu, Li Du, Yuan Du, Dan Wang, Shanghang Zhang, Fangxin Wang
 - IEEE Transactions on Mobile Computing <br><strong>(TMC|CCF-A)</strong>, 2025.
-- [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3592473.3592567) [[Code] ![](https://img.shields.io/github/stars/RoyZry98/RepCaM-Pytorch?style=social)](https://github.com/RoyZry98/RepCaM-Pytorch)
+- [[Paper]](https://ieeexplore.ieee.org/document/10816404) [[Code] ![](https://img.shields.io/github/stars/RoyZry98/RepCaM-Pytorch?style=social)](https://github.com/RoyZry98/RepCaM-Pytorch)
 </div>
 </div>
 
