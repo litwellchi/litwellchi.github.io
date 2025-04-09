@@ -415,18 +415,6 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC'2025</div><img src='images/tmc_utmp.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Unimodal Training-Multimodal Prediction: Cross-modal Federated Learning with Hierarchical Aggregation**
-
-- **Rongyu Zhang**, Xiaowei Chi, Wenyi Zhang, Guiliang Liu, Dan Wang, Fangxin Wang
-- IEEE Transactions on Mobile Computing (Major Revision) <br><strong>(TMC|CCF-A)</strong>, 2025.
-- [[Paper]](https://arxiv.org/pdf/2303.15486) [[Code]](https://github.com/RoyZry98)
-</div>
-</div>
-
 ## 📚 Full publications
 *: Equal Contribution.<br>
 CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, <venue>TMC</venue>x 1, <venue>TCSVT</venue>x 1 <br><br>
