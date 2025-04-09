@@ -556,6 +556,14 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
 	    <img src="https://img.shields.io/github/stars/RoyZry98/MoLe-VLA-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
+    <li category="Efficiency">
+        <venue1>arXiv'24</venue1><pt>FBQuant: FeedBack Quantization for Large Language Models</pt><br>
+        <g>Yijiang Liu, Hengyu Fang, Liulu He, </g><b>Rongyu Zhang</b><g>, Yichuan Bai, Yuan Du, Li Du</g> <br />
+        <p>
+            <a href="https://arxiv.org/pdf/2501.16385" class="button-59">PDF</a>
+            <a href="https://github.com/RoyZry98" class="button-59">Code</a>
+        </p>
+    </li>
     <li first_authored=true category="Generalization">
         <venue1>arXiv'24</venue1><pt>Decomposing the Neural: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation</pt><br>
         <b>Rongyu Zhang*</b><g>, Aosong Cheng, Yulin Luo, Gaole Dai, Huanrui Yang, Jiaming Liu, Ran Xu, Li Du, Yuan Du, Yanbing Jiang, Shanghang Zhang</g> <br />
