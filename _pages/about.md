@@ -557,7 +557,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         </p>
     </li>
     <li category="Efficiency">
-        <venue1>arXiv'24</venue1><pt>FBQuant: FeedBack Quantization for Large Language Models</pt><br>
+        <venue1>arXiv'25</venue1><pt>FBQuant: FeedBack Quantization for Large Language Models</pt><br>
         <g>Yijiang Liu, Hengyu Fang, Liulu He, </g><b>Rongyu Zhang</b><g>, Yichuan Bai, Yuan Du, Li Du</g> <br />
         <p>
             <a href="https://arxiv.org/pdf/2501.16385" class="button-59">PDF</a>
