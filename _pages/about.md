@@ -295,10 +295,10 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
     <ul>
       <li><strong>First</strong> China Association for Science and Technology “<strong>Young Elite Scientist Sponsorship Program (Ph.D.)</strong>”, 2025-2027</li>
       <li><a href="https://scholar.google.com/citations?user=rRcc9eoAAAAJ&hl=zh-CN" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Scholar-450%20Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Google Scholar Citations">
+  <img src="https://img.shields.io/badge/Google%20Scholar-462%20Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Google Scholar Citations">
 </a></li>
 	<li><a href="https://github.com/RoyZry98" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Stars%20247-9cf?logo=GitHub&labelColor=f6f6f6&color=EC707D&logoColor=000000&style=flat" alt="GitHub Stars">
+  <img src="https://img.shields.io/badge/GitHub-Stars%20249-9cf?logo=GitHub&labelColor=f6f6f6&color=EC707D&logoColor=000000&style=flat" alt="GitHub Stars">
 </a></li>
     </ul>
   </div>
@@ -378,7 +378,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 
 - **Rongyu Zhang**, Jiaming Liu, Xiaoqi Li, Xiaowei Chi, Dan Wang, Li Du, Yuan Du, Shanghang Zhang
 - IEEE Transactions on Circuits and Systems for Video Technology <br><strong>(TCSVT|CAS-Q1)</strong>, 2025.
-- [[Paper]](https://ieeexplore.ieee.org/document/10816404) [[Code]](https://github.com/RoyZry98)
+- [[Paper]](https://ieeexplore.ieee.org/document/10816404) [[Code] ![](https://img.shields.io/github/stars/RoyZry98/BEVUDA-Pytorch?style=social)](https://github.com/RoyZry98/BEVUDA-Pytorch)
 </div>
 </div>
 
@@ -393,16 +393,6 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC'2024</div><img src='images/mupfl.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Multi-level Personalized Federated Learning on Heterogeneous and Long-Tailed Data**
-
-- **Rongyu Zhang**, Yun Chen, Chenrui Wu, Fangxin Wang, Bo Li
-- IEEE Transactions on Mobile Computing <br><strong>(TMC|CCF-A)</strong>, 2024.
-- [[Paper]](https://arxiv.org/pdf/2405.06413) [[Code]](https://github.com/RoyZry98)
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'2024</div><img src='images/aaai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -412,6 +402,17 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 - **Rongyu Zhang**, Yulin Luo, Jiaming Liu, Huanrui Yang, Zhen Dong, Denis Gudovskiy, Tomoyuki Okuno, Yohei Nakata, Kurt Keutzer, Yuan Du, Shanghang Zhang
 - The 38th AAAI Conference on Artificial Intelligence <br><strong>(AAAI|CCF-A)</strong>, 2024.
 - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/29622/31055) [[Code] ![](https://img.shields.io/github/stars/RoyZry98/MoFME-Pytorch?style=social)](https://github.com/RoyZry98/MoFME-Pytorch)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC'2024</div><img src='images/mupfl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Multi-level Personalized Federated Learning on Heterogeneous and Long-Tailed Data**
+
+- **Rongyu Zhang**, Yun Chen, Chenrui Wu, Fangxin Wang, Bo Li
+- IEEE Transactions on Mobile Computing <br><strong>(TMC|CCF-A)</strong>, 2024.
+- [[Paper]](https://arxiv.org/pdf/2405.06413) [[Code]](https://github.com/RoyZry98)
 </div>
 </div>
 
@@ -438,7 +439,8 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         <b>Rongyu Zhang</b><g>, Jiaming Liu, Xiaoqi Li, Xiaowei Chi, Dan Wang, Li Du, Yuan Du, Shanghang Zhang</g><br>
         <p>
 		<a href="https://ieeexplore.ieee.org/document/10816404" class="button-59">PDF</a>
-		<a class="button-59" href="https://github.com/RoyZry98">Code</a>
+		<a class="button-59" href="https://github.com/RoyZry98/BEVUDA-Pytorch">Code</a>
+		<img src="https://img.shields.io/github/stars/RoyZry98/BEVUDA-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
     <li first_authored=true category="Efficiency">
@@ -498,7 +500,8 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         <g>Jiaming Liu*, </g><b>Rongyu Zhang*</b><g>, Xiaowei Chi, Xiaoqi Li, Ming Lu, Yandong Guo, Shanghang Zhang</g><br />
         <p>
             <a href="https://arxiv.org/pdf/2211.17126" class="button-59">PDF</a>
-	    <a href="https://github.com/RoyZry98" class="button-59">Code</a>
+	    <a class="button-59" href="https://github.com/RoyZry98/BEVUDA-Pytorch">Code</a>
+	    <img src="https://img.shields.io/github/stars/RoyZry98/BEVUDA-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
     <li category="Efficiency">
