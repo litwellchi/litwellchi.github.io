@@ -432,6 +432,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         <p>
 		<a href="https://www.computer.org/csdl/journal/tm/5555/01/10949820/25DZuw4IHTy" class="button-59">PDF</a>
 		<a class="button-59" href="https://github.com/RoyZry98/RepCaM-Pytorch">Code</a>
+		<img src="https://img.shields.io/github/stars/RoyZry98/RepCaM-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
     <li first_authored=true category="Generalization">
