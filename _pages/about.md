@@ -378,7 +378,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 
 - **Rongyu Zhang**, Jiaming Liu, Xiaoqi Li, Xiaowei Chi, Dan Wang, Li Du, Yuan Du, Shanghang Zhang
 - IEEE Transactions on Circuits and Systems for Video Technology <br><strong>(TCSVT|CAS-Q1)</strong>, 2025.
-- [[Paper]](https://ieeexplore.ieee.org/document/10816404) [[Code] ![](https://img.shields.io/github/stars/RoyZry98/BEVUDA-Pytorch?style=social)](https://github.com/RoyZry98/BEVUDA-Pytorch)
+- [[Paper]](https://ieeexplore.ieee.org/document/10816404) [[Code] ![](https://img.shields.io/github/stars/liujiaming1996/BEVUDA?style=social)](https://github.com/liujiaming1996/BEVUDA)
 </div>
 </div>
 
@@ -440,8 +440,8 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         <b>Rongyu Zhang</b><g>, Jiaming Liu, Xiaoqi Li, Xiaowei Chi, Dan Wang, Li Du, Yuan Du, Shanghang Zhang</g><br>
         <p>
 		<a href="https://ieeexplore.ieee.org/document/10816404" class="button-59">PDF</a>
-		<a class="button-59" href="https://github.com/RoyZry98/BEVUDA-Pytorch">Code</a>
-		<img src="https://img.shields.io/github/stars/RoyZry98/BEVUDA-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
+		<a class="button-59" href="https://github.com/liujiaming1996/BEVUDA">Code</a>
+		<img src="https://img.shields.io/github/stars/liujiaming1996/BEVUDA?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
     <li first_authored=true category="Efficiency">
