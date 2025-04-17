@@ -293,7 +293,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
   <div class="highlight-block">
     <h3>✍️ Given Credits</h3>
     <ul>
-      <li><strong>First</strong> China Association for Science and Technology “<strong>Young Elite Scientist Sponsorship Program (Ph.D.)</strong>”, 2025-2027</li>
+      <li><strong>First</strong> China Association for Science and Technology “<strong>Young Talent Support Project Doctoral Special Program</strong>”, 2025-2027</li>
       <li><a href="https://scholar.google.com/citations?user=rRcc9eoAAAAJ&hl=zh-CN" target="_blank">
   <img src="https://img.shields.io/badge/Google%20Scholar-462%20Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Google Scholar Citations">
 </a></li>
@@ -625,7 +625,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
 
 # 🥇 Honors and Awards
 - *(2025.09)*: &nbsp;Hong Kong Post-Graduate Scholarship (HKPGS) with 18,840¥/month, PolyU
-- *(2025.01)*: &nbsp;The “Young Talent Support Project Doctoral Special Program of China Association for Science and Technology (First session, 3,226 recipients nationwide)” with 40,000¥, China Association for Science and Technology (CAST)
+- *(2025.01)*: &nbsp;The “Young Talent Support Project Doctoral Special Program (First session, 3,226 recipients nationwide)” with 40,000¥, China Association for Science and Technology (CAST)
 - *(2024.12)*: &nbsp;Outstanding Ph.D. Candidate with 2,000¥/year, NJU
 - *(2024.12)*: &nbsp;"Bank of Jiangsu" Scholarship with 5,000¥, NJU
 - *(2024.05)*: &nbsp;Jiangsu Province Graduate Research and Practical Innovation Project “Mixture-of-Activation-Sparsity-Experts for Continuous Test-time Adaptation” with 15,000¥, NJU
