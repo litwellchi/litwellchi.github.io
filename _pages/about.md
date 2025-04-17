@@ -329,7 +329,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 	  <div style="height:200px; width:100%; overflow:auto;">
 	    <h4>📌 We have several academic intern positions at HMI Lab (Peking University). We actively work on AI4Science and Embodied AI. If you like what we do, don't hesitate to contact me.</h4>
 	    <p>[04.2025] 🎉 One paper <strong>RepCaM++</strong> was accepted by <strong>Transaction on Mobile Computing</strong> (CCF-A) as first author.</p>
-	    <p>[01.2025] 📚 I am selected for the First “<strong>Young Elite Scientist Sponsorship Program (Ph.D.)</strong>” by CAST.</p>
+	    <p>[01.2025] 📚 I am selected for the “<strong>Young Talent Support Project Doctoral Special Program of China Association for Science and Technology (First session, 3,226 recipients nationwide)</strong>” by CAST.</p>
 	    <p>[12.2024] 🎉 One paper <strong>BEVUDA++</strong> was accepted by <strong>Transaction on Circuits and Systems for Video Technology</strong> (CAS-Q1) as first author.</p>
 	    <p>[12.2024] 🎉 One paper <strong>PAT</strong> was accepted by <strong>AAAI 2025</strong> (CCF-A).</p>
 	    <p>[12.2024] 🏅 I was named <strong>"Outstanding Ph.D. Candidate"</strong> by NJU.</p>
@@ -625,7 +625,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
 
 # 🥇 Honors and Awards
 - *(2025.09)*: &nbsp;Hong Kong Post-Graduate Scholarship (HKPGS) with 18,840¥/month, PolyU
-- *(2025.01)*: &nbsp;The First “Young Elite Scientist Sponsorship Program (Ph.D.)” with 40,000¥ (Only 3226 students were selected in the first year), China Association for Science and Technology (CAST)
+- *(2025.01)*: &nbsp;The “Young Talent Support Project Doctoral Special Program of China Association for Science and Technology (First session, 3,226 recipients nationwide)” with 40,000¥, China Association for Science and Technology (CAST)
 - *(2024.12)*: &nbsp;Outstanding Ph.D. Candidate with 2,000¥/year, NJU
 - *(2024.12)*: &nbsp;"Bank of Jiangsu" Scholarship with 5,000¥, NJU
 - *(2024.05)*: &nbsp;Jiangsu Province Graduate Research and Practical Innovation Project “Mixture-of-Activation-Sparsity-Experts for Continuous Test-time Adaptation” with 15,000¥, NJU
