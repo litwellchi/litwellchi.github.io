@@ -567,7 +567,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
     </li>
     <li first_authored=true category="Efficiency">
         <venue1>arXiv'24</venue1><pt>Implicit Neural Image Field for Biological Microscopy Image Compression</pt><br>
-        <b>Rongyu Zhang*</b><g>, Gaole Dai*, Cheng-Ching Tseng*, Qingpo Wuwu*, Shaokang Wan*, Ming Lu, Tiejun Huang, Yu Zhou, Ali Ata Tuz, Matthias Gunzer, Jianxu Chen, Shanghang Zhang</g> <br />
+        <g>Gaole Dai, Cheng-Ching Tseng*, Qingpo Wuwu*<g>, <b>Rongyu Zhang*</b>,  <g>Shaokang Wan*, Ming Lu, Tiejun Huang, Yu Zhou, Ali Ata Tuz, Matthias Gunzer, Jianxu Chen, Shanghang Zhang</g> <br />
         <p>
             <a href="http://arxiv.org/abs/2405.19012" class="button-59">PDF</a>
             <a href="https://github.com/RoyZry98/INIF-Pytorch" class="button-59">Code</a>
