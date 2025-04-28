@@ -566,17 +566,8 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         </p>
     </li>
     <li first_authored=true category="Efficiency">
-        <venue1>arXiv'24</venue1><pt>Implicit Neural Image Field for Biological Microscopy Image Compression</pt><br>
-        <g>Gaole Dai, Cheng-Ching Tseng*, Qingpo Wuwu*<g>, <b>Rongyu Zhang*</b>,  <g>Shaokang Wan*, Ming Lu, Tiejun Huang, Yu Zhou, Ali Ata Tuz, Matthias Gunzer, Jianxu Chen, Shanghang Zhang</g> <br />
-        <p>
-            <a href="http://arxiv.org/abs/2405.19012" class="button-59">PDF</a>
-            <a href="https://github.com/RoyZry98/INIF-Pytorch" class="button-59">Code</a>
-	    <img src="https://img.shields.io/github/stars/RoyZry98/INIF-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
-        </p>
-    </li>
-    <li first_authored=true category="Efficiency">
-        <venue1>arXiv'24</venue1><pt>Intuition-aware Mixture-of-Rank-1-Experts for Parameter Efficient Finetuning</pt><br>
-        <g>Yijiang Liu*, </g><b>Rongyu Zhang*</b><g>, Huanrui Yang, Kurt Keutzer, Yuan Du, Li Du, Shanghang Zhang</g> <br />
+        <venue1>arXiv'24</venue1><pt>T-REX: Mixture-of-Rank-One-Experts with semantic-aware Intuition for Multi-task Large Language Model Finetuning</pt><br>
+        <b>Rongyu Zhang*</b><g>Yijiang Liu*, Huanrui Yang*, Kurt Keutzer, Dan Wang, Yuan Du, Li Du, Shanghang Zhang</g> <br />
         <p>
             <a href="https://arxiv.org/pdf/2404.08985.pdf" class="button-59">PDF</a>
             <a href="https://github.com/RoyZry98" class="button-59">Code</a>
@@ -589,6 +580,15 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
             <a href="https://arxiv.org/pdf/2311.17963" class="button-59">PDF</a>
             <a href="https://github.com/litwellchi/M2Chat" class="button-59">Code</a>
 		<img src="https://img.shields.io/github/stars/litwellchi/M2Chat?style=social" class="star-badge" alt="GitHub Stars">
+        </p>
+    </li>
+    <li first_authored=true category="Efficiency">
+        <venue1>arXiv'24</venue1><pt>Implicit Neural Image Field for Biological Microscopy Image Compression</pt><br>
+        <g>Gaole Dai, Cheng-Ching Tseng*, Qingpo Wuwu*</g>, <b>Rongyu Zhang*</b>,  <g>Shaokang Wan*, Ming Lu, Tiejun Huang, Yu Zhou, Ali Ata Tuz, Matthias Gunzer, Jianxu Chen, Shanghang Zhang</g> <br />
+        <p>
+            <a href="http://arxiv.org/abs/2405.19012" class="button-59">PDF</a>
+            <a href="https://github.com/RoyZry98/INIF-Pytorch" class="button-59">Code</a>
+	    <img src="https://img.shields.io/github/stars/RoyZry98/INIF-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
     <li category="Generalization">
