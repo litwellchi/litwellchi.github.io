@@ -328,6 +328,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
 	    <h4>📌 We have several academic intern positions at HMI Lab (Peking University). We actively work on AI4Science and Embodied AI. If you like what we do, don't hesitate to contact me.</h4>
+	    <p>[04.2025] 🎉 One paper <strong>FBQuant</strong> was accepted by <strong>IJCAI 2025</strong> (CCF-A).</p>
 	    <p>[04.2025] 🎉 One paper <strong>RepCaM++</strong> was accepted by <strong>Transaction on Mobile Computing</strong> (CCF-A) as first author.</p>
 	    <p>[01.2025] 📚 I am selected for the “<strong>Young Talent Support Project Doctoral Special Program of China Association for Science and Technology (First session, 3,226 recipients nationwide)</strong>” by CAST.</p>
 	    <p>[12.2024] 🎉 One paper <strong>BEVUDA++</strong> was accepted by <strong>Transaction on Circuits and Systems for Video Technology</strong> (CAS-Q1) as first author.</p>
@@ -336,7 +337,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 	    <p>[11.2024] 💰 I was offered <strong>"Bank of Jiangsu"</strong> Scholarship from NJU.</p>
 	    <p>[09.2024] 💻 The Panasonic Corporation is integrating the VeCAF (MM'24) into its actual business operations.</p>
 	    <p>[08.2024] 💼 I joined the Beijing Academy of Artificial Intelligence supervised by <a class="blue-text" href="https://www.shanghangzhang.com/" target="_blank"><strong>Prof. Shanghang Zhang</strong></a>.</p>
-	    <p>[07.2024] 🎉 One paper <strong>VeCAF</strong> was accepted by <strong>ACM Multimedia 2024</strong> (CCF-A) as first author.</p>
+	    <p>[07.2024] 🎉 One paper <strong>VeCAF</strong> was accepted by <strong>ACMMM 2024</strong> (CCF-A) as first author.</p>
 	    <p>[07.2024] 🎓 I am offered a dual Ph.D. at The Hong Kong Polytechnic University supervised by <a class="blue-text" href="https://web.comp.polyu.edu.hk/csdwang/" target="_blank"><strong>Prof. Dan Wang</strong></a>.</p>
 	    <p>[05.2024] 🎉 One paper <strong>MuPFL</strong> was accepted by <strong>IEEE Transaction on Mobile Computing</strong> (CCF-A) as first author.</p>
 	    <p>[04.2024] 📚 Our project: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation, has been selected as one of the Jiangsu Province Graduate Research and Practical Innovation Project.</p>
@@ -506,6 +507,14 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         </p>
     </li>
     <li category="Efficiency">
+        <venue>IJCAI'25</venue1><pt>FBQuant: FeedBack Quantization for Large Language Models</pt><br>
+        <g>Yijiang Liu, Hengyu Fang, Liulu He, </g><b>Rongyu Zhang</b><g>, Yichuan Bai, Yuan Du, Li Du</g><br />
+        <p>
+            <a href="https://arxiv.org/pdf/2501.16385" class="button-59">PDF</a>
+	    <a href="https://github.com/RoyZry98" class="button-59">Code</a>
+        </p>
+    </li>
+    <li category="Efficiency">
         <venue>AAAI'25</venue><pt>PAT: Pruning-Aware Tuning for Large Language Models</pt><br>
         <g>Yijiang Liu, Huanrui Yang, Youxin Chen, </g><b>Rongyu Zhang</b><g>, Miao Wang, Yuan Du, Li Du</g><br />
         <p>
@@ -546,14 +555,6 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
             <a href="http://arxiv.org/abs/2503.20384" class="button-59">PDF</a>
             <a href="https://github.com/RoyZry98/MoLe-VLA-Pytorch" class="button-59">Code</a>
 	    <img src="https://img.shields.io/github/stars/RoyZry98/MoLe-VLA-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
-        </p>
-    </li>
-    <li category="Efficiency">
-        <venue1>Arxiv'25</venue1><pt>FBQuant: FeedBack Quantization for Large Language Models</pt><br>
-        <g>Yijiang Liu, Hengyu Fang, Liulu He, </g><b>Rongyu Zhang</b><g>, Yichuan Bai, Yuan Du, Li Du</g><br />
-        <p>
-            <a href="https://arxiv.org/pdf/2501.16385" class="button-59">PDF</a>
-	    <a href="https://github.com/RoyZry98" class="button-59">Code</a>
         </p>
     </li>
     <li first_authored=true category="Generalization">
