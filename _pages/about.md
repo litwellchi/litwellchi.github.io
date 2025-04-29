@@ -358,6 +358,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 	</div>
  
 <br>
+<br>
 
 # 📝 Publications 
 ## 📒 Selected publications
