@@ -330,31 +330,31 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 	    <h4>📌 We have several academic intern positions at HMI Lab (Peking University). We actively work on AI4Science and Embodied AI. If you like what we do, don't hesitate to contact me.</h4>
 	    <p>[04.2025] 🎉 One paper <strong>FBQuant</strong> was accepted by <strong>IJCAI 2025</strong> (CCF-A).</p>
 	    <p>[04.2025] 🎉 One paper <strong>RepCaM++</strong> was accepted by <strong>IEEE TMC</strong> (CCF-A) as first author.</p>
-	    <p>[03.2025] 💻 PAT (AAAI'25) has been applied to Samsung’s on-device applications for smartphones and TVs.</p>
+	    <p>[03.2025] 💻 <strong>PAT</strong> (AAAI'25) has been applied to Samsung’s on-device applications for smartphones and TVs.</p>
 	    <p>[01.2025] 📚 I am selected for the “<strong>Young Talent Support Project Doctoral Special Program of China Association for Science and Technology (First session, 3,226 recipients nationwide)</strong>” by CAST.</p>
 	    <p>[12.2024] 🎉 One paper <strong>BEVUDA++</strong> was accepted by <strong>IEEE TCSVT</strong> (CAS-Q1) as first author.</p>
 	    <p>[12.2024] 🎉 One paper <strong>PAT</strong> was accepted by <strong>AAAI 2025</strong> (CCF-A).</p>
 	    <p>[12.2024] 🏅 I was named <strong>"Outstanding Ph.D. Candidate"</strong> by NJU.</p>
 	    <p>[11.2024] 💰 I was offered <strong>"Bank of Jiangsu"</strong> Scholarship from NJU.</p>
-	    <p>[09.2024] 💻 The Panasonic Corporation is integrating the VeCAF (MM'24) into its actual business operations.</p>
+	    <p>[09.2024] 💻 The Panasonic Corporation is integrating the <strong>VeCAF</strong> (MM'24) into its actual business operations.</p>
 	    <p>[08.2024] 💼 I joined the Beijing Academy of Artificial Intelligence supervised by <a class="blue-text" href="https://www.shanghangzhang.com/" target="_blank"><strong>Prof. Shanghang Zhang</strong></a>.</p>
 	    <p>[07.2024] 🎉 One paper <strong>VeCAF</strong> was accepted by <strong>ACMMM 2024</strong> (CCF-A) as first author.</p>
-	    <p>[07.2024] 🎓 I am offered a dual Ph.D. at The Hong Kong Polytechnic University supervised by <a class="blue-text" href="https://web.comp.polyu.edu.hk/csdwang/" target="_blank"><strong>Prof. Dan Wang</strong></a>.</p>
+	    <p>[07.2024] 🎓 I am offered a <strong>dual Ph.D.</strong> at The Hong Kong Polytechnic University supervised by <a class="blue-text" href="https://web.comp.polyu.edu.hk/csdwang/" target="_blank"><strong>Prof. Dan Wang</strong></a>.</p>
 	    <p>[05.2024] 🎉 One paper <strong>MuPFL</strong> was accepted by <strong>IEEE TMC</strong> (CCF-A) as first author.</p>
-	    <p>[04.2024] 📚 Our project: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation, has been selected as one of the Jiangsu Province Graduate Research and Practical Innovation Projects.</p>
-	    <p>[03.2024] 💻 The Panasonic Corporation is integrating the MoFME (AAAI'24) into its actual business operations.</p>
+	    <p>[04.2024] 📚 Our project: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation, has been selected as one of the <strong>Jiangsu Province Graduate Research and Practical Innovation Projects</strong>.</p>
+	    <p>[03.2024] 💻 The Panasonic Corporation is integrating the <strong>MoFME</strong> (AAAI'24) into its actual business operations.</p>
 	    <p>[01.2024] 🎉 One paper <strong>BEVUDA</strong> was accepted by <strong>IEEE ICRA 2024</strong> (CCF-B) as first author.</p>
 	    <p>[12.2023] 🎉 One paper <strong>MoFME</strong> was accepted by <strong>AAAI 2024</strong> (CCF-A) as first author.</p>
-	    <p>[08.2023] 🏅 We won 2nd place in the SHIFT Challenge 2023 - Continuous Test-time Adaptation for Semantic Segmentation in the challenges of VCL Workshop, ICCV2023.</p>
-	    <p>[06.2023] 🎓 I joined the ISCL lab at Nanjing University and the HMI Lab of the NATIONAL ENGINEERING RESEARCH CENTER OF VISUAL TECHNOLOGY at Peking University as a joint Ph.D. student.</p>
-	    <p>[04.2023] 🎉 One paper <strong>RepCaM</strong> was accepted by <strong>ACM NOSSDAV 2023</strong> (CCF-B) as first author.</p>
+	    <p>[08.2023] 🏅 We won <strong>2nd place</strong> in the SHIFT Challenge 2023 - Continuous Test-time Adaptation for Semantic Segmentation in the challenges of VCL Workshop, ICCV2023.</p>
+	    <p>[06.2023] 🎓 I joined the ISCL lab at <strong>Nanjing University</strong> and the HMI Lab of the NATIONAL ENGINEERING RESEARCH CENTER OF VISUAL TECHNOLOGY at <strong>Peking University</strong> as a joint Ph.D. student.</p>
+	    <p>[03.2023] 🎓 I received <strong>M.Phil.</strong> degree from <strong>The Chinese University of Hong Kong, Shenzhen</strong></p>
+	    <p>[03.2023] 🎉 One paper <strong>RepCaM</strong> was accepted by <strong>ACM NOSSDAV 2023</strong> (CCF-B) as first author.</p>
 	    <p>[03.2023] 🎉 One paper <strong>CdFed</strong> was accepted by <strong>IEEE ICME 2023</strong> (CCF-B) as first author.</p>
 	    <p>[03.2023] 🎉 One paper <strong>FedFHN</strong> was accepted by <strong>IEEE Network</strong> (CAS-Q2) as first author.</p>
 	    <p>[03.2023] 🎉 One paper <strong>FedAB</strong> was accepted by <strong>IEEE IoTJ</strong> (CAS-Q1).</p>
 	    <p>[03.2023] 🎉 Two papers <strong>BEVSAN</strong> and <strong>CDCCA</strong> were accepted by <strong>IEEE CVPR 2023</strong> (CCF-A).</p>
-	    <p>[03.2023] 🎓 I received M.Phil. degree from CUHKSZ.</p>
-	    <p>[09.2022] 💼 I joined OPPO research as a Research Intern.</p>
-	    <p>[08.2021] 🎓 I joined INML lab in CUHKSZ as an M.Phil. student.</p>
+	    <p>[09.2022] 💼 I joined <strong>OPPO Research</strong> as a Research Intern.</p>
+	    <p>[08.2021] 🎓 I joined INML lab at <strong>The Chinese University of Hong Kong, Shenzhen</strong> as an <strong>M.Phil.</strong> student.</p>
 	  </div>
 	</div>
  
@@ -680,7 +680,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
     <ul>
 	<img src="images/friends.png" alt="friend Image" style="display: block; margin: auto; max-width: 100%; height: auto;">
       <br>
-	    <li>Here are some of my closest academic friends: <a href='https://liujiaming1996.github.io/'>Jiaming Liu</a>, <a href='https://scholar.google.com/citations?user=SgeV4NkAAAAJ&hl=zh-CN&oi=ao'>Yulin Luo</a>, <a href='https://gumpest.github.io/'>Yuan Zhang</a>, and Gaole Dai from PKU; <a href='https://scholar.google.com/citations?hl=zh-CN&user=Vl1X_-sAAAAJ'>Xiaowei Chi</a> from HKUST; <a href='https://www.liuyijiang.com/'>Yijiang Liu</a> from NJU; <a href='https://wuchenrui.github.io/'>Chenrui Wu</a> from ZJU&SFU; <a href='https://yilijin.github.io/'>Yili Jin</a> and <a href='https://slyfooox666.github.io/Kaiyuan_Hu/'>Kaiyuan Hu</a> from McGill.</li>
+	    <li>Some of my closest academic friends: <a href='https://liujiaming1996.github.io/'>Jiaming Liu</a>, <a href='https://scholar.google.com/citations?user=SgeV4NkAAAAJ&hl=zh-CN&oi=ao'>Yulin Luo</a>, <a href='https://gumpest.github.io/'>Yuan Zhang</a>, and Gaole Dai from PKU; <a href='https://scholar.google.com/citations?hl=zh-CN&user=Vl1X_-sAAAAJ'>Xiaowei Chi</a> from HKUST; <a href='https://www.liuyijiang.com/'>Yijiang Liu</a> from NJU; <a href='https://wuchenrui.github.io/'>Chenrui Wu</a> from ZJU&SFU; <a href='https://yilijin.github.io/'>Yili Jin</a> and <a href='https://slyfooox666.github.io/Kaiyuan_Hu/'>Kaiyuan Hu</a> from McGill.</li>
     </ul>
   </div>
   
