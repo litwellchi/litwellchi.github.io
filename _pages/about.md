@@ -331,7 +331,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 	    <p>[04.2025] 🎉 One paper <strong>FBQuant</strong> was accepted by <strong>IJCAI 2025</strong> (CCF-A).</p>
 	    <p>[04.2025] 🎉 One paper <strong>RepCaM++</strong> was accepted by <strong>IEEE TMC</strong> (CCF-A) as first author.</p>
 	    <p>[03.2025] 💻 <strong>PAT</strong> (AAAI'25) has been applied to Samsung’s on-device applications for smartphones and TVs.</p>
-	    <p>[01.2025] 📚 I am selected for the “<strong>Young Talent Support Project Doctoral Special Program of China Association for Science and Technology (First session, 3,226 recipients nationwide)</strong>” by CAST.</p>
+	    <p>[01.2025] 📚 I am selected for the “<strong>Young Talent Support Project Doctoral Special Program of China Association for Science and Technology</strong>” (First session, 3,226 recipients nationwide) by CAST.</p>
 	    <p>[12.2024] 🎉 One paper <strong>BEVUDA++</strong> was accepted by <strong>IEEE TCSVT</strong> (CAS-Q1) as first author.</p>
 	    <p>[12.2024] 🎉 One paper <strong>PAT</strong> was accepted by <strong>AAAI 2025</strong> (CCF-A).</p>
 	    <p>[12.2024] 🏅 I was named <strong>"Outstanding Ph.D. Candidate"</strong> by NJU.</p>
@@ -640,11 +640,11 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
 
 # 💼 Services
 #### Journal reviewer
-- IEEE Transaction on Mobile Computing
-- IEEE Transaction on Computers
-- IEEE Transaction on Neural Networks and Learning Systems
-- IEEE Internet of Things Journal
-- IEEE Network
+- IEEE Transactions on Mobile Computing (TMC)
+- IEEE Transactions on Computers (TC)
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- IEEE Internet of Things Journal (IoTJ)
+- IEEE Network Magazine (Network)
 
 #### Conference reviewer
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025
