@@ -647,9 +647,10 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
 - IEEE Network
 
 #### Conference reviewer
-- CVPR 2025
-- ACM MM 2024, 2025
-- ICCV 2023, 2025
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025
+- ACM International Conference on Multimedia (MM) 2024, 2025
+- IEEE/CVF International Conference on Computer Vision (ICCV) 2023, 2025
+- Annual Conference on Neural Information Processing Systems (NIPS) 2025
 
 <br>
 
