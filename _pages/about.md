@@ -374,14 +374,25 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT'2025</div><img src='images/tcsvt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC'2024</div><img src='images/mupfl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**BEVUDA++: Geometric-aware Unsupervised Domain Adaptation for Multi-View 3D Object Detection**
+**Multi-level Personalized Federated Learning on Heterogeneous and Long-Tailed Data**
 
-- **Rongyu Zhang**, Jiaming Liu, Xiaoqi Li, Xiaowei Chi, Dan Wang, Li Du, Yuan Du, Shanghang Zhang
-- IEEE Transactions on Circuits and Systems for Video Technology <br><strong>(TCSVT|CAS-Q1)</strong>, 2025.
-- [[Paper]](https://ieeexplore.ieee.org/document/10816404) [[Code] ![](https://img.shields.io/github/stars/liujiaming1996/BEVUDA?style=social)](https://github.com/liujiaming1996/BEVUDA)
+- **Rongyu Zhang**, Yun Chen, Chenrui Wu, Fangxin Wang, Bo Li
+- IEEE Transactions on Mobile Computing <br><strong>(TMC|CCF-A)</strong>, 2024.
+- [[Paper]](https://arxiv.org/pdf/2405.06413) [[Code]](https://github.com/RoyZry98)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'2024</div><img src='images/aaai.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+	
+**Efficient Deweather Mixture-of-Experts with Uncertainty-aware Feature-wise Linear Modulation**
+
+- **Rongyu Zhang**, Yulin Luo, Jiaming Liu, Huanrui Yang, Zhen Dong, Denis Gudovskiy, Tomoyuki Okuno, Yohei Nakata, Kurt Keutzer, Yuan Du, Shanghang Zhang
+- The AAAI Conference on Artificial Intelligence <br><strong>(AAAI|CCF-A)</strong>, 2024.
+- [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/29622/31055) [[Code] ![](https://img.shields.io/github/stars/RoyZry98/MoFME-Pytorch?style=social)](https://github.com/RoyZry98/MoFME-Pytorch)
 </div>
 </div>
 
@@ -396,26 +407,14 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'2024</div><img src='images/aaai.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-	
-**Efficient Deweather Mixture-of-Experts with Uncertainty-aware Feature-wise Linear Modulation**
-
-- **Rongyu Zhang**, Yulin Luo, Jiaming Liu, Huanrui Yang, Zhen Dong, Denis Gudovskiy, Tomoyuki Okuno, Yohei Nakata, Kurt Keutzer, Yuan Du, Shanghang Zhang
-- The 38th AAAI Conference on Artificial Intelligence <br><strong>(AAAI|CCF-A)</strong>, 2024.
-- [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/29622/31055) [[Code] ![](https://img.shields.io/github/stars/RoyZry98/MoFME-Pytorch?style=social)](https://github.com/RoyZry98/MoFME-Pytorch)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC'2024</div><img src='images/mupfl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT'2025</div><img src='images/tcsvt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Multi-level Personalized Federated Learning on Heterogeneous and Long-Tailed Data**
+**BEVUDA++: Geometric-aware Unsupervised Domain Adaptation for Multi-View 3D Object Detection**
 
-- **Rongyu Zhang**, Yun Chen, Chenrui Wu, Fangxin Wang, Bo Li
-- IEEE Transactions on Mobile Computing <br><strong>(TMC|CCF-A)</strong>, 2024.
-- [[Paper]](https://arxiv.org/pdf/2405.06413) [[Code]](https://github.com/RoyZry98)
+- **Rongyu Zhang**, Jiaming Liu, Xiaoqi Li, Xiaowei Chi, Dan Wang, Li Du, Yuan Du, Shanghang Zhang
+- IEEE Transactions on Circuits and Systems for Video Technology <br><strong>(TCSVT|CAS-Q1)</strong>, 2025.
+- [[Paper]](https://ieeexplore.ieee.org/document/10816404) [[Code] ![](https://img.shields.io/github/stars/liujiaming1996/BEVUDA?style=social)](https://github.com/liujiaming1996/BEVUDA)
 </div>
 </div>
 
@@ -570,7 +569,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
     </li>
     <li first_authored=true category="Efficiency">
         <venue1>arXiv'24</venue1><pt>T-REX: Mixture-of-Rank-One-Experts with semantic-aware Intuition for Multi-task Large Language Model Finetuning</pt><br>
-        <b>Rongyu Zhang*</b>, <g>Yijiang Liu*, Huanrui Yang*, Kurt Keutzer, Dan Wang, Yuan Du, Li Du, Shanghang Zhang</g> <br />
+        <b>Rongyu Zhang*</b><g>, Yijiang Liu*, Huanrui Yang*, Kurt Keutzer, Dan Wang, Yuan Du, Li Du, Shanghang Zhang</g> <br />
         <p>
             <a href="https://arxiv.org/pdf/2404.08985.pdf" class="button-59">PDF</a>
             <a href="https://github.com/RoyZry98" class="button-59">Code</a>
@@ -587,7 +586,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
     </li>
     <li first_authored=true category="Efficiency">
         <venue1>arXiv'24</venue1><pt>Implicit Neural Image Field for Biological Microscopy Image Compression</pt><br>
-        <g>Gaole Dai, Cheng-Ching Tseng*, Qingpo Wuwu*</g>, <b>Rongyu Zhang*</b>,  <g>Shaokang Wan*, Ming Lu, Tiejun Huang, Yu Zhou, Ali Ata Tuz, Matthias Gunzer, Jianxu Chen, Shanghang Zhang</g> <br />
+        <g>Gaole Dai, Cheng-Ching Tseng*, Qingpo Wuwu*, </g><b>Rongyu Zhang*</b><g>, Shaokang Wan*, Ming Lu, Tiejun Huang, Yu Zhou, Ali Ata Tuz, Matthias Gunzer, Jianxu Chen, Shanghang Zhang</g> <br />
         <p>
             <a href="http://arxiv.org/abs/2405.19012" class="button-59">PDF</a>
             <a href="https://github.com/RoyZry98/INIF-Pytorch" class="button-59">Code</a>
