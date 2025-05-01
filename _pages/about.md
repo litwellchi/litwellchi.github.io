@@ -509,7 +509,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         </p>
     </li>
     <li category="Generalization">
-        <venue1>ICML'25</venue1><pt>EVA: An Embodied World Model for Future Video Anticipation</pt><br>
+        <venue>ICML'25</venue><pt>EVA: An Embodied World Model for Future Video Anticipation</pt><br>
         <g>Xiaowei Chi, Hengyuan Zhang, Chun-Kai Fan, Xingqun Qi, </g><b>Rongyu Zhang</b><g>, Anthony Chen, Chi-min Chan, Wei Xue, Wenhan Luo, Shanghang Zhang, Yike Guo</g> <br />
         <p>
             <a href="https://arxiv.org/pdf/2405.16486" class="button-59">PDF</a>
