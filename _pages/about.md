@@ -328,6 +328,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
 	    <h4>📌 We have several academic intern positions at HMI Lab (Peking University). We actively work on AI4Science and Embodied AI. If you like what we do, don't hesitate to contact me.</h4>
+	    <p>[04.2025] 🎉 One paper <strong>UTMP</strong> was accepted by <strong>IEEE TMC</strong> (CCF-A) as first author.</p>
 	    <p>[05.2025] 🎉 One paper <strong>EVA</strong> was accepted by <strong>ICML 2025</strong> (CCF-A).</p>
 	    <p>[04.2025] 🎉 One paper <strong>FBQuant</strong> was accepted by <strong>IJCAI 2025</strong> (CCF-A).</p>
 	    <p>[04.2025] 🎉 One paper <strong>RepCaM++</strong> was accepted by <strong>IEEE TMC</strong> (CCF-A) as first author.</p>
@@ -375,6 +376,17 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC'2025</div><img src='images/tcsvt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Unimodal Training-Multimodal Prediction: Cross-modal Federated Learning with Hierarchical Aggregation**
+
+- **Rongyu Zhang**, Xiaowei Chi, Wenyi Zhang, Guiliang Liu, Dan Wang, Fangxin Wang
+- IEEE Transactions on Mobile Computing <br><strong>(TMC|CCF-A)</strong>, 2025.
+- [[Paper]](https://arxiv.org/pdf/2303.15486) [[Code]](https://github.com/RoyZry98)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC'2024</div><img src='images/mupfl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -408,17 +420,6 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT'2025</div><img src='images/tcsvt.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**BEVUDA++: Geometric-aware Unsupervised Domain Adaptation for Multi-View 3D Object Detection**
-
-- **Rongyu Zhang**, Jiaming Liu, Xiaoqi Li, Xiaowei Chi, Dan Wang, Li Du, Yuan Du, Shanghang Zhang
-- IEEE Transactions on Circuits and Systems for Video Technology <br><strong>(TCSVT|CAS-Q1)</strong>, 2025.
-- [[Paper]](https://ieeexplore.ieee.org/document/10816404) [[Code] ![](https://img.shields.io/github/stars/liujiaming1996/BEVUDA?style=social)](https://github.com/liujiaming1996/BEVUDA)
-</div>
-</div>
-
 ## 📚 Full publications
 *: Equal Contribution.<br>
 CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, <venue>TMC</venue>x 2, <venue>TCSVT</venue>x 1 <br><br>
@@ -429,6 +430,14 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
 <button class="filter" type="button" onclick="filterPub('Generalization')">Generalization</button>&nbsp;
 
 <ul id="publications">
+    <li first_authored=true category="Generalization">
+        <venue>TMC'25</venue><pt>Unimodal Training-Multimodal Prediction: Cross-modal Federated Learning with Hierarchical Aggregation</pt><br>
+        <b>Rongyu Zhang</b><g>, Xiaowei Chi, Wenyi Zhang, Guiliang Liu, Dan Wang, Fangxin Wang</g> <br />
+        <p>
+            <a href="https://arxiv.org/pdf/2303.15486" class="button-59">PDF</a>
+            <a href="https://github.com/RoyZry98" class="button-59">Code</a>
+        </p>
+    </li>
     <li first_authored=true category="Efficiency">
         <venue>TMC'25</venue><pt>RepCaM++: Exploring Transparent Visual Prompt with Inference-time Re-parameterization for Neural Video Delivery</pt><br>
         <b>Rongyu Zhang</b><g>, Xize Duan, Jiaming Liu, Li Du, Yuan Du, Dan Wang, Shanghang Zhang, Fangxin Wang</g><br>
@@ -610,14 +619,6 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
             <a href="https://arxiv.org/pdf/2407.20962" class="button-59">PDF</a>
             <a href="https://github.com/litwellchi/MMTrail" class="button-59">Code</a>
 	    <img src="https://img.shields.io/github/stars/litwellchi/MMTrail?style=social" class="star-badge" alt="GitHub Stars">
-        </p>
-    </li>
-    <li first_authored=true category="Generalization">
-        <venue1>arXiv'23</venue1><pt>Unimodal Training-Multimodal Prediction: Cross-modal Federated Learning with Hierarchical Aggregation</pt><br>
-        <b>Rongyu Zhang</b><g>, Xiaowei Chi, Wenyi Zhang, Guiliang Liu, Fangxin Wang</g> <br />
-        <p>
-            <a href="https://arxiv.org/pdf/2303.15486" class="button-59">PDF</a>
-            <a href="https://github.com/RoyZry98" class="button-59">Code</a>
         </p>
     </li>
 </ul>
