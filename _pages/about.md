@@ -295,10 +295,10 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
     <ul>
       <li><strong>First</strong> China Association for Science and Technology “<strong>Young Talent Support Project Doctoral Special Program</strong>”, 2025-2027</li>
       <li><a href="https://scholar.google.com/citations?user=rRcc9eoAAAAJ&hl=zh-CN" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Scholar-476%20Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Google Scholar Citations">
+  <img src="https://img.shields.io/badge/Google%20Scholar-483%20Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Google Scholar Citations">
 </a></li>
 	<li><a href="https://github.com/RoyZry98" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Stars%20252-9cf?logo=GitHub&labelColor=f6f6f6&color=EC707D&logoColor=000000&style=flat" alt="GitHub Stars">
+  <img src="https://img.shields.io/badge/GitHub-Stars%20259-9cf?logo=GitHub&labelColor=f6f6f6&color=EC707D&logoColor=000000&style=flat" alt="GitHub Stars">
 </a></li>
     </ul>
   </div>
@@ -570,7 +570,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
     </li>
     <li first_authored=true category="Generalization">
         <venue1>arXiv'25</venue1><pt>MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation</pt><br>
-        <b>Rongyu Zhang*</b><g>, Menghang Dong, Yuan Zhang, Liang Heng, Xiaowei Chi, Gaole Dai, Li Du, Yuan Du, Yanbing Jiang, Shanghang Zhang</g> <br />
+        <b>Rongyu Zhang*</b><g>, Menghang Dong, Yuan Zhang, Liang Heng, Xiaowei Chi, Gaole Dai, Li Du, Dan Wang, Yuan Du, Shanghang Zhang</g> <br />
         <p>
             <a href="http://arxiv.org/abs/2503.20384" class="button-59">PDF</a>
             <a href="https://github.com/RoyZry98/MoLe-VLA-Pytorch" class="button-59">Code</a>
