@@ -588,10 +588,11 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
     </li>
     <li first_authored=true category="Efficiency">
         <venue1>arXiv'24</venue1><pt>T-REX: Mixture-of-Rank-One-Experts with semantic-aware Intuition for Multi-task Large Language Model Finetuning</pt><br>
-        <b>Rongyu Zhang*</b><g>, Yijiang Liu*, Huanrui Yang*, Kurt Keutzer, Dan Wang, Yuan Du, Li Du, Shanghang Zhang</g> <br />
+        <b>Rongyu Zhang*</b><g>, Yijiang Liu*, Huanrui Yang*, Shenli Zheng, Chongkang Tan, Dan Wang, Yuan Du, Li Du, Shanghang Zhang</g> <br />
         <p>
             <a href="https://arxiv.org/pdf/2404.08985.pdf" class="button-59">PDF</a>
-            <a href="https://github.com/RoyZry98" class="button-59">Code</a>
+             <a href="https://github.com/RoyZry98/T-REX-Pytorch" class="button-59">Code</a>
+	    <img src="https://img.shields.io/github/stars/RoyZry98/T-REX-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
     <li first_authored=true category="Generalization">
