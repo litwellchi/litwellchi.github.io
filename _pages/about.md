@@ -276,7 +276,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 Biography
-Rongyu is a second-year dual Ph.D. candidate at **Nanjing University** and **The Hong Kong Polytechnic University**, where he is co-supervised by [Prof. Yuan Du](https://iscl.nju.edu.cn/42925/list.htm) and [Prof. Dan Wang](https://www4.comp.polyu.edu.hk/~csdwang/). He is now a visiting student at **Peking University** under the supervision of [Prof. Shanghang Zhang](https://www.shanghangzhang.com). Previously, he received the M.Phil. degree from **The Chinese University of Hong Kong, Shenzhen**, supervised by [Prof. Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/), the B.Mang. and B.Eng. degree from the joint program of **Beijing University of Posts and Telecommunications** and **Queen Mary University of London**. He has published over 10 papers in top-tier CCF-A and CAS-Q1 international conferences and journals such as CVPR, AAAI, TMC, and TCSVT, etc.
+Rongyu is a second-year dual Ph.D. candidate at **Nanjing University** and **The Hong Kong Polytechnic University**, where he is co-supervised by [Prof. Yuan Du](https://iscl.nju.edu.cn/42925/list.htm) and [Prof. Dan Wang](https://www4.comp.polyu.edu.hk/~csdwang/). He is now a visiting student at **Peking University** under the supervision of [Prof. Shanghang Zhang](https://www.shanghangzhang.com). Previously, he received the M.Phil. degree from **The Chinese University of Hong Kong, Shenzhen**, supervised by [Prof. Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/), the B.Mang. and B.Eng. degree from the joint program of **Beijing University of Posts and Telecommunications** and **Queen Mary University of London**. He has published over 10 papers in top-tier CCF-A and CAS-Q1 international conferences and journals such as Nature Computational Science, CVPR, AAAI, TMC, and TCSVT, etc.
 
 Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 
@@ -328,6 +328,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
 	    <h4>📌 We have several academic intern positions at HMI Lab (Peking University). We actively work on AI4Science and Embodied AI. If you like what we do, don't hesitate to contact me.</h4>
+	    <p>[05.2025] 🎉 One paper <strong>INIF</strong> was accepted by <strong>Nature Computational Science</strong> (CAS-Q1).</p>
 	    <p>[05.2025] 🎉 One paper <strong>UTMP</strong> was accepted by <strong>IEEE TMC</strong> (CCF-A) as first author.</p>
 	    <p>[05.2025] 🎉 One paper <strong>EVA</strong> was accepted by <strong>ICML 2025</strong> (CCF-A).</p>
 	    <p>[04.2025] 🎉 One paper <strong>FBQuant</strong> was accepted by <strong>IJCAI 2025</strong> (CCF-A).</p>
@@ -517,6 +518,15 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
 	    <img src="https://img.shields.io/github/stars/liujiaming1996/BEVUDA?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
+    <li category="Efficiency">
+        <venue>NCS'24</venue><pt>Implicit Neural Image Field for Biological Microscopy Image Compression</pt><br>
+        <g>Gaole Dai, </g><b>Rongyu Zhang*</b><g>, Cheng-Ching Tseng*, Qingpo Wuwu*, Shaokang Wan*, Ming Lu, Tiejun Huang, Yu Zhou, Ali Ata Tuz, Matthias Gunzer, Jianxu Chen, Shanghang Zhang</g> <br />
+        <p>
+            <a href="http://arxiv.org/abs/2405.19012" class="button-59">PDF</a>
+            <a href="https://github.com/RoyZry98/INIF-Pytorch" class="button-59">Code</a>
+	    <img src="https://img.shields.io/github/stars/RoyZry98/INIF-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
+        </p>
+    </li>
     <li category="Generalization">
         <venue>ICML'25</venue><pt>EVA: An Embodied World Model for Future Video Anticipation</pt><br>
         <g>Xiaowei Chi, Hengyuan Zhang, Chun-Kai Fan, Xingqun Qi, </g><b>Rongyu Zhang</b><g>, Anthony Chen, Chi-min Chan, Wei Xue, Wenhan Luo, Shanghang Zhang, Yike Guo</g> <br />
@@ -602,15 +612,6 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
             <a href="https://arxiv.org/pdf/2311.17963" class="button-59">PDF</a>
             <a href="https://github.com/litwellchi/M2Chat" class="button-59">Code</a>
 		<img src="https://img.shields.io/github/stars/litwellchi/M2Chat?style=social" class="star-badge" alt="GitHub Stars">
-        </p>
-    </li>
-    <li first_authored=true category="Efficiency">
-        <venue1>arXiv'24</venue1><pt>Implicit Neural Image Field for Biological Microscopy Image Compression</pt><br>
-        <g>Gaole Dai, </g><b>Rongyu Zhang*</b><g>, Cheng-Ching Tseng*, Qingpo Wuwu*, Shaokang Wan*, Ming Lu, Tiejun Huang, Yu Zhou, Ali Ata Tuz, Matthias Gunzer, Jianxu Chen, Shanghang Zhang</g> <br />
-        <p>
-            <a href="http://arxiv.org/abs/2405.19012" class="button-59">PDF</a>
-            <a href="https://github.com/RoyZry98/INIF-Pytorch" class="button-59">Code</a>
-	    <img src="https://img.shields.io/github/stars/RoyZry98/INIF-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
     <li category="Generalization">
