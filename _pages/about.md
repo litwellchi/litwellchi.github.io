@@ -294,6 +294,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
     <h3>✍️ Given Credits</h3>
     <ul>
       <li><strong>First</strong> CAST “<strong>Young Talent Support Project Doctoral Special Program</strong>”</li>
+      <li>CEDF “<strong>Endeavor Scholarship — Integrated Circuit Talent Development Program</strong>”</li>
       <li><a href="https://scholar.google.com/citations?user=rRcc9eoAAAAJ&hl=zh-CN" target="_blank">
   <img src="https://img.shields.io/badge/Google%20Scholar-498%20Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Google Scholar Citations">
 </a></li>
