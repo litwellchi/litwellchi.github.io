@@ -329,14 +329,14 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
 	    <h4>📌 We have several academic intern positions at HMI Lab (Peking University). We actively work on AI4Science and Embodied AI. If you like what we do, don't hesitate to contact me.</h4>
-	    <p>[05.2025] 📚 I am selected for the China Education Development Foundation “<strong>Endeavor Scholarship — Integrated Circuit Talent Development Program</strong>” (93 recipients nationwide).</p>
+	    <p>[05.2025] 📚 I am selected for the “<strong>Endeavor Scholarship — Integrated Circuit Talent Development Program</strong>” of China Education Development Foundation (93 recipients nationwide).</p>
 	    <p>[05.2025] 🎉 One paper <strong>INIF</strong> was accepted by <strong>Nature Computational Science</strong> (CAS-Q1).</p>
 	    <p>[05.2025] 🎉 One paper <strong>UTMP</strong> was accepted by <strong>IEEE TMC</strong> (CCF-A) as first author.</p>
 	    <p>[05.2025] 🎉 One paper <strong>EVA</strong> was accepted by <strong>ICML 2025</strong> (CCF-A).</p>
 	    <p>[04.2025] 🎉 One paper <strong>FBQuant</strong> was accepted by <strong>IJCAI 2025</strong> (CCF-A).</p>
 	    <p>[04.2025] 🎉 One paper <strong>RepCaM++</strong> was accepted by <strong>IEEE TMC</strong> (CCF-A) as first author.</p>
 	    <p>[03.2025] 💻 <strong>PAT</strong> (AAAI'25) has been applied to Samsung’s on-device applications for smartphones and TVs.</p>
-	    <p>[01.2025] 📚 I am selected for the “<strong>Young Talent Support Project Doctoral Special Program of China Association for Science and Technology</strong>” (First session, 3,226 recipients nationwide)</p>
+	    <p>[01.2025] 📚 I am selected for the First session “<strong>Young Talent Support Project Doctoral Special Program</strong>” of China Association for Science and Technology (3,226 recipients nationwide)</p>
 	    <p>[12.2024] 🎉 One paper <strong>BEVUDA++</strong> was accepted by <strong>IEEE TCSVT</strong> (CAS-Q1) as first author.</p>
 	    <p>[12.2024] 🎉 One paper <strong>PAT</strong> was accepted by <strong>AAAI 2025</strong> (CCF-A).</p>
 	    <p>[12.2024] 🏅 I was named <strong>"Outstanding Ph.D. Candidate"</strong> by NJU.</p>
@@ -632,13 +632,13 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🥇 Honors and Awards
-- *(2025.09)*: &nbsp;Hong Kong Post-Graduate Scholarship (HKPGS) with 18,840¥/month, PolyU
-- *(2025.05)*: &nbsp;The “Endeavor Scholarship — Integrated Circuit Talent Development Program (93 recipients nationwide)” with 100,000¥, China Education Development Foundation (中国教育发展基金会“奋进奖学金—集成电路人才培养”项目)
-- *(2025.01)*: &nbsp;The “Young Talent Support Project Doctoral Special Program (First session, 3,226 recipients nationwide)” with 40,000¥, China Association for Science and Technology (中国科协“青年人才托举工程博士生专项”计划)
-- *(2024.12)*: &nbsp;Outstanding Ph.D. Candidate with 2,000¥/year, NJU
-- *(2024.12)*: &nbsp;"Bank of Jiangsu" Scholarship with 5,000¥, NJU
+- *(2025.09)*: &nbsp;Hong Kong Post-Graduate Scholarship (HKPGS) with 18,840¥/month, The Hong Kong Polytechnic University
+- *(2025.05)*: &nbsp;The “Endeavor Scholarship — Integrated Circuit Talent Development Program (93 recipients nationwide)” with 100,000¥, China Education Development Foundation (中国教育发展基金会“奋进奖学金—集成电路人才培养”项目；全国93人入选)
+- *(2025.01)*: &nbsp;The First Session “Young Talent Support Project Doctoral Special Program (3,226 recipients nationwide)” with 40,000¥, China Association for Science and Technology (首届中国科协“青年人才托举工程博士生专项”计划；全国3,226人入选)
+- *(2024.12)*: &nbsp;Outstanding Ph.D. Candidate with 2,000¥/year, Nanjing University
+- *(2024.12)*: &nbsp;"Bank of Jiangsu" Scholarship with 5,000¥, Nanjing University
 - *(2024.05)*: &nbsp;Jiangsu Province Graduate Research and Practical Innovation Project “Mixture-of-Activation-Sparsity-Experts for Continuous Test-time Adaptation” with 15,000¥, Jiangsu Provincial Department of Education (江苏省"研究生科研与实践创新"计划)
-- *(2023.10)*: &nbsp;The 2nd place of the SHIFT Challenge 2023 - Continuous Test-time Adaptation for Semantic Segmentation in the challenges of VCL Workshop with 2,000$, ICCV
+- *(2023.10)*: &nbsp;The 2nd place of the SHIFT Challenge 2023 - Continuous Test-time Adaptation for Semantic Segmentation in the challenges of VCL Workshop with 2,000$, International Conference on Computer Vision
 
 <br>
 
@@ -656,7 +656,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025
 - ACM International Conference on Multimedia (MM) 2024, 2025
 - IEEE/CVF International Conference on Computer Vision (ICCV) 2023, 2025
-- Annual Conference on Neural Information Processing Systems (NIPS) 2025
+- Annual Conference on Neural Information Processing Systems (NeurIPS) 2025
 
 <br>
 
