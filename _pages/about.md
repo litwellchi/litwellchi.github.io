@@ -296,10 +296,10 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
       <li><strong>First</strong> CAST “<strong>Young Talent Support Project Doctoral Special Program</strong>”</li>
       <li>CEDF “<strong>Endeavor Scholarship — Integrated Circuit Talent Program</strong>”</li>
       <li><a href="https://scholar.google.com/citations?user=rRcc9eoAAAAJ&hl=zh-CN" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Scholar-500%20Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Google Scholar Citations">
+  <img src="https://img.shields.io/badge/Google%20Scholar-503%20Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Google Scholar Citations">
 </a></li>
 	<li><a href="https://github.com/RoyZry98" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Stars%20275-9cf?logo=GitHub&labelColor=f6f6f6&color=EC707D&logoColor=000000&style=flat" alt="GitHub Stars">
+  <img src="https://img.shields.io/badge/GitHub-Stars%20279-9cf?logo=GitHub&labelColor=f6f6f6&color=EC707D&logoColor=000000&style=flat" alt="GitHub Stars">
 </a></li>
     </ul>
   </div>
@@ -602,7 +602,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         <venue1>arXiv'24</venue1><pt>T-REX: Mixture-of-Rank-One-Experts with semantic-aware Intuition for Multi-task Large Language Model Finetuning</pt><br>
         <b>Rongyu Zhang*</b><g>, Yijiang Liu*, Huanrui Yang*, Shenli Zheng, Chongkang Tan, Dan Wang, Yuan Du, Li Du, Shanghang Zhang</g> <br />
         <p>
-            <a href="https://arxiv.org/pdf/2404.08985.pdf" class="button-59">PDF</a>
+            <a href="https://arxiv.org/pdf/2404.08985" class="button-59">PDF</a>
              <a href="https://github.com/RoyZry98/T-REX-Pytorch" class="button-59">Code</a>
 	    <img src="https://img.shields.io/github/stars/RoyZry98/T-REX-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
         </p>
@@ -687,7 +687,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
     <ul>
 	<img src="images/friends.png" alt="friend Image" style="display: block; margin: auto; max-width: 100%; height: auto;">
       <br>
-	    <li>My closest academic friends: <a href='https://liujiaming1996.github.io/'>Jiaming Liu</a>, <a href='https://scholar.google.com/citations?user=SgeV4NkAAAAJ&hl=zh-CN&oi=ao'>Yulin Luo</a>, <a href='https://gumpest.github.io/'>Yuan Zhang</a>, and Gaole Dai from PKU; <a href='https://scholar.google.com/citations?hl=zh-CN&user=Vl1X_-sAAAAJ'>Xiaowei Chi</a> from HKUST; <a href='https://www.liuyijiang.com/'>Yijiang Liu</a> from NJU; <a href='https://wuchenrui.github.io/'>Chenrui Wu</a> from ZJU&SFU; <a href='https://yilijin.github.io/'>Yili Jin</a> and <a href='https://slyfooox666.github.io/Kaiyuan_Hu/'>Kaiyuan Hu</a> from McGill.</li>
+	    <li>My closest academic friends: <a href='https://liujiaming1996.github.io/'>Jiaming Liu</a>, <a href='https://scholar.google.com/citations?user=SgeV4NkAAAAJ&hl=zh-CN&oi=ao'>Yulin Luo</a>, <a href='https://gumpest.github.io/'>Yuan Zhang</a>, and <a href='https://scholar.google.com/citations?user=2Of6xZUAAAAJ&hl=zh-CN'>Gaole Dai</a> from PKU; <a href='https://scholar.google.com/citations?hl=zh-CN&user=Vl1X_-sAAAAJ'>Xiaowei Chi</a> from HKUST; <a href='https://www.liuyijiang.com/'>Yijiang Liu</a> from NJU; <a href='https://wuchenrui.github.io/'>Chenrui Wu</a> from ZJU&SFU; <a href='https://yilijin.github.io/'>Yili Jin</a> and <a href='https://slyfooox666.github.io/Kaiyuan_Hu/'>Kaiyuan Hu</a> from McGill.</li>
     </ul>
   </div>
   
