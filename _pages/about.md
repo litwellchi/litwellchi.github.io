@@ -296,7 +296,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
       <li><strong>First</strong> CAST “<strong>Young Talent Support Project Doctoral Special Program</strong>”</li>
       <li>CEDF “<strong>Endeavor Scholarship — Integrated Circuit Talent Program</strong>”</li>
       <li><a href="https://scholar.google.com/citations?user=rRcc9eoAAAAJ&hl=zh-CN" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Scholar-503%20Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Google Scholar Citations">
+  <img src="https://img.shields.io/badge/Google%20Scholar-512%20Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Google Scholar Citations">
 </a></li>
 	<li><a href="https://github.com/RoyZry98" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Stars%20280-9cf?logo=GitHub&labelColor=f6f6f6&color=EC707D&logoColor=000000&style=flat" alt="GitHub Stars">
@@ -437,6 +437,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         <venue>TMC'25</venue><pt>Unimodal Training-Multimodal Prediction: Cross-modal Federated Learning with Hierarchical Aggregation</pt><br>
         <b>Rongyu Zhang</b><g>, Xiaowei Chi, Wenyi Zhang, Guiliang Liu, Dan Wang, Fangxin Wang</g> <br />
         <p>
+	    <img src="https://img.shields.io/badge/CCF-A-red">
             <a href="https://arxiv.org/pdf/2303.15486" class="button-59">PDF</a>
             <a href="https://github.com/RoyZry98" class="button-59">Code</a>
         </p>
