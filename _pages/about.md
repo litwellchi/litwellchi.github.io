@@ -385,7 +385,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 **Unimodal Training-Multimodal Prediction: Cross-modal Federated Learning with Hierarchical Aggregation**
 
 - **Rongyu Zhang**, Xiaowei Chi, Wenyi Zhang, Guiliang Liu, Dan Wang, Fangxin Wang
-- IEEE Transactions on Mobile Computing <br><strong>(TMC|CCF-A)</strong>, 2025.
+- IEEE Transactions on Mobile Computing <br><strong>(TMC|CCF-A)</strong>, 2025. <img src="https://img.shields.io/badge/CCF-A-blue">
 - [[Paper]](https://arxiv.org/pdf/2303.15486) [[Code]](https://github.com/RoyZry98)
 </div>
 </div>
