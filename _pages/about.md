@@ -424,14 +424,12 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 </div>
 
 ## 📚 Full publications
-*: Equal Contribution.<br>
-CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, <venue>TMC</venue>x 3, <venue>TCSVT</venue>x 1 <br><br>
-CCF-A/CAS-Q1: <img src="https://img.shields.io/badge/badge-red-red">, CCF-B/CAS-Q2: <img src="https://img.shields.io/badge/badge-blue-blue">, Others: <img src="https://img.shields.io/badge/badge-green-green"><br><br>
+*: Equal Contribution. CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, <venue>TMC</venue>x 3, <venue>TCSVT</venue>x 1 <br><br>
 
 <button class="filter" type="button" onclick="filterPub('All')" style="--color: #000; --border: #000">All</button>&nbsp;
 <button class="filter" type="button" onclick="filterPub('First-authored')">First author</button>&nbsp;
 <button class="filter" type="button" onclick="filterPub('Efficiency')">Efficiency</button>&nbsp;
-<button class="filter" type="button" onclick="filterPub('Generalization')">Generalization</button>&nbsp;
+<button class="filter" type="button" onclick="filterPub('Generalization')">Generalization</button>&nbsp;CCF-A/CAS-Q1: <img src="https://img.shields.io/badge/badge-red-red">, CCF-B/CAS-Q2: <img src="https://img.shields.io/badge/badge-blue-blue">, Others: <img src="https://img.shields.io/badge/badge-green-green"><br><br>
 
 <ul id="publications">
     <li category="Efficiency">
