@@ -426,7 +426,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 ## 📚 Full publications
 *: Equal Contribution.<br>
 CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, <venue>TMC</venue>x 3, <venue>TCSVT</venue>x 1 <br>
-CCF-A/CAS-Q1: <img src="https://img.shields.io/badge/badge-red-red">, CCF-B/CAS-Q2: <img src="https://img.shields.io/badge/CCF-blue-blue">, Others: <img src="https://img.shields.io/badge/badge-green-green">,<br>
+CCF-A/CAS-Q1: <img src="https://img.shields.io/badge/badge-red-red">, CCF-B/CAS-Q2: <img src="https://img.shields.io/badge/CCF-blue-blue">, Others: <img src="https://img.shields.io/badge/badge-green-green"><br><br>
 
 <button class="filter" type="button" onclick="filterPub('All')" style="--color: #000; --border: #000">All</button>&nbsp;
 <button class="filter" type="button" onclick="filterPub('First-authored')">First author</button>&nbsp;
@@ -434,6 +434,16 @@ CCF-A/CAS-Q1: <img src="https://img.shields.io/badge/badge-red-red">, CCF-B/CAS-
 <button class="filter" type="button" onclick="filterPub('Generalization')">Generalization</button>&nbsp;
 
 <ul id="publications">
+    <li category="Efficiency">
+        <venue>NCS'24</venue><pt>Implicit Neural Image Field for Biological Microscopy Image Compression</pt><br>
+        <g>Gaole Dai, </g><b>Rongyu Zhang*</b><g>, Cheng-Ching Tseng*, Qingpo Wuwu*, Shaokang Wan*, Ming Lu, Tiejun Huang, Yu Zhou, Ali Ata Tuz, Matthias Gunzer, Jianxu Chen, Shanghang Zhang</g> <br />
+        <p>
+		<img src="https://img.shields.io/badge/CAS-Q1-red">
+            <a href="http://arxiv.org/abs/2405.19012" class="button-59">PDF</a>
+            <a href="https://github.com/RoyZry98/INIF-Pytorch" class="button-59">Code</a>
+	    <img src="https://img.shields.io/github/stars/RoyZry98/INIF-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
+        </p>
+    </li>
     <li first_authored=true category="Generalization">
         <venue>TMC'25</venue><pt>Unimodal Training-Multimodal Prediction: Cross-modal Federated Learning with Hierarchical Aggregation</pt><br>
         <b>Rongyu Zhang</b><g>, Xiaowei Chi, Wenyi Zhang, Guiliang Liu, Dan Wang, Fangxin Wang</g> <br />
@@ -441,6 +451,25 @@ CCF-A/CAS-Q1: <img src="https://img.shields.io/badge/badge-red-red">, CCF-B/CAS-
 	    <img src="https://img.shields.io/badge/CCF-A-red">
             <a href="https://arxiv.org/pdf/2303.15486" class="button-59">PDF</a>
             <a href="https://github.com/RoyZry98" class="button-59">Code</a>
+        </p>
+    </li>
+    <li category="Generalization">
+        <venue>ICML'25</venue><pt>EVA: An Embodied World Model for Future Video Anticipation</pt><br>
+        <g>Xiaowei Chi, Hengyuan Zhang, Chun-Kai Fan, Xingqun Qi, </g><b>Rongyu Zhang</b><g>, Anthony Chen, Chi-min Chan, Wei Xue, Wenhan Luo, Shanghang Zhang, Yike Guo</g> <br />
+        <p>
+		<img src="https://img.shields.io/badge/CCF-A-red">
+            <a href="https://arxiv.org/pdf/2405.16486" class="button-59">PDF</a>
+            <a href="https://github.com/litwellchi/EmbodiedVideoAnticipator" class="button-59">Code</a>
+	    <img src="https://img.shields.io/github/stars/litwellchi/EmbodiedVideoAnticipator?style=social" class="star-badge" alt="GitHub Stars">
+        </p>
+    </li>
+    <li category="Efficiency">
+        <venue>IJCAI'25</venue><pt>FBQuant: FeedBack Quantization for Large Language Models</pt><br>
+        <g>Yijiang Liu, Hengyu Fang, Liulu He, </g><b>Rongyu Zhang</b><g>, Yichuan Bai, Yuan Du, Li Du</g><br />
+        <p>
+		<img src="https://img.shields.io/badge/CCF-A-red">
+            <a href="https://arxiv.org/pdf/2501.16385" class="button-59">PDF</a>
+	    <a href="https://github.com/RoyZry98" class="button-59">Code</a>
         </p>
     </li>
     <li first_authored=true category="Efficiency">
@@ -451,6 +480,16 @@ CCF-A/CAS-Q1: <img src="https://img.shields.io/badge/badge-red-red">, CCF-B/CAS-
 		<a href="https://www.computer.org/csdl/journal/tm/5555/01/10949820/25DZuw4IHTy" class="button-59">PDF</a>
 		<a class="button-59" href="https://github.com/RoyZry98/RepCaM-Pytorch">Code</a>
 		<img src="https://img.shields.io/github/stars/RoyZry98/RepCaM-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
+        </p>
+    </li>
+    <li category="Efficiency">
+        <venue>AAAI'25</venue><pt>PAT: Pruning-Aware Tuning for Large Language Models</pt><br>
+        <g>Yijiang Liu, Huanrui Yang, Youxin Chen, </g><b>Rongyu Zhang</b><g>, Miao Wang, Yuan Du, Li Du</g><br />
+        <p>
+		<img src="https://img.shields.io/badge/CCF-A-red">
+            <a href="https://arxiv.org/abs/2006.04558" class="button-59">PDF</a>
+	    <a href="https://github.com/kriskrisliu/PAT" class="button-59">Code</a>
+	    <img src="https://img.shields.io/github/stars/kriskrisliu/PAT?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
     <li first_authored=true category="Generalization">
@@ -492,13 +531,14 @@ CCF-A/CAS-Q1: <img src="https://img.shields.io/badge/badge-red-red">, CCF-B/CAS-
 		<a class="button-59" href="https://github.com/RoyZry98">Code</a>
 	</p>
     </li>
-    <li first_authored=true category="Efficiency">
-        <venue>Network'23</venue><pt>Optimizing Efficient Personalized Federated Learning with Hypernetworks at Edge</pt><br>
-        <b>Rongyu Zhang</b><g>, Yun Chen, Chenrui Wu, Fangxin Wang, Jiangchuan Liu</g><br />
+    <li first_authored=true category="Generalization">
+        <venue>ICRA'24</venue><pt>BEVUDA: Multi-geometric Space Alignments for Domain Adaptive BEV 3D Object Detection</pt><br>
+        <g>Jiaming Liu*, </g><b>Rongyu Zhang*</b><g>, Xiaowei Chi, Xiaoqi Li, Ming Lu, Yandong Guo, Shanghang Zhang</g><br />
         <p>
-		<img src="https://img.shields.io/badge/CAS-Q3-green">
+		<img src="https://img.shields.io/badge/CCF-B-blue">
             <a href="https://arxiv.org/pdf/2211.17126" class="button-59">PDF</a>
-            <a href="https://github.com/RoyZry98" class="button-59">Code</a>
+	    <a class="button-59" href="https://github.com/liujiaming1996/BEVUDA">Code</a>
+	    <img src="https://img.shields.io/github/stars/liujiaming1996/BEVUDA?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
     <li first_authored=true category="Efficiency">
@@ -521,53 +561,13 @@ CCF-A/CAS-Q1: <img src="https://img.shields.io/badge/badge-red-red">, CCF-B/CAS-
 	    <a href="https://github.com/RoyZry98" class="button-59">Code</a>
         </p>
     </li>
-    <li first_authored=true category="Generalization">
-        <venue>ICRA'24</venue><pt>BEVUDA: Multi-geometric Space Alignments for Domain Adaptive BEV 3D Object Detection</pt><br>
-        <g>Jiaming Liu*, </g><b>Rongyu Zhang*</b><g>, Xiaowei Chi, Xiaoqi Li, Ming Lu, Yandong Guo, Shanghang Zhang</g><br />
+    <li first_authored=true category="Efficiency">
+        <venue>Network'23</venue><pt>Optimizing Efficient Personalized Federated Learning with Hypernetworks at Edge</pt><br>
+        <b>Rongyu Zhang</b><g>, Yun Chen, Chenrui Wu, Fangxin Wang, Jiangchuan Liu</g><br />
         <p>
-		<img src="https://img.shields.io/badge/CCF-B-blue">
+		<img src="https://img.shields.io/badge/CAS-Q3-green">
             <a href="https://arxiv.org/pdf/2211.17126" class="button-59">PDF</a>
-	    <a class="button-59" href="https://github.com/liujiaming1996/BEVUDA">Code</a>
-	    <img src="https://img.shields.io/github/stars/liujiaming1996/BEVUDA?style=social" class="star-badge" alt="GitHub Stars">
-        </p>
-    </li>
-    <li category="Efficiency">
-        <venue>NCS'24</venue><pt>Implicit Neural Image Field for Biological Microscopy Image Compression</pt><br>
-        <g>Gaole Dai, </g><b>Rongyu Zhang*</b><g>, Cheng-Ching Tseng*, Qingpo Wuwu*, Shaokang Wan*, Ming Lu, Tiejun Huang, Yu Zhou, Ali Ata Tuz, Matthias Gunzer, Jianxu Chen, Shanghang Zhang</g> <br />
-        <p>
-		<img src="https://img.shields.io/badge/CAS-Q1-red">
-            <a href="http://arxiv.org/abs/2405.19012" class="button-59">PDF</a>
-            <a href="https://github.com/RoyZry98/INIF-Pytorch" class="button-59">Code</a>
-	    <img src="https://img.shields.io/github/stars/RoyZry98/INIF-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
-        </p>
-    </li>
-    <li category="Generalization">
-        <venue>ICML'25</venue><pt>EVA: An Embodied World Model for Future Video Anticipation</pt><br>
-        <g>Xiaowei Chi, Hengyuan Zhang, Chun-Kai Fan, Xingqun Qi, </g><b>Rongyu Zhang</b><g>, Anthony Chen, Chi-min Chan, Wei Xue, Wenhan Luo, Shanghang Zhang, Yike Guo</g> <br />
-        <p>
-		<img src="https://img.shields.io/badge/CCF-A-red">
-            <a href="https://arxiv.org/pdf/2405.16486" class="button-59">PDF</a>
-            <a href="https://github.com/litwellchi/EmbodiedVideoAnticipator" class="button-59">Code</a>
-	    <img src="https://img.shields.io/github/stars/litwellchi/EmbodiedVideoAnticipator?style=social" class="star-badge" alt="GitHub Stars">
-        </p>
-    </li>
-    <li category="Efficiency">
-        <venue>IJCAI'25</venue><pt>FBQuant: FeedBack Quantization for Large Language Models</pt><br>
-        <g>Yijiang Liu, Hengyu Fang, Liulu He, </g><b>Rongyu Zhang</b><g>, Yichuan Bai, Yuan Du, Li Du</g><br />
-        <p>
-		<img src="https://img.shields.io/badge/CCF-A-red">
-            <a href="https://arxiv.org/pdf/2501.16385" class="button-59">PDF</a>
-	    <a href="https://github.com/RoyZry98" class="button-59">Code</a>
-        </p>
-    </li>
-    <li category="Efficiency">
-        <venue>AAAI'25</venue><pt>PAT: Pruning-Aware Tuning for Large Language Models</pt><br>
-        <g>Yijiang Liu, Huanrui Yang, Youxin Chen, </g><b>Rongyu Zhang</b><g>, Miao Wang, Yuan Du, Li Du</g><br />
-        <p>
-		<img src="https://img.shields.io/badge/CCF-A-red">
-            <a href="https://arxiv.org/abs/2006.04558" class="button-59">PDF</a>
-	    <a href="https://github.com/kriskrisliu/PAT" class="button-59">Code</a>
-	    <img src="https://img.shields.io/github/stars/kriskrisliu/PAT?style=social" class="star-badge" alt="GitHub Stars">
+            <a href="https://github.com/RoyZry98" class="button-59">Code</a>
         </p>
     </li>
     <li category="Generalization">
@@ -598,7 +598,7 @@ CCF-A/CAS-Q1: <img src="https://img.shields.io/badge/badge-red-red">, CCF-B/CAS-
 	    <a href="https://github.com/RoyZry98" class="button-59">Code</a>
         </p>
     </li>
-    <li first_authored=true category="Generalization">
+    <li first_authored=true category="Efficiency">
         <venue1>arXiv'25</venue1><pt>MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation</pt><br>
         <b>Rongyu Zhang*</b><g>, Menghang Dong*, Yuan Zhang*, Liang Heng, Xiaowei Chi, Gaole Dai, Li Du, Dan Wang, Yuan Du, Shanghang Zhang</g> <br />
         <p>
