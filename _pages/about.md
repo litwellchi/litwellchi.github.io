@@ -425,8 +425,8 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 
 ## 📚 Full publications
 *: Equal Contribution.<br>
-CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, <venue>TMC</venue>x 3, <venue>TCSVT</venue>x 1 <br>
-CCF-A/CAS-Q1: <img src="https://img.shields.io/badge/badge-red-red">, CCF-B/CAS-Q2: <img src="https://img.shields.io/badge/CCF-blue-blue">, Others: <img src="https://img.shields.io/badge/badge-green-green"><br><br>
+CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, <venue>TMC</venue>x 3, <venue>TCSVT</venue>x 1 <br><br>
+CCF-A/CAS-Q1: <img src="https://img.shields.io/badge/badge-red-red">, CCF-B/CAS-Q2: <img src="https://img.shields.io/badge/badge-blue-blue">, Others: <img src="https://img.shields.io/badge/badge-green-green"><br><br>
 
 <button class="filter" type="button" onclick="filterPub('All')" style="--color: #000; --border: #000">All</button>&nbsp;
 <button class="filter" type="button" onclick="filterPub('First-authored')">First author</button>&nbsp;
