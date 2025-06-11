@@ -593,7 +593,7 @@ CCF-A/CAS-Q1: <img src="https://img.shields.io/badge/badge-red-red">, CCF-B/CAS-
         <venue>IoTJ'23</venue><pt>FedAB: Truthful Federated Learning with Auction-based Combinatorial Multi-armed Bandit</pt><br>
         <g>Chenrui Wu, Yifei Zhu, </g><b>Rongyu Zhang</b><g>, Yun Chen, Fangxin Wang, Shuguang Cui</g><br />
         <p>
-		<img src="https://img.shields.io/badge/CAS-Q2-green">
+		<img src="https://img.shields.io/badge/CAS-Q2-blue">
             <a href="https://ieeexplore.ieee.org/abstract/document/10092911" class="button-59">PDF</a>
 	    <a href="https://github.com/RoyZry98" class="button-59">Code</a>
         </p>
