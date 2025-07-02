@@ -542,7 +542,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         </p>
     </li>
     <li first_authored=true category="Efficiency">
-        <venue>Nossdav'23</venue><pt>RepCaM: Re-parameterization Content-aware Modulation for Neural Video Delivery</pt><br>
+        <venue>Noss'23</venue><pt>RepCaM: Re-parameterization Content-aware Modulation for Neural Video Delivery</pt><br>
         <b>Rongyu Zhang*</b><g>, Lixuan Du*, Jiaming Liu*, Congcong Song, Fangxin Wang, Xiaoqi Li, Ming Lu, Yandong Guo, Shanghang Zhang</g><br />
         <p>
 		<img src="https://img.shields.io/badge/CCF-B-blue">
@@ -562,7 +562,7 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
         </p>
     </li>
     <li first_authored=true category="Efficiency">
-        <venue>Network'23</venue><pt>Optimizing Efficient Personalized Federated Learning with Hypernetworks at Edge</pt><br>
+        <venue>Netw'23</venue><pt>Optimizing Efficient Personalized Federated Learning with Hypernetworks at Edge</pt><br>
         <b>Rongyu Zhang</b><g>, Yun Chen, Chenrui Wu, Fangxin Wang, Jiangchuan Liu</g><br />
         <p>
 		<img src="https://img.shields.io/badge/CAS-Q3-green">
@@ -607,6 +607,15 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
 	    <img src="https://img.shields.io/github/stars/RoyZry98/MoLe-VLA-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
+    <li first_authored=true category="Efficiency">
+        <venue1>arXiv'25</venue1><pt>T-REX: Mixture-of-Rank-One-Experts with semantic-aware Intuition for Multi-task Large Language Model Finetuning</pt><br>
+        <b>Rongyu Zhang*</b><g>, Yijiang Liu*, Huanrui Yang*, Shenli Zheng, Chongkang Tan, Dan Wang, Yuan Du, Li Du, Shanghang Zhang</g> <br />
+        <p>
+            <a href="https://arxiv.org/pdf/2404.08985" class="button-59">PDF</a>
+             <a href="https://github.com/RoyZry98/T-REX-Pytorch" class="button-59">Code</a>
+	    <img src="https://img.shields.io/github/stars/RoyZry98/T-REX-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
+        </p>
+    </li>
     <li first_authored=true category="Generalization">
         <venue1>arXiv'24</venue1><pt>Decomposing the Neural: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation</pt><br>
         <b>Rongyu Zhang*</b><g>, Aosong Cheng*, Yulin Luo*, Gaole Dai, Huanrui Yang, Jiaming Liu, Ran Xu, Li Du, Yuan Du, Yanbing Jiang, Shanghang Zhang</g> <br />
@@ -614,15 +623,6 @@ CCF-A/CAS-Q1 as First-author: <venue>AAAI</venue>x 1, <venue>ACM MM</venue>x 1, 
             <a href="https://arxiv.org/pdf/2405.16486" class="button-59">PDF</a>
             <a href="https://github.com/RoyZry98/MoASE-Pytorch" class="button-59">Code</a>
 	    <img src="https://img.shields.io/github/stars/RoyZry98/MoASE-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
-        </p>
-    </li>
-    <li first_authored=true category="Efficiency">
-        <venue1>arXiv'24</venue1><pt>T-REX: Mixture-of-Rank-One-Experts with semantic-aware Intuition for Multi-task Large Language Model Finetuning</pt><br>
-        <b>Rongyu Zhang*</b><g>, Yijiang Liu*, Huanrui Yang*, Shenli Zheng, Chongkang Tan, Dan Wang, Yuan Du, Li Du, Shanghang Zhang</g> <br />
-        <p>
-            <a href="https://arxiv.org/pdf/2404.08985" class="button-59">PDF</a>
-             <a href="https://github.com/RoyZry98/T-REX-Pytorch" class="button-59">Code</a>
-	    <img src="https://img.shields.io/github/stars/RoyZry98/T-REX-Pytorch?style=social" class="star-badge" alt="GitHub Stars">
         </p>
     </li>
     <li first_authored=true category="Generalization">
