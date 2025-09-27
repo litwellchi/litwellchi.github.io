@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Rongyu Zhang"
-description              : "Dual Ph.D. Candidate majoring in EE & CS."
-repository               : "RoyZry98/RoyZry98.github.io"
+title                    : "Xiaowei Chi"
+description              : "Dual Ph.D. Candidate majoring in AI."
+repository               : "litwellchi.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Rongyu Zhang"
+  name             : "Xiaowei Chi 池晓威"
   avatar           : "images/icon.png"
-  bio              : "NJU & PolyU"
+  bio              : "HKUST"
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=rRcc9eoAAAAJ"
-  email            : "rongyuzhang@smail.nju.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=Vl1X_-sAAAAJ"
+  email            : "xchiaa@connect.ust.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RoyZry98"
+  github           : "litwellchi"
   google_plus      :
   keybase          :
-  instagram        : "royzry"
+  instagram        : "litwell_chi"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rongyu-zhang-2b94a82a5"
+  linkedin         : "www.linkedin.com/in/litwellchi"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
