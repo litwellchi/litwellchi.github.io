@@ -66,6 +66,35 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 
 # 📝 Publications
 ## 📒 Selected publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint'2025</div><img src='images/paper_shot/wow_worldmodel.png' alt="WoW World Model" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**WoW: Towards a World-omniscient World-model Through Embodied Interaction**
+- Xiaowei Chi, Peidong Jia, Chun-Kai Fan, Xiaozhu Ju, Weishi Mi, et.al,
+- Preprint 2025
+- [[Paper]](https://arxiv.org/abs/2405.06413)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML'2025</div><img src='images/paper_shot/eva_embodied.png' alt="EVA Embodied" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**EVA: An Embodied World Model for Future Video Prediction**
+- Xiaowei Chi, Hengyuan Zhang, Chun-Kai Fan, Xingqun Qi, Rongyu Zhang, Anthony Chen, Chi-min Chan, Wei Xue, Wenhan Luo, Shanghang Zhang, Yike Guo
+- ICML 2025
+- [[Paper]](https://arxiv.org/abs/2310.12190) [[Code]](https://github.com/litwellchi/EmbodiedVideoAnticipator)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint'2025</div><img src='images/paper_shot/mind_dual_system.png' alt="MinD Dual System" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**MinD: Unified Visual Imagination and Control via Hierarchical World Models**
+- Xiaowei Chi, Kuangzhi Ge, Jiaming Liu, Siyuan Zhou, Peidong Jia, Zichen He, Yuzhen Liu, Tingguang Li, Lei Han, Sirui Han, Shanghang Zhang, Yike Guo
+- Preprint 2025
+- [[Paper]](https://arxiv.org/abs/2405.06413)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR'2023</div><img src='images/paper_shot/bevsan.png' alt="BEVSAN" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **BEVSAN: Accurate BEV 3D Object Detection via Slice Attention Networks**
@@ -74,36 +103,17 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 - [[Paper]](https://arxiv.org/abs/2211.17126) [[Code]](https://github.com/litwellchi/BEV-SAN)
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML'2025</div><img src='images/paper_shot/eva_embodied.png' alt="EVA Embodied" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**EVA: An Embodied World Model for Future Video Prediction**
-- Xiaowei Chi, Hengyuan Zhang, Chun-Kai Fan, Xingqun Qi, Rongyu Zhang, Anthony Chen, Chi-min Chan, Wei Xue, Wenhan Luo, Shanghang Zhang, Yike Guo
-- ICML 2025 (under review)
-- [[Paper]](https://arxiv.org/abs/2310.12190) [[Code]](https://github.com/litwellchi/EmbodiedVideoAnticipator)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint'2025</div><img src='images/paper_shot/mind_dual_system.png' alt="MinD Dual System" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**MinD: Dual-System World Model for Robotic Manipulation**
-- Xiaowei Chi, et al.
-- Preprint 2025
-- [[Paper]](https://arxiv.org/abs/2405.06413)
-</div>
-</div>
-
 ## 📚 Full publications
 Please visit [Google Scholar](https://scholar.google.com/citations?user=Vl1X_-sAAAAJ) or [DBLP](https://dblp.org/pid/293/7984) for the full list.
 
 <br>
-
+<!-- 
 # 🥇 Honors and Awards
 - *(2025.09)*: &nbsp;Hong Kong Post-Graduate Scholarship (HKPGS), HKUST
 - *(2024.12)*: &nbsp;Outstanding Ph.D. Candidate, HKUST
 - *(2021.09)*: &nbsp;National Scholarship, BUPT
 
-<br>
+<!-- <br>
 
 # 💼 Services
 #### Journal reviewer
@@ -112,13 +122,12 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=Vl1X_-sA
 #### Conference reviewer
 - CVPR 2025
 - ICML 2025
-- AAAI 2025
-
+- AAAI 2025 
 <br>
+--> 
 
 # 💻 Internships
-- **Tencent AI Lab** (2023.07-2023.09) Research Intern
-- **Baidu Research** (2022.07-2022.09) Research Intern
+- **Tencent RoboticsX Lab** (2024.11-2025.08) Research Intern
 
 <br>
 
@@ -129,14 +138,6 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=Vl1X_-sA
 
 # 😄 Miscellaneous
 <div class="highlight-blocks">
-  <div class="highlight-block">
-    <h3>❤️ Family</h3>
-    <ul>
-      <img src="images/self.jpg" alt="family Image" style="display: block; margin: auto; max-width: 100%; height: auto;">
-     <br>
-      <li>I have a lovely family and a cat named QiuQiu 🐱 who brings me joy and inspiration.</li>
-    </ul>
-  </div>
   <div class="highlight-block">
     <h3>🧑‍🤝‍🧑 Friends</h3>
     <ul>
