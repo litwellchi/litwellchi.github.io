@@ -143,7 +143,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=Vl1X_-sA
     <ul>
       <img src="images/friends.png" alt="friend Image" style="display: block; margin: auto; max-width: 100%; height: auto;">
       <br>
-      <li>My closest academic friends: Jiaming Liu, Yulin Luo, Yuan Zhang, Yijiang Liu, Chenrui Wu, Yili Jin, Kaiyuan Hu.</li>
+      <li>My closest academic friends: Jiaming Liu, Xingqun Qi, Kevin Zhang, Kuangzhi Ge, Roy Zhang, and HMIs.</li>
     </ul>
   </div>
   <div class="highlight-block">
@@ -151,7 +151,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=Vl1X_-sA
     <ul>
       <img src="images/football_new.png" alt="hobby Image" style="display: block; margin: auto; max-width: 100%; height: auto;">
       <br>
-      <li>I am a basketball 🏀 & football ⚽️ fan. I enjoy the games of Kevin Durant and Kyrie Irving, and support Chelsea Football Club.</li>
+      <li>I am a football ⚽️ fan. I enjoy the games of Rainbow Six, and support Arsenal Football Club.</li>
     </ul>
   </div>
 </div>
