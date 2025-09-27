@@ -16,7 +16,7 @@ Feel free to visit my academic and social profiles:
 - <a href="https://dblp.org/pid/293/7984" target="_blank">DBLP</a>
 - <a href="https://github.com/litwellchi" target="_blank">GitHub</a>
 - <a href="https://www.linkedin.com/in/litwellchi" target="_blank">LinkedIn</a>
-- <a href="https://twitter.com/RoyZry98" target="_blank">Twitter</a>
+- <a href="https://twitter.com/chitark1" target="_blank">Twitter</a>
 - <a href="https://hkust.edu.hk/" target="_blank">HKUST</a>
 
 Contact:
@@ -38,7 +38,7 @@ Please visit <a href="https://scholar.google.com/citations?user=Vl1X_-sAAAAJ" ta
 # 🌐 Links
 - <a href="https://github.com/litwellchi" target="_blank">GitHub</a>
 - <a href="https://www.linkedin.com/in/litwellchi" target="_blank">LinkedIn</a>
-- <a href="https://twitter.com/RoyZry98" target="_blank">Twitter</a>
+- <a href="https://twitter.com/chitark1" target="_blank">Twitter</a>
 - <a href="https://hkust.edu.hk/" target="_blank">HKUST</a>
 
 ---

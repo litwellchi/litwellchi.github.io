@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaowei Chi 池晓威"
+  name             : "Xiaowei Chi\n池晓威"
   avatar           : "images/icon.png"
   bio              : "HKUST"
   location         : 
@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=Vl1X_-sAAAAJ"
   dblp             : "https://dblp.org/pid/293/7984"
   github           : "litwellchi"
-  twitter          : "RoyZry98"
+  twitter          : "chitark1"
   linkedin         : "www.linkedin.com/in/litwellchi"
   hkust            : "https://hkust.edu.hk/"
   orcid            : # 建议补充你的 ORCID 链接，如有
