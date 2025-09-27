@@ -28,6 +28,12 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Vl1X_-sAAAAJ"
+  dblp             : "https://dblp.org/pid/293/7984"
+  github           : "litwellchi"
+  twitter          : "RoyZry98"
+  linkedin         : "www.linkedin.com/in/litwellchi"
+  hkust            : "https://hkust.edu.hk/"
+  orcid            : # 建议补充你的 ORCID 链接，如有
   email            : "xchiaa@connect.ust.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,21 +43,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "litwellchi"
   google_plus      :
   keybase          :
   instagram        : "litwell_chi"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/litwellchi"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
-  pinterest        :
-  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "RoyZry98"
   vine             :
   weibo            :
   xing             :
