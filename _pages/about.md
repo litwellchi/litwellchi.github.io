@@ -46,8 +46,6 @@ If you would like to chat about life, career planning, or research ideas related
     <h3>🔬 AI Researcher</h3>
     <ul>
       <li>Research interests: <strong>multimodal learning</strong>, <strong>video generation</strong>, <strong>World Model</strong>, and <strong>Embodied AI</strong></li>
-      <li>Efficiency: <strong>Dynamic Neural Networks</strong></li>
-      <li>Generalization: <strong>Embodied AI</strong></li>
     </ul>
   </div>
   <div class="highlight-block">
