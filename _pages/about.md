@@ -34,24 +34,27 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 Biography
-Xiaowei Chi is a dual Ph.D. candidate in Artificial Intelligence at **The Hong Kong University of Science and Technology (HKUST)**. His research interests include multimodal learning, robotics, video generation, and understanding. He has published multiple papers in top-tier conferences and journals such as CVPR, ICML, AAAI, ICRA, etc.
+**Xiaowei Chi** is a Ph.D. candidate in the **Individualized Interdisciplinary Program**, Division of Emerging Interdisciplinary Areas, at **The Hong Kong University of Science and Technology (HKUST)**, under the supervision of **Prof. Yike Guo**. His research focuses on **multimodal generative models in robotics**, with a particular interest in building **world models** to advance **general intelligence in real-world environments**.
+He also works in close collaboration with **Prof. Shanghang Zhang** at **Peking University (PKU)**.
+Xiaowei has published multiple papers in top-tier conferences and journals, including **CVPR**, **ICML**, **AAAI**, and **ICRA**.
 
-Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
+If you would like to chat about life, career planning, or research ideas related to World Model and Embodied AI, feel free to email me to schedule a meeting. I dedicate 1 hour every week for such conversations.
+
 
 <div class="highlight-blocks">
   <div class="highlight-block">
     <h3>🔬 AI Researcher</h3>
     <ul>
-      <li>Research focus on <strong>multimodal learning</strong>, <strong>video generation</strong>, <strong>robotics</strong>, and <strong>autonomous driving</strong></li>
-      <li>Efficiency: Dynamic Neural Network</li>
-      <li>Generalization: Embodied AI</li>
+      <li>Research interests: <strong>multimodal learning</strong>, <strong>video generation</strong>, <strong>World Model</strong>, and <strong>Embodied AI</strong></li>
+      <li>Efficiency: <strong>Dynamic Neural Networks</strong></li>
+      <li>Generalization: <strong>Embodied AI</strong></li>
     </ul>
   </div>
   <div class="highlight-block">
     <h3>☎️ Contact Info</h3>
     <ul>
       <li><strong>Email:</strong> xchiaa@connect.ust.hk</li>
-      <li><strong>Instagram:</strong> litwell_chi</li>
+      <li><strong>Instagram:</strong> @litwell_chi</li>
     </ul>
   </div>
 </div>
