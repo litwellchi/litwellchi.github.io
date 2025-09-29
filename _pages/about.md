@@ -100,7 +100,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 **BEVSAN: Accurate BEV 3D Object Detection via Slice Attention Networks**
 - Xiaowei Chi, Jiaming Liu, Ming Lu, Rongyu Zhang, Zhaoqing Wang, Yandong Guo, Shanghang Zhang
 - CVPR 2023
-- [[Paper]](https://arxiv.org/abs/2211.17126) [[Code]](https://github.com/litwellchi/BEV-SAN)
+- [[Paper]](https://arxiv.org/abs/2212.01231) [[Code]](https://github.com/litwellchi/BEV-SAN)
 </div>
 </div>
 ## 📚 Full publications
@@ -129,12 +129,12 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=Vl1X_-sA
 # 💻 Internships
 - **Tencent RoboticsX Lab** (2024.11-2025.08) Research Intern
 
-<br>
+<!-- <br>
 
 # 🎤 Talks
 - 'Embodied AI and World Models for Video Prediction' @ HKUST, invited by Prof. Yike Guo (2025.08.05)
 
-<br>
+<br> -->
 
 # 😄 Miscellaneous
 <div class="highlight-blocks">
