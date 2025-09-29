@@ -72,7 +72,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 **WoW: Towards a World-omniscient World-model Through Embodied Interaction**
 - Xiaowei Chi, Peidong Jia, Chun-Kai Fan, Xiaozhu Ju, Weishi Mi, et.al,
 - Preprint 2025
-- [[Paper]](https://arxiv.org/abs/2405.06413)
+- [[Paper]](https://arxiv.org/abs/2509.22642)
 </div>
 </div>
 
@@ -81,7 +81,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 **EVA: An Embodied World Model for Future Video Prediction**
 - Xiaowei Chi, Hengyuan Zhang, Chun-Kai Fan, Xingqun Qi, Rongyu Zhang, Anthony Chen, Chi-min Chan, Wei Xue, Wenhan Luo, Shanghang Zhang, Yike Guo
 - ICML 2025
-- [[Paper]](https://arxiv.org/abs/2310.12190) [[Code]](https://github.com/litwellchi/EmbodiedVideoAnticipator)
+- [[Paper]](https://arxiv.org/abs/2410.15461)
 </div>
 </div>
 
@@ -91,7 +91,7 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 **MinD: Unified Visual Imagination and Control via Hierarchical World Models**
 - Xiaowei Chi, Kuangzhi Ge, Jiaming Liu, Siyuan Zhou, Peidong Jia, Zichen He, Yuzhen Liu, Tingguang Li, Lei Han, Sirui Han, Shanghang Zhang, Yike Guo
 - Preprint 2025
-- [[Paper]](https://arxiv.org/abs/2405.06413)
+- [[Paper]](https://arxiv.org/abs/2506.18897) [[Code]](https://github.com/manipulate-in-dream/MinD)
 </div>
 </div>
 
