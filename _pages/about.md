@@ -106,12 +106,12 @@ Feel free to reach out, or learn more from [My CV](assets/curriculum_vitae.pdf).
 ## 📚 Full publications
 Please visit [Google Scholar](https://scholar.google.com/citations?user=Vl1X_-sAAAAJ) or [DBLP](https://dblp.org/pid/293/7984) for the full list.
 
-<br>
+<!-- <br> -->
 <!-- 
 # 🥇 Honors and Awards
 - *(2025.09)*: &nbsp;Hong Kong Post-Graduate Scholarship (HKPGS), HKUST
 - *(2024.12)*: &nbsp;Outstanding Ph.D. Candidate, HKUST
-- *(2021.09)*: &nbsp;National Scholarship, BUPT
+- *(2021.09)*: &nbsp;National Scholarship, BUPT -->
 
 <!-- <br>
 
