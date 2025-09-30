@@ -136,6 +136,6 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=Vl1X_-sA
 <br>
 
 <div style="width: 20%; position:relative; left:40%">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=TexC6zB_7AOUKNMMshe4U4igIY-rca8pyS5kiQ7N6C8"></script>
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=o82dCBYQYuFjyki78TuW83nhdP5vAceJk-N08qEcGgM&cl=ffffff&w=a"></script>
 </div>
 
