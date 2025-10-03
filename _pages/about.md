@@ -73,7 +73,16 @@ If you would like to chat about life, career planning, or research ideas related
 **WoW: Towards a World-omniscient World-model Through Embodied Interaction**
 - Xiaowei Chi, Peidong Jia, Chun-Kai Fan, Xiaozhu Ju, Weishi Mi, et.al,
 - Preprint 2025
-- [[Paper]](https://arxiv.org/abs/2509.22642)
+- [[Paper]](https://arxiv.org/abs/2509.22642) [[Page]](https://wow-world-model.github.io)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint'2025</div><img src='images/paper_shot/dyva.png' alt="WorldLM" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Can World Models Benefit VLMs for World Dynamics?**
+- Kevin Zhang, Kuangzhi Ge, Xiaowei Chi, Renrui Zhang3, Shaojun Shi, Zhen Dong, Sirui Han, Shanghang Zhang
+- Preprint 2025
+- [[Paper]](https://arxiv.org/abs/2510.00855v1) [[Page]](https://dyva-worldlm.github.io)
 </div>
 </div>
 
@@ -82,7 +91,7 @@ If you would like to chat about life, career planning, or research ideas related
 **EVA: An Embodied World Model for Future Video Prediction**
 - Xiaowei Chi, Hengyuan Zhang, Chun-Kai Fan, Xingqun Qi, Rongyu Zhang, Anthony Chen, Chi-min Chan, Wei Xue, Wenhan Luo, Shanghang Zhang, Yike Guo
 - ICML 2025
-- [[Paper]](https://arxiv.org/abs/2410.15461)
+- [[Paper]](https://arxiv.org/abs/2410.15461)- [[page]](https://sites.google.com/view/icml-eva)
 </div>
 </div>
 
