@@ -49,7 +49,7 @@ Xiaowei has published multiple papers in top-tier conferences and journals, incl
 }
 </style>
 
-<p>I'm currently <strong>seeking research internship opportunities</strong> in academia or industry labs. I'm particularly interested in deepening research along topics such as:</p>
+<p>I'm currently <strong>seeking research internship/Visiting opportunities</strong> in academia or industry labs. I'm particularly interested in deepening research along topics such as:</p>
 
 <ul>
   <li><span class="gradient-text">Representation learning in world models</span> — exploring new architectures and representations for modeling complex environments.</li>
