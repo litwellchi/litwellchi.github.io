@@ -156,6 +156,15 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=Vl1X_-sA
       <li>My closest academic friends: Jiaming Liu, Xingqun Qi, Kevin Zhang, Kuangzhi Ge, Roy Zhang, and HMIs.</li>
     </ul>
   </div>
+    <div class="highlight-block">
+    <h3>😄 Cats</h3>
+    <ul>
+      <img src="images/cat.png" alt="hobby Image" style="display: block; margin: auto; max-width: 100%; height: auto;">
+      <br>
+      <li>I have two little kittens — one black, one white. Their names are <strong>Saka</strong> and <strong>Rice</strong>.</li>
+    </ul>
+  </div>
+</div>
   <div class="highlight-block">
     <h3>😄 Hobbies</h3>
     <ul>
