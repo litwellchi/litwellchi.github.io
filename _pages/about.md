@@ -38,7 +38,31 @@ redirect_from:
 He also works in close collaboration with **Prof. Shanghang Zhang** at **Peking University (PKU)**.
 Xiaowei has published multiple papers in top-tier conferences and journals, including **CVPR**, **ICML**, **AAAI**, and **ICRA**.
 
+## 🔍 Internship Opportunities</h2>
+
+<style>
+.gradient-text {
+  background: linear-gradient(90deg, #1e3a8a, #06b6d4); /* 深蓝到青色 */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+}
+</style>
+
+<p>I'm currently <strong>seeking research internship opportunities</strong> in academia or industry labs. I'm particularly interested in deepening research along topics such as:</p>
+
+<ul>
+  <li><span class="gradient-text">representation learning in world models</span> — exploring novel architectures and representation methods to improve the modeling of complex environments,</li>
+  <li><span class="gradient-text">world models for control</span> — applying learned world models to downstream tasks such as embodied decision-making and humanoid control,</li>
+  <li>and exploring <span class="gradient-text">interdisciplinary directions beyond my current focus</span>, where world models can serve as a bridge between AI and other scientific domains.</li>
+</ul>
+
+<p>If you are working on exciting problems in these areas or know of opportunities that align with these interests, feel free to reach out — I’d love to connect!</p>
+
+## Always happy to chat!
 If you would like to chat about life, career planning, or research ideas related to World Model and Embodied AI, feel free to email me to schedule a meeting. I dedicate 1 hour every week for such conversations.
+
+
 
 
 <div class="highlight-blocks">
