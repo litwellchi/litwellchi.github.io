@@ -164,7 +164,6 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=Vl1X_-sA
       <li>I have two little kittens — one black, one white. Their names are <strong>Saka</strong> and <strong>Rice</strong>.</li>
     </ul>
   </div>
-</div>
   <div class="highlight-block">
     <h3>😄 Hobbies</h3>
     <ul>
