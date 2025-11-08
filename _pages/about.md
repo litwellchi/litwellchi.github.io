@@ -87,27 +87,12 @@ If you would like to chat about life, career planning, or research ideas related
 - <img src="images/HKUST.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **The Hong Kong University of Science and Technology (HKUST)**, Dual Ph.D. Candidate in AI
 - <img src="images/BUPT.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Beijing University of Posts and Telecommunications (BUPT)**, B.Eng. in Electronic Engineering
 
-<br>
-
-<br>
-
-#  News
-<div style="height: 200px; overflow-y: auto; font-family: sans-serif; line-height: 1.6;">
-  <div>
-    🔥 <strong>[2025.11]</strong> Three papers accepted by AAAI 2026
-  </div>
-  <br>
-  <div>
-    🔥 <strong>[2025.10]</strong> Our work was featured by CCTV:
+#  📢 News
+-  **[2025.11]** Three papers accepted by AAAI 2026
+- 🔥 **[2025.10]** Our work was featured by CCTV:
     <a href="https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=4438124866231862329&t=1761383777801&toc_style_id=video_default&track_id=D086E9DD-2223-4E10-815B-A9A2BABF3489_783078099087&share_to=wechat_timeline" target="_blank">
       [Beijing: Open-source Embodied World Model — Robots can now unify perception and action]
-    </a>
-  </div>
-  <br>
-  <div>
-    🔥 <strong>[2025.10]</strong> One paper accepted by NeurIPS 2026
-  </div>
-</div>
+-  **[2025.10]** One paper accepted by NeurIPS 2026
 
 
 # 📝 Publications
