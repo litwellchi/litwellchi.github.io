@@ -38,8 +38,7 @@ redirect_from:
 He also works in close collaboration with **Prof. Shanghang Zhang** at **Peking University (PKU)**.
 Xiaowei has published multiple papers in top-tier conferences and journals, including **CVPR**, **ICML**, **AAAI**, and **ICRA**.
 
-## 🔍 Internship Opportunities
-
+## 🔍 Vision
 <style>
 .gradient-text {
   background: linear-gradient(90deg, #1e3a8a, #06b6d4); /* 深蓝到青色 */
@@ -49,13 +48,8 @@ Xiaowei has published multiple papers in top-tier conferences and journals, incl
 }
 </style>
 
-<p>I'm currently <strong>seeking research internship/Visiting opportunities</strong> in academia or industry labs. I'm particularly interested in deepening research along topics such as:</p>
+<p>I'm currently dedicated to creating a new generation of family robots. My goal is to infuse them with vitality through cutting-edge robotics technologies — bringing us closer to making the dream of <span class="gradient-text">>Doraemon-like</span> companions a reality.</p>
 
-<ul>
-  <li><span class="gradient-text">Representation learning in world models</span> — exploring new architectures and representations for modeling complex environments.</li>
-  <li><span class="gradient-text">World models for downstream tasks</span> — applying them to control, decision-making, and 4D environments (e.g. AR/VR, humanoid agents).</li>
-  <li><span class="gradient-text">Interdisciplinary directions</span> — using world models to bridge AI with other scientific domains.</li>
-</ul>
 
 <p>If you are working on exciting problems in these areas or know of opportunities that align with these interests, feel free to reach out — I’d love to connect!</p>
 
