@@ -34,7 +34,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 Biography
-**Xiaowei Chi** is a Ph.D. candidate in the **Individualized Interdisciplinary Program**, Division of Emerging Interdisciplinary Areas, at **The Hong Kong University of Science and Technology (HKUST)**, under the supervision of **Prof. Yike Guo**. His research focuses on **multimodal generative models in robotics**, with a particular interest in building **world models** to advance **general intelligence in real-world environments**.
+**Xiaowei Chi** is a Ph.D. candidate in the **Individualized Interdisciplinary Program**, Division of Emerging Interdisciplinary Areas, at **The Hong Kong University of Science and Technology (HKUST)**, under the supervision of **Prof. Yike Guo, Prof Sirui han**. His research focuses on **multimodal generative models in robotics**, with a particular interest in building **world models** to advance **general intelligence in real-world environments**.
 He also works in close collaboration with **Prof. Shanghang Zhang** at **Peking University (PKU)**.
 Xiaowei has published multiple papers in top-tier conferences and journals, including **CVPR**, **ICML**, **AAAI**, and **ICRA**.
 
